@@ -1,0 +1,137 @@
+ 
+  ----jGRASP exec: java cscd211Lab3.CSCD211Lab3
+ Please enter a positive number: 10
+ 1) Add a value to the ArrayList
+ 2) Delete a value from the ArrayList (by value)
+ 3) Delete a value from the ArrayList (by index/location)
+ 4) Display the ArrayList
+ 5) Compute the mean of the ArrayList
+ 6) Compute the median of the ArrayList
+ 7) Compute the midpoint of the ArrayList
+ 8) Compute the standard deviation of the ArrayList
+ 9) Quit
+ Please enter choice: 4
+ [72.09, 29.52, 76.34, 92.31, 61.97, 51.42, 32.85, 56.66, 5.99, 80.36]
+ 1) Add a value to the ArrayList
+ 2) Delete a value from the ArrayList (by value)
+ 3) Delete a value from the ArrayList (by index/location)
+ 4) Display the ArrayList
+ 5) Compute the mean of the ArrayList
+ 6) Compute the median of the ArrayList
+ 7) Compute the midpoint of the ArrayList
+ 8) Compute the standard deviation of the ArrayList
+ 9) Quit
+ Please enter choice: 1
+ Please enter a positive number between 0 and 100: 30.45
+ 1) Add a value to the ArrayList
+ 2) Delete a value from the ArrayList (by value)
+ 3) Delete a value from the ArrayList (by index/location)
+ 4) Display the ArrayList
+ 5) Compute the mean of the ArrayList
+ 6) Compute the median of the ArrayList
+ 7) Compute the midpoint of the ArrayList
+ 8) Compute the standard deviation of the ArrayList
+ 9) Quit
+ Please enter choice: 4
+ [72.09, 29.52, 76.34, 92.31, 61.97, 51.42, 32.85, 56.66, 5.99, 80.36, 30.45]
+ 1) Add a value to the ArrayList
+ 2) Delete a value from the ArrayList (by value)
+ 3) Delete a value from the ArrayList (by index/location)
+ 4) Display the ArrayList
+ 5) Compute the mean of the ArrayList
+ 6) Compute the median of the ArrayList
+ 7) Compute the midpoint of the ArrayList
+ 8) Compute the standard deviation of the ArrayList
+ 9) Quit
+ Please enter choice: 2
+ Please enter value to be removed: 32.85
+ 1) Add a value to the ArrayList
+ 2) Delete a value from the ArrayList (by value)
+ 3) Delete a value from the ArrayList (by index/location)
+ 4) Display the ArrayList
+ 5) Compute the mean of the ArrayList
+ 6) Compute the median of the ArrayList
+ 7) Compute the midpoint of the ArrayList
+ 8) Compute the standard deviation of the ArrayList
+ 9) Quit
+ Please enter choice: 4
+ [72.09, 29.52, 76.34, 92.31, 61.97, 51.42, 56.66, 5.99, 80.36, 30.45]
+ 1) Add a value to the ArrayList
+ 2) Delete a value from the ArrayList (by value)
+ 3) Delete a value from the ArrayList (by index/location)
+ 4) Display the ArrayList
+ 5) Compute the mean of the ArrayList
+ 6) Compute the median of the ArrayList
+ 7) Compute the midpoint of the ArrayList
+ 8) Compute the standard deviation of the ArrayList
+ 9) Quit
+ Please enter choice: 3
+ Please enter index to be removed: 5
+ 1) Add a value to the ArrayList
+ 2) Delete a value from the ArrayList (by value)
+ 3) Delete a value from the ArrayList (by index/location)
+ 4) Display the ArrayList
+ 5) Compute the mean of the ArrayList
+ 6) Compute the median of the ArrayList
+ 7) Compute the midpoint of the ArrayList
+ 8) Compute the standard deviation of the ArrayList
+ 9) Quit
+ Please enter choice: 4
+ [72.09, 29.52, 76.34, 92.31, 61.97, 56.66, 5.99, 80.36, 30.45]
+ 1) Add a value to the ArrayList
+ 2) Delete a value from the ArrayList (by value)
+ 3) Delete a value from the ArrayList (by index/location)
+ 4) Display the ArrayList
+ 5) Compute the mean of the ArrayList
+ 6) Compute the median of the ArrayList
+ 7) Compute the midpoint of the ArrayList
+ 8) Compute the standard deviation of the ArrayList
+ 9) Quit
+ Please enter choice: 5
+ The Mean is 56.19.
+ 1) Add a value to the ArrayList
+ 2) Delete a value from the ArrayList (by value)
+ 3) Delete a value from the ArrayList (by index/location)
+ 4) Display the ArrayList
+ 5) Compute the mean of the ArrayList
+ 6) Compute the median of the ArrayList
+ 7) Compute the midpoint of the ArrayList
+ 8) Compute the standard deviation of the ArrayList
+ 9) Quit
+ Please enter choice: 6
+ The Median is 61.97.
+ 1) Add a value to the ArrayList
+ 2) Delete a value from the ArrayList (by value)
+ 3) Delete a value from the ArrayList (by index/location)
+ 4) Display the ArrayList
+ 5) Compute the mean of the ArrayList
+ 6) Compute the median of the ArrayList
+ 7) Compute the midpoint of the ArrayList
+ 8) Compute the standard deviation of the ArrayList
+ 9) Quit
+ Please enter choice: 7
+ The Midpoint is 49.15.
+ 1) Add a value to the ArrayList
+ 2) Delete a value from the ArrayList (by value)
+ 3) Delete a value from the ArrayList (by index/location)
+ 4) Display the ArrayList
+ 5) Compute the mean of the ArrayList
+ 6) Compute the median of the ArrayList
+ 7) Compute the midpoint of the ArrayList
+ 8) Compute the standard deviation of the ArrayList
+ 9) Quit
+ Please enter choice: 8
+ The Standard Deviation is 28.45.
+ 1) Add a value to the ArrayList
+ 2) Delete a value from the ArrayList (by value)
+ 3) Delete a value from the ArrayList (by index/location)
+ 4) Display the ArrayList
+ 5) Compute the mean of the ArrayList
+ 6) Compute the median of the ArrayList
+ 7) Compute the midpoint of the ArrayList
+ 8) Compute the standard deviation of the ArrayList
+ 9) Quit
+ Please enter choice: 9
+ 
+  ----jGRASP: operation complete.
+ 

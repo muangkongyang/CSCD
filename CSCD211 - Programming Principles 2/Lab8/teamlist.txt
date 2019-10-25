@@ -1,0 +1,31 @@
+Seattle
+Seahawks
+3
+Russell Wilson
+543-34-9965
+22000000
+Quarterback
+120
+Arthur Copperpants
+992-32-1111
+1500000
+Running Back
+17
+Peter Piper
+523-55-9911
+300000
+Receiver
+8
+Seattle
+Mariners
+2
+Joe Schmoe
+222-33-9823
+3000000
+Center
+.245
+Martin Olsen
+234-23-1895
+10000000
+Pitcher
+.362

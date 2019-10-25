@@ -1,0 +1,24 @@
+Package: letter(10 oz) - Track# 123450 Weight: 10 Length: 12 Width: 12 Status: LOADED
+Package: box(99 lb) - Track# 55555551 Weight: 99 Length: 36 Width: 36 Height: 36 Status: NOT LOADED (box is too big)
+Package: letter(20 oz) - Track# 123890 Weight: 20 Length: 10 Width: 10 Status: LOADED
+Package: metal crate(50 lb) - Track# 656562 Weight: 50 Length: 36 Width: 36 Height: 37 contents: animal Status: LOADED
+Package: wooden crate(50 lb) - Track# 324251223 Weight: 50 Length: 5 Width: 5 Height: 5 contents: fragile Status: LOADED
+Package: letter(1 oz) - Track# 211160 Weight: 1 Length: 1 Width: 1 Status: LOADED
+Package: Not Required - Track#: 324566 Weight: 214 Length: 33 Width: 55 Height: 77
+Package: wooden crate(250 lb) - Track# 123443 Weight: 250 Length: 24 Width: 24 Height: 36 contents: not fragile Status: NOT LOADED (wooden crate is too heavy)
+Package: metal crate(424 lb) - Track# 2198412 Weight: 424 Length: 24 Width: 76 Height: 13 contents: cargo Status: NOT LOADED (metal crate is too big)
+Package: letter(3 oz) - Track# 21498120 Weight: 3 Length: 3 Width: 8 Status: LOADED
+Package: box(5 lb) - Track# 123421 Weight: 5 Length: 7 Width: 6 Height: 5 Status: LOADED
+Package: metal crate(66 lb) - Track# 209842 Weight: 66 Length: 12 Width: 12 Height: 12 contents: cargo Status: LOADED
+Package: letter(11 oz) - Track# 123410 Weight: 11 Length: 11 Width: 3 Status: NOT LOADED (truck is already full)
+Departure Date: 2018/05/17 19:35:59
+Unloading Contents
+Package: box(5 lb) - Track# 123421 Weight: 5 Length: 7 Width: 6 Height: 5
+Package: letter(1 oz) - Track# 211160 Weight: 1 Length: 1 Width: 1
+Package: letter(3 oz) - Track# 21498120 Weight: 3 Length: 3 Width: 8
+Package: letter(10 oz) - Track# 123450 Weight: 10 Length: 12 Width: 12
+Package: letter(20 oz) - Track# 123890 Weight: 20 Length: 10 Width: 10
+Package: metal crate(50 lb) - Track# 656562 Weight: 50 Length: 36 Width: 36 Height: 37 contents: animal
+Package: metal crate(66 lb) - Track# 209842 Weight: 66 Length: 12 Width: 12 Height: 12 contents: cargo
+Total Number of Packages Transported: 8
+Total Weight of Packages Transported: 123.125lbs

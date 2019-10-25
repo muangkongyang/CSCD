@@ -1,0 +1,145 @@
+Please enter the name of the player stu
+Please enter the name of the player dan
+Please enter the word to be guessed (5 or more characters) pepporoni
+dan please enter a letter to guess p
+Your word so far
+p-pp-----
+Your letters used so far
+- - - - - - - - - - - - - - - p - - - - - - - - - - 
+You have 7 guesses left
+dan please enter a letter to guess e
+Your word so far
+pepp-----
+Your letters used so far
+- - - - e - - - - - - - - - - p - - - - - - - - - - 
+You have 7 guesses left
+dan please enter a letter to guess a
+Your word so far
+pepp-----
+Your letters used so far
+a - - - e - - - - - - - - - - p - - - - - - - - - - 
+You have 6 guesses left
+dan please enter a letter to guess o
+Your word so far
+peppo-o--
+Your letters used so far
+a - - - e - - - - - - - - - o p - - - - - - - - - - 
+You have 6 guesses left
+dan please enter a letter to guess r
+Your word so far
+pepporo--
+Your letters used so far
+a - - - e - - - - - - - - - o p - r - - - - - - - - 
+You have 6 guesses left
+dan please enter a letter to guess n
+Your word so far
+pepporon-
+Your letters used so far
+a - - - e - - - - - - - - n o p - r - - - - - - - - 
+You have 6 guesses left
+dan please enter a letter to guess i
+Your word so far
+pepporoni
+Your letters used so far
+a - - - e - - - i - - - - n o p - r - - - - - - - - 
+You have 6 guesses left
+Congrats you won the game
+
+Please enter the name of the player stu
+Please enter the name of the player dan
+Please enter the word to be guessed (5 or more characters) house
+dan please enter a letter to guess a
+Your word so far
+-----
+Your letters used so far
+a - - - - - - - - - - - - - - - - - - - - - - - - - 
+You have 6 guesses left
+dan please enter a letter to guess b
+Your word so far
+-----
+Your letters used so far
+a b - - - - - - - - - - - - - - - - - - - - - - - - 
+You have 5 guesses left
+dan please enter a letter to guess c
+Your word so far
+-----
+Your letters used so far
+a b c - - - - - - - - - - - - - - - - - - - - - - - 
+You have 4 guesses left
+dan please enter a letter to guess d
+Your word so far
+-----
+Your letters used so far
+a b c d - - - - - - - - - - - - - - - - - - - - - - 
+You have 3 guesses left
+dan please enter a letter to guess e
+Your word so far
+----e
+Your letters used so far
+a b c d e - - - - - - - - - - - - - - - - - - - - - 
+You have 3 guesses left
+dan please enter a letter to guess f
+Your word so far
+----e
+Your letters used so far
+a b c d e f - - - - - - - - - - - - - - - - - - - - 
+You have 2 guesses left
+dan please enter a letter to guess g
+Your word so far
+----e
+Your letters used so far
+a b c d e f g - - - - - - - - - - - - - - - - - - - 
+You have 1 guesses left
+dan please enter a letter to guess h
+Your word so far
+h---e
+Your letters used so far
+a b c d e f g h - - - - - - - - - - - - - - - - - - 
+You have 1 guesses left
+dan please enter a letter to guess i
+Your word so far
+h---e
+Your letters used so far
+a b c d e f g h i - - - - - - - - - - - - - - - - - 
+You have 0 guesses left
+Would you like to play again yess
+Would you like to play again yes
+
+Please enter the name of the player stu
+Please enter the name of the player dan
+Please enter the word to be guessed (5 or more characters) helper
+dan please enter a letter to guess h
+Your word so far
+h-----
+Your letters used so far
+- - - - - - - h - - - - - - - - - - - - - - - - - - 
+You have 7 guesses left
+dan please enter a letter to guess e
+Your word so far
+he--e-
+Your letters used so far
+- - - - e - - h - - - - - - - - - - - - - - - - - - 
+You have 7 guesses left
+dan please enter a letter to guess p
+Your word so far
+he-pe-
+Your letters used so far
+- - - - e - - h - - - - - - - p - - - - - - - - - - 
+You have 7 guesses left
+dan please enter a letter to guess l
+Your word so far
+helpe-
+Your letters used so far
+- - - - e - - h - - - l - - - p - - - - - - - - - - 
+You have 7 guesses left
+dan please enter a letter to guess r
+Your word so far
+helper
+Your letters used so far
+- - - - e - - h - - - l - - - p - r - - - - - - - - 
+You have 7 guesses left
+Congrats you won the game
+
+Would you like to play again no
+
+

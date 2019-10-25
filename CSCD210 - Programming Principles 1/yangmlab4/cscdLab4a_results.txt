@@ -1,0 +1,10 @@
+ 
+  ----jGRASP exec: java CSCD210Lab4a
+ Please enter the first integer: 5
+ Please enter the second integer: 1
+ Please enter the third integer: 10
+ The numbers in ascending order: 1, 5, and 10
+ 
+ 
+  ----jGRASP: operation complete.
+ 

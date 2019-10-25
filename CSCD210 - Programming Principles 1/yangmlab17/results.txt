@@ -1,0 +1,59 @@
+ 
+  ----jGRASP exec: java cscd210Lab17.CSCD210Lab17
+ Ace of Clubs, Two of Clubs, Three of Clubs, Four of Clubs, Five of Clubs, Six of Clubs, Seven of Clubs, Eight of Clubs, Nine of Clubs, Ten of Clubs, Jack of Clubs, Queen of Clubs, King of Clubs, Ace of Diamonds, Two of Diamonds, Three of Diamonds, Four of Diamonds, Five of Diamonds, Six of Diamonds, Seven of Diamonds, Eight of Diamonds, Nine of Diamonds, Ten of Diamonds, Jack of Diamonds, Queen of Diamonds, King of Diamonds, Ace of Spades, Two of Spades, Three of Spades, Four of Spades, Five of Spades, Six of Spades, Seven of Spades, Eight of Spades, Nine of Spades, Ten of Spades, Jack of Spades, Queen of Spades, King of Spades, Ace of Hearts, Two of Hearts, Three of Hearts, Four of Hearts, Five of Hearts, Six of Hearts, Seven of Hearts, Eight of Hearts, Nine of Hearts, Ten of Hearts, Jack of Hearts, Queen of Hearts, King of Hearts
+ 
+ Player 1 holds Jack of Hearts Ten of Hearts 
+ Player 2 holds King of Clubs Seven of Diamonds 
+ Player 1 has a better hand
+ 
+ Player 1 holds Queen of Diamonds Nine of Clubs 
+ Player 2 holds Four of Diamonds Nine of Hearts 
+ Player 1 has a better hand
+ 
+ Player 1 holds Six of Clubs Seven of Spades 
+ Player 2 holds Eight of Hearts Seven of Hearts 
+ Player 2 has a better hand
+ 
+ Player 1 holds Jack of Diamonds Ace of Hearts 
+ Player 2 holds Six of Diamonds Two of Hearts 
+ Player 1 has a better hand
+ 
+ Player 1 holds Queen of Clubs Seven of Clubs 
+ Player 2 holds Queen of Spades Jack of Spades 
+ Player 2 has a better hand
+ 
+ Player 1 holds Three of Spades Nine of Diamonds 
+ Player 2 holds Two of Diamonds Ten of Clubs 
+ Player 1 has the same hand as Player 2
+ 
+ Player 1 holds Two of Clubs King of Hearts 
+ Player 2 holds Ten of Diamonds Five of Hearts 
+ Player 1 has the same hand as Player 2
+ 
+ Player 1 holds Ace of Diamonds Five of Diamonds 
+ Player 2 holds Three of Clubs Nine of Spades 
+ Player 2 has a better hand
+ 
+ Player 1 holds Eight of Diamonds King of Diamonds 
+ Player 2 holds Six of Spades Queen of Hearts 
+ Player 1 has a better hand
+ 
+ Player 1 holds Ace of Clubs Five of Spades 
+ Player 2 holds Three of Hearts Ace of Spades 
+ Player 1 has a better hand
+ 
+ Player 1 holds Four of Hearts Three of Diamonds 
+ Player 2 holds Two of Spades Four of Clubs 
+ Player 1 has a better hand
+ 
+ Player 1 holds Five of Clubs Eight of Spades 
+ Player 2 holds Ten of Spades Eight of Clubs 
+ Player 2 has a better hand
+ 
+ Player 1 holds Four of Spades King of Spades 
+ Player 2 holds Jack of Clubs Six of Hearts 
+ Player 1 has the same hand as Player 2
+ 
+ 
+  ----jGRASP: operation complete.
+ 

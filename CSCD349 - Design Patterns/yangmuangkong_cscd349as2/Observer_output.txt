@@ -1,0 +1,11 @@
+		Eye Of Sauron Reports
+Current number of members: 2
+Witch King obtains the report from Eye of Sauron: "Current Enemies: 10 hobbits, 20 dwarves, 50 elves, 100 men."
+Saruman obtains the report from Eye of Sauron: "Current Enemies: 10 hobbits, 20 dwarves, 50 elves, 100 men."
+Witch King obtains the report from Eye of Sauron: "Current Enemies: 3 hobbits, 8 dwarves, 37 elves, 98 men."
+Saruman obtains the report from Eye of Sauron: "Current Enemies: 3 hobbits, 8 dwarves, 37 elves, 98 men."
+	*Saruman has been defeated.
+Witch King obtains the report from Eye of Sauron: "Current Enemies: 1 hobbits, 3 dwarves, 12 elves, 67 men."
+Witch King obtains the report from Eye of Sauron: "Current Enemies: 1 hobbits, 2 dwarves, 1 elves, 5 men."
+	*Witch King has been defeated.
+Current number of members: 0

@@ -1,0 +1,27 @@
+ 
+  ----jGRASP exec: java CSCD210Lab1
+ Please enter your shoe size (no half sizes) 0
+ Please enter your birth year (yyyy) 0
+ The last two numbers are your age and the first number(s) are your shoe size 2017
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java CSCD210Lab1
+ Please enter your shoe size (no half sizes) 9
+ Please enter your birth year (yyyy) 1993
+ The last two numbers are your age and the first number(s) are your shoe size 924
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java CSCD210Lab1
+ Please enter your shoe size (no half sizes) Nine
+ Exception in thread "main" java.util.InputMismatchException
+ 	at java.base/java.util.Scanner.throwFor(Scanner.java:860)
+ 	at java.base/java.util.Scanner.next(Scanner.java:1497)
+ 	at java.base/java.util.Scanner.nextInt(Scanner.java:2161)
+ 	at java.base/java.util.Scanner.nextInt(Scanner.java:2115)
+ 	at CSCD210Lab1.main(CSCD210Lab1.java:11)
+ 
+  ----jGRASP wedge2: exit code for process is 1.
+  ----jGRASP: operation complete.
+ 

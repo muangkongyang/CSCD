@@ -1,0 +1,31 @@
+alg,Algeria
+aus,Australia   
+bel,Belgium  
+bih,Bosnia and Herzegovina
+bra,Brazil 
+cmr,Cameroon
+chi,Chile
+col,Colombia
+crc,Costa Rica   
+civ,Cote d'Ivoire
+cro,Croatia
+ecu,Ecuador
+eng,England
+fra,France
+ger,Germany
+gha,Ghana
+gre,Greece
+hon,Honduras
+irn,Iran
+ita,Italy
+jpn,Japan
+mex,Mexico
+ned,Netherlands
+nga,Nigeria    
+por,Portugal
+rus,Russia
+kor,South Korea
+esp,Spain
+sui,Switzerland
+uru,Uruguay
+usa,United States

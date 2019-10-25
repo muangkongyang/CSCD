@@ -1,0 +1,3495 @@
+ 
+  ----jGRASP exec: java cscd211Lab1.CSCD211Lab1
+ Please enter the name of the file that contains the team names teams.txt
+ 
+ 
+ 1.	Print all Teams to the screen
+ 2.	Print all Teams to the User Specified file
+ 3.	Sort the Teams by Natural Order (Hint: compareTo)
+ 4.	Sort the by Team Country Name (Hint: Comparator)
+ 5.	Sort each Team's Players by Number (Hint: Player compareTo)
+ 6.	Sort each Team's Players by Position (Hint: Comparator)
+ 7.	Print a entire team and only that team to a user specified file
+ 8.	Print the players for an entire team and only that team to the screen
+ 9.	Quit
+ Choice --> 1
+ Country: Algeria
+ Cedric Si Mohamed - Goal Keeper - 1
+ Mohamed Zemmamouche - Goal Keeper - 16
+ Rais M'Bolhi - Goal Keeper - 23
+ Madjid Bougherra - Defensive Midfielder - 2
+ Faouzi Ghoulam - Defensive Midfielder - 3
+ Essaïd Belkalem - Defensive Midfielder - 4
+ Rafik Halliche - Defensive Midfielder - 5
+ Djamel Mesbah - Defensive Midfielder - 6
+ Carl Medjani - Defensive Midfielder - 7
+ Liassine Cadamuro-Bentaïba - Defensive Midfielder - 17
+ Aissa Mandi - Defensive Midfielder - 20
+ Hassan Yebda - Midfielder - 8
+ Sofiane Feghouli - Midfielder - 10
+ Yacine Brahimi - Midfielder - 11
+ Medhi Lacen - Midfielder - 12
+ Nabil Bentaleb - Midfielder - 14
+ Abdelmoumene Djabou - Midfielder - 18
+ Saphir Taïder - Midfielder - 19
+ Riyad Mahrez - Midfielder - 21
+ Mehdi Mostefa - Midfielder - 22
+ Nabil Ghilas - Forward - 9
+ Islam Slimani - Forward - 13
+ El Arbi Hillel Soudani - Forward - 15
+ 
+ 
+ 
+ Country: Australia   
+ Mathew Ryan - Goal Keeper - 1
+ Mitchell Langerak - Goal Keeper - 12
+ Eugene Galeković - Goal Keeper - 18
+ Ivan Franjić - Defensive Midfielder - 2
+ Jason Davidson - Defensive Midfielder - 3
+ Matthew Špiranović - Defensive Midfielder - 6
+ Bailey Wright - Defensive Midfielder - 8
+ Ryan McGowan - Defensive Midfielder - 19
+ Alex Wilkinson - Defensive Midfielder - 22
+ Mark Milligan - Midfielder - 5
+ Ben Halloran - Midfielder - 10
+ Tommy Oar - Midfielder - 11
+ Oliver Bozanić - Midfielder - 13
+ James Troisi - Midfielder - 14
+ Mile Jedinak - Midfielder - 15
+ James Holland - Midfielder - 16
+ Matt McKay - Midfielder - 17
+ Dario Vidošić - Midfielder - 20
+ Massimo Luongo - Midfielder - 21
+ Mark Bresciano - Midfielder - 23
+ Tim Cahill - Forward - 4
+ Mathew Leckie - Forward - 7
+ Adam Taggart - Forward - 9
+ 
+ 
+ 
+ Country: Belgium  
+ Thibaut Courtois - Goal Keeper - 1
+ Simon Mignolet - Goal Keeper - 12
+ Sammy Bossut - Goal Keeper - 13
+ Toby Alderweireld - Defensive Midfielder - 2
+ Thomas Vermaelen - Defensive Midfielder - 3
+ Vincent Kompany - Defensive Midfielder - 4
+ Jan Vertonghen - Defensive Midfielder - 5
+ Daniel Van Buyten - Defensive Midfielder - 15
+ Nicolas Lombaerts - Defensive Midfielder - 18
+ Anthony Vanden Borre - Defensive Midfielder - 21
+ Laurent Ciman - Defensive Midfielder - 23
+ Axel Witsel - Midfielder - 6
+ Kevin De Bruyne - Midfielder - 7
+ Marouane Fellaini - Midfielder - 8
+ Eden Hazard - Midfielder - 10
+ Kevin Mirallas - Midfielder - 11
+ Steven Defour - Midfielder - 16
+ Mousa Dembélé - Midfielder - 19
+ Adnan Januzaj - Midfielder - 20
+ Nacer Chadli - Midfielder - 22
+ Romelu Lukaku - Forward - 9
+ Dries Mertens - Forward - 14
+ Divock Origi - Forward - 17
+ 
+ 
+ 
+ Country: Bosnia and Herzegovina
+ Asmir Begovi - Goal Keeper - 1
+ Jasmin Fejzi - Goal Keeper - 12
+ Asmir Avduki - Goal Keeper - 22
+ Avdija Vröajevi - Defensive Midfielder - 2
+ Ermin Biaki - Defensive Midfielder - 3
+ Emir Spahi - Defensive Midfielder - 4
+ Sead Kolaöinac - Defensive Midfielder - 5
+ Ognjen Vranjeö - Defensive Midfielder - 6
+ Muhamed Beöi - Defensive Midfielder - 7
+ Mensur Mujdûa - Defensive Midfielder - 13
+ Toni äunji - Defensive Midfielder - 15
+ Miralem Pjani - Midfielder - 8
+ Zvjezdan Misimovi - Midfielder - 10
+ Izet Hajrovi - Midfielder - 14
+ Senad Luli - Midfielder - 16
+ Senijad Ibrii - Midfielder - 17
+ Haris Medunjanin - Midfielder - 18
+ Anel Hadûi - Midfielder - 20
+ Tino-Sven Suöi - Midfielder - 21
+ Sejad Salihovi - Midfielder - 23
+ Vedad Ibiöevi - Forward - 9
+ Edin Dûeko - Forward - 11
+ Edin Viöa - Forward - 19
+ 
+ 
+ 
+ Country: Brazil 
+ Jefferson - Goal Keeper - 1
+ Júlio César - Goal Keeper - 12
+ Victor - Goal Keeper - 22
+ Dani Alves - Defensive Midfielder - 2
+ Thiago Silva - Defensive Midfielder - 3
+ David Luiz - Defensive Midfielder - 4
+ Marcelo - Defensive Midfielder - 6
+ Dante - Defensive Midfielder - 13
+ Maxwell - Defensive Midfielder - 14
+ Henrique - Defensive Midfielder - 15
+ Maicon - Defensive Midfielder - 23
+ Fernandinho - Midfielder - 5
+ Paulinho - Midfielder - 8
+ Oscar - Midfielder - 11
+ Ramires - Midfielder - 16
+ Luiz Gustavo - Midfielder - 17
+ Hernanes - Midfielder - 18
+ Willian - Midfielder - 19
+ Hulk - Forward - 7
+ Fred - Forward - 9
+ Neymar - Forward - 10
+ Bernard - Forward - 20
+ Jô - Forward - 21
+ 
+ 
+ 
+ Country: Cameroon
+ Loïc Feudjou - Goal Keeper - 1
+ Charles Itandje - Goal Keeper - 16
+ Sammy N'Djock - Goal Keeper - 23
+ Benoît Assou-Ekotto - Defensive Midfielder - 2
+ Nicolas N'Koulou - Defensive Midfielder - 3
+ Cédric Djeugoué - Defensive Midfielder - 4
+ Dany Nounkeu - Defensive Midfielder - 5
+ Henri Bedimo - Defensive Midfielder - 12
+ Aurélien Chedjou - Defensive Midfielder - 14
+ Allan Nyom - Defensive Midfielder - 22
+ Alex Song - Midfielder - 6
+ Landry N'Guémo - Midfielder - 7
+ Jean Makoun - Midfielder - 11
+ Stéphane Mbia - Midfielder - 17
+ Eyong Enoh - Midfielder - 18
+ Edgar Salli - Midfielder - 20
+ Joël Matip - Midfielder - 21
+ Benjamin Moukandjo - Forward - 8
+ Samuel Eto'o - Forward - 9
+ Vincent Aboubakar - Forward - 10
+ Maxim Choupo-Moting - Forward - 13
+ Pierre Webó - Forward - 15
+ Fabrice Olinga - Forward - 19
+ 
+ 
+ 
+ Country: Chile
+ Claudio Bravo - Goal Keeper - 1
+ Cristopher Toselli - Goal Keeper - 12
+ Johnny Herrera - Goal Keeper - 23
+ Eugenio Mena - Defensive Midfielder - 2
+ Miiko Albornoz - Defensive Midfielder - 3
+ José Rojas - Defensive Midfielder - 13
+ Gary Medel - Defensive Midfielder - 17
+ Gonzalo Jara - Defensive Midfielder - 18
+ Mauricio Isla - Midfielder - 4
+ Francisco Silva - Midfielder - 5
+ Carlos Carmona - Midfielder - 6
+ Arturo Vidal - Midfielder - 8
+ Jorge Valdívia - Midfielder - 10
+ Fabián Orellana - Midfielder - 14
+ Jean Beausejour - Midfielder - 15
+ Felipe Gutiérrez - Midfielder - 16
+ José Pedro Fuenzalida - Midfielder - 19
+ Charles Aránguiz - Midfielder - 20
+ Marcelo Díaz - Midfielder - 21
+ Alexis Sánchez - Forward - 7
+ Mauricio Pinilla - Forward - 9
+ Eduardo Vargas - Forward - 11
+ Esteban Paredes - Forward - 22
+ 
+ 
+ 
+ Country: Colombia
+ David Ospina - Goal Keeper - 1
+ Camilo Vargas - Goal Keeper - 12
+ Faryd MondragÛn - Goal Keeper - 22
+ Cristi·n Zapata - Defensive Midfielder - 2
+ Mario Yepes - Defensive Midfielder - 3
+ Santiago Arias - Defensive Midfielder - 4
+ Pablo Armero - Defensive Midfielder - 7
+ …der ¡lvarez Balanta - Defensive Midfielder - 16
+ Juan Camilo Z˙Òiga - Defensive Midfielder - 18
+ Carlos ValdÈs - Defensive Midfielder - 23
+ Carlos Carbonero - Midfielder - 5
+ Carlos S·nchez - Midfielder - 6
+ Abel Aguilar - Midfielder - 8
+ James RodrÌguez - Midfielder - 10
+ Juan Guillermo Cuadrado - Midfielder - 11
+ Fredy GuarÌn - Midfielder - 13
+ VÌctor Ibarbo - Midfielder - 14
+ Alexander MejÌa - Midfielder - 15
+ Juan Fernando Quintero - Midfielder - 20
+ TeÛfilo GutiÈrrez - Forward - 9
+ Carlos Bacca - Forward - 17
+ Adri·n Ramos - Forward - 19
+ Jackson MartÌnez - Forward - 21
+ 
+ 
+ 
+ Country: Costa Rica   
+ Keylor Navas - Goal Keeper - 1
+ Patrick Pemberton - Goal Keeper - 18
+ Daniel Cambronero - Goal Keeper - 23
+ Johnny Acosta - Defensive Midfielder - 2
+ Giancarlo González - Defensive Midfielder - 3
+ Michael Umaña - Defensive Midfielder - 4
+ Óscar Duarte - Defensive Midfielder - 6
+ Heiner Mora - Defensive Midfielder - 8
+ Waylon Francis - Defensive Midfielder - 12
+ Júnior Díaz - Defensive Midfielder - 15
+ Cristian Gamboa - Defensive Midfielder - 16
+ Roy Miller - Defensive Midfielder - 19
+ Celso Borges - Midfielder - 5
+ Christian Bolaños - Midfielder - 7
+ Michael Barrantes - Midfielder - 11
+ Esteban Granados - Midfielder - 13
+ Yeltsin Tejeda - Midfielder - 17
+ Diego Calvo - Midfielder - 20
+ José Miguel Cubero - Midfielder - 22
+ Joel Campbell - Forward - 9
+ Bryan Ruiz - Forward - 10
+ Randall Brenes - Forward - 14
+ Marco Ureña - Forward - 21
+ 
+ 
+ 
+ Country: Cote d'Ivoire
+ Boubacar Barry - Goal Keeper - 1
+ Sylvain Gbohouo - Goal Keeper - 16
+ Sayouba Mandé - Goal Keeper - 23
+ Ousmane Viera - Defensive Midfielder - 2
+ Arthur Boka - Defensive Midfielder - 3
+ Kolo Touré - Defensive Midfielder - 4
+ Didier Zokora - Defensive Midfielder - 5
+ Jean-Daniel Akpa-Akpro - Defensive Midfielder - 7
+ Serge Aurier - Defensive Midfielder - 17
+ Constant Djakpa - Defensive Midfielder - 18
+ Sol Bamba - Defensive Midfielder - 22
+ Cheick Tioté - Midfielder - 9
+ Didier Ya Konan - Midfielder - 13
+ Ismaël Diomandé - Midfielder - 14
+ Yaya Touré - Midfielder - 19
+ Serey Die - Midfielder - 20
+ Mathis Bolly - Forward - 6
+ Salomon Kalou - Forward - 8
+ Gervinho - Forward - 10
+ Didier Drogba - Forward - 11
+ Wilfried Bony - Forward - 12
+ Max Gradel - Forward - 15
+ Giovanni Sio - Forward - 21
+ 
+ 
+ 
+ Country: Croatia
+ Stipe Pletikosa - Goal Keeper - 1
+ Oliver Zelenika - Goal Keeper - 12
+ Danijel Subaši - Goal Keeper - 23
+ Šime Vrsaljko - Defensive Midfielder - 2
+ Danijel Pranji - Defensive Midfielder - 3
+ Vedran ?orluka - Defensive Midfielder - 5
+ Dejan Lovren - Defensive Midfielder - 6
+ Darijo Srna - Defensive Midfielder - 11
+ Gordon Schildenfeld - Defensive Midfielder - 13
+ Domagoj Vida - Defensive Midfielder - 21
+ Ivan Periši - Midfielder - 4
+ Ivan Rakiti - Midfielder - 7
+ Ognjen Vukojevi - Midfielder - 8
+ Luka Modri - Midfielder - 10
+ Marcelo Brozovi - Midfielder - 14
+ Ivan Molini - Midfielder - 15
+ Sammir - Midfielder - 19
+ Mateo Kovaki - Midfielder - 20
+ Nikica Jelavi - Forward - 9
+ Ante Rebi - Forward - 16
+ Mario Mandžuki - Forward - 17
+ Ivica Oli - Forward - 18
+ Eduardo - Forward - 22
+ 
+ 
+ 
+ Country: Ecuador
+ Máximo Banguera - Goal Keeper - 1
+ Adrián Bone - Goal Keeper - 12
+ Alexander Domínguez - Goal Keeper - 22
+ Jorge Guagua - Defensive Midfielder - 2
+ Frickson Erazo - Defensive Midfielder - 3
+ Juan Carlos Paredes - Defensive Midfielder - 4
+ Walter Ayoví - Defensive Midfielder - 10
+ Óscar Bagüí - Defensive Midfielder - 18
+ Gabriel Achilier - Defensive Midfielder - 21
+ Renato Ibarra - Midfielder - 5
+ Christian Noboa - Midfielder - 6
+ Jefferson Montero - Midfielder - 7
+ Édison Méndez - Midfielder - 8
+ Joao Rojas - Midfielder - 9
+ Segundo Castillo - Midfielder - 14
+ Michael Arroyo - Midfielder - 15
+ Antonio Valencia - Midfielder - 16
+ Luis Saritama - Midfielder - 19
+ Fidel Martínez - Midfielder - 20
+ Carlos Gruezo - Midfielder - 23
+ Felipe Caicedo - Forward - 11
+ Enner Valencia - Forward - 13
+ Jaime Ayoví - Forward - 17
+ 
+ 
+ 
+ Country: England
+ Joe Hart - Goal Keeper - 1
+ Ben Foster - Goal Keeper - 13
+ Fraser Forster - Goal Keeper - 22
+ Glen Johnson - Defensive Midfielder - 2
+ Leighton Baines - Defensive Midfielder - 3
+ Gary Cahill - Defensive Midfielder - 5
+ Phil Jagielka - Defensive Midfielder - 6
+ Chris Smalling - Defensive Midfielder - 12
+ Phil Jones - Defensive Midfielder - 16
+ Luke Shaw - Defensive Midfielder - 23
+ Steven Gerrard - Midfielder - 4
+ Jack Wilshere - Midfielder - 7
+ Frank Lampard - Midfielder - 8
+ Jordan Henderson - Midfielder - 14
+ Alex Oxlade-Chamberlain - Midfielder - 15
+ James Milner - Midfielder - 17
+ Raheem Sterling - Midfielder - 19
+ Adam Lallana - Midfielder - 20
+ Ross Barkley - Midfielder - 21
+ Daniel Sturridge - Forward - 9
+ Wayne Rooney - Forward - 10
+ Danny Welbeck - Forward - 11
+ Rickie Lambert - Forward - 18
+ 
+ 
+ 
+ Country: France
+ Hugo Lloris - Goal Keeper - 1
+ Stéphane Ruffier - Goal Keeper - 16
+ Mickaël Landreau - Goal Keeper - 23
+ Mathieu Debuchy - Defensive Midfielder - 2
+ Patrice Evra - Defensive Midfielder - 3
+ Raphaël Varane - Defensive Midfielder - 4
+ Mamadou Sakho - Defensive Midfielder - 5
+ Eliaquim Mangala - Defensive Midfielder - 13
+ Bacary Sagna - Defensive Midfielder - 15
+ Lucas Digne - Defensive Midfielder - 17
+ Laurent Koscielny - Defensive Midfielder - 21
+ Yohan Cabaye - Midfielder - 6
+ Mathieu Valbuena - Midfielder - 8
+ Antoine Griezmann - Midfielder - 11
+ Rio Mavuba - Midfielder - 12
+ Blaise Matuidi - Midfielder - 14
+ Moussa Sissoko - Midfielder - 18
+ Paul Pogba - Midfielder - 19
+ Morgan Schneiderlin - Midfielder - 22
+ Rémy Cabella - Forward - 7
+ Olivier Giroud - Forward - 9
+ Karim Benzema - Forward - 10
+ Loïc Rémy - Forward - 20
+ 
+ 
+ 
+ Country: Germany
+ Manuel Neuer - Goal Keeper - 1
+ Ron-Robert Zieler - Goal Keeper - 12
+ Roman Weidenfeller - Goal Keeper - 22
+ Kevin Großkreutz - Defensive Midfielder - 2
+ Benedikt Höwedes - Defensive Midfielder - 4
+ Mats Hummels - Defensive Midfielder - 5
+ Erik Durm - Defensive Midfielder - 15
+ Philipp Lahm - Defensive Midfielder - 16
+ Per Mertesacker - Defensive Midfielder - 17
+ Jérôme Boateng - Defensive Midfielder - 20
+ Matthias Ginter - Midfielder - 3
+ Sami Khedira - Midfielder - 6
+ Bastian Schweinsteiger - Midfielder - 7
+ Mesut Özil - Midfielder - 8
+ André Schürrle - Midfielder - 9
+ Thomas Müller - Midfielder - 13
+ Julian Draxler - Midfielder - 14
+ Toni Kroos - Midfielder - 18
+ Mario Götze - Midfielder - 19
+ Marco Reus - Midfielder - 21
+ Christoph Kramer - Midfielder - 23
+ Lukas Podolski - Forward - 10
+ Miroslav Klose - Forward - 11
+ 
+ 
+ 
+ Country: Ghana
+ Steven Adams - Goal Keeper - 1
+ Adam Kwarasey - Goal Keeper - 12
+ Fatau Dauda - Goal Keeper - 16
+ Samuel Inkoom - Defensive Midfielder - 2
+ Daniel Opare - Defensive Midfielder - 4
+ Rashid Sumaila - Defensive Midfielder - 15
+ Jonathan Mensah - Defensive Midfielder - 19
+ John Boye - Defensive Midfielder - 21
+ Harrison Afful - Defensive Midfielder - 23
+ Michael Essien - Midfielder - 5
+ Afriyie Acquah - Midfielder - 6
+ Christian Atsu - Midfielder - 7
+ Emmanuel Agyemang-Badu - Midfielder - 8
+ André Ayew - Midfielder - 10
+ Sulley Muntari - Midfielder - 11
+ Albert Adomah - Midfielder - 14
+ Mohammed Rabiu - Midfielder - 17
+ Kwadwo Asamoah - Midfielder - 20
+ Wakaso Mubarak - Midfielder - 22
+ Asamoah Gyan - Forward - 3
+ Kevin-Prince Boateng - Forward - 9
+ Jordan Ayew - Forward - 13
+ Majeed Waris - Forward - 18
+ 
+ 
+ 
+ Country: Greece
+ Orestis Karnezis - Goal Keeper - 1
+ Panagiotis Glykos - Goal Keeper - 12
+ Stefanos Kapino - Goal Keeper - 13
+ Giannis Maniatis - Defensive Midfielder - 2
+ Giorgos Tzavellas - Defensive Midfielder - 3
+ Kostas Manolas - Defensive Midfielder - 4
+ Vangelis Moras - Defensive Midfielder - 5
+ Loukas Vyntra - Defensive Midfielder - 11
+ Vasilis Torosidis - Defensive Midfielder - 15
+ Sokratis Papastathopoulos - Defensive Midfielder - 19
+ José Holebas - Defensive Midfielder - 20
+ Alexandros Tziolis - Midfielder - 6
+ Panagiotis Kone - Midfielder - 8
+ Giorgos Karagounis - Midfielder - 10
+ Lazaros Christodoulopoulos - Midfielder - 16
+ Giannis Fetfatzidis - Midfielder - 18
+ Kostas Katsouranis - Midfielder - 21
+ Andreas Samaris - Midfielder - 22
+ Panagiotis Tachtsidis - Midfielder - 23
+ Giorgos Samaras - Forward - 7
+ Kostas Mitroglou - Forward - 9
+ Dimitris Salpingidis - Forward - 14
+ Theofanis Gekas - Forward - 17
+ 
+ 
+ 
+ Country: Honduras
+ Luis López - Goal Keeper - 1
+ Noel Valladares - Goal Keeper - 18
+ Donis Escober - Goal Keeper - 22
+ Osman Chávez - Defensive Midfielder - 2
+ Maynor Figueroa - Defensive Midfielder - 3
+ Juan Pablo Montes - Defensive Midfielder - 4
+ Víctor Bernárdez - Defensive Midfielder - 5
+ Juan Carlos García - Defensive Midfielder - 6
+ Emilio Izaguirre - Defensive Midfielder - 7
+ Brayan Beckeles - Defensive Midfielder - 23
+ Wilson Palacios - Midfielder - 8
+ Mario Martínez - Midfielder - 10
+ Edder Delgado - Midfielder - 12
+ Óscar García - Midfielder - 14
+ Roger Espinoza - Midfielder - 15
+ Marvin Chávez - Midfielder - 17
+ Luis Garrido - Midfielder - 19
+ Jorge Claros - Midfielder - 20
+ Andy Najar - Midfielder - 21
+ Jerry Palacios - Forward - 9
+ Jerry Bengtson - Forward - 11
+ Carlo Costly - Forward - 13
+ Rony Martínez - Forward - 16
+ 
+ 
+ 
+ Country: Iran
+ Rahman Ahmadi - Goal Keeper - 1
+ Alireza Haghighi - Goal Keeper - 12
+ Daniel Davari - Goal Keeper - 22
+ Jalal Hosseini - Defensive Midfielder - 4
+ Amir Hossein Sadeghi - Defensive Midfielder - 5
+ Hossein Mahini - Defensive Midfielder - 13
+ Pejman Montazeri - Defensive Midfielder - 15
+ Ahmad Alenemeh - Defensive Midfielder - 17
+ Hashem Beikzadeh - Defensive Midfielder - 19
+ Steven Beitashour - Defensive Midfielder - 20
+ Mehrdad Pouladi - Defensive Midfielder - 23
+ Khosro Heydari - Midfielder - 2
+ Ehsan Hajsafi - Midfielder - 3
+ Javad Nekounam - Midfielder - 6
+ Masoud Shojaei - Midfielder - 7
+ Reza Haghighi - Midfielder - 8
+ Ghasem Haddadifar - Midfielder - 11
+ Andranik Teymourian - Midfielder - 14
+ Bakhtiar Rahmani - Midfielder - 18
+ Ashkan Dejagah - Midfielder - 21
+ Alireza Jahanbakhsh - Forward - 9
+ Karim Ansarifard - Forward - 10
+ Reza Ghoochannejhad - Forward - 16
+ 
+ 
+ 
+ Country: Italy
+ Gianluigi Buffon - Goal Keeper - 1
+ Salvatore Sirigu - Goal Keeper - 12
+ Mattia Perin - Goal Keeper - 13
+ Mattia De Sciglio - Defensive Midfielder - 2
+ Giorgio Chiellini - Defensive Midfielder - 3
+ Matteo Darmian - Defensive Midfielder - 4
+ Ignazio Abate - Defensive Midfielder - 7
+ Andrea Barzagli - Defensive Midfielder - 15
+ Leonardo Bonucci - Defensive Midfielder - 19
+ Gabriel Paletta - Defensive Midfielder - 20
+ Thiago Motta - Midfielder - 5
+ Antonio Candreva - Midfielder - 6
+ Claudio Marchisio - Midfielder - 8
+ Alberto Aquilani - Midfielder - 14
+ Daniele De Rossi - Midfielder - 16
+ Marco Parolo - Midfielder - 18
+ Andrea Pirlo - Midfielder - 21
+ Marco Verratti - Midfielder - 23
+ Mario Balotelli - Forward - 9
+ Antonio Cassano - Forward - 10
+ Alessio Cerci - Forward - 11
+ Ciro Immobile - Forward - 17
+ Lorenzo Insigne - Forward - 22
+ 
+ 
+ 
+ Country: Japan
+ Eiji Kawashima - Goal Keeper - 1
+ Shusaku Nishikawa - Goal Keeper - 12
+ Shichi Gonda - Goal Keeper - 23
+ Atsuto Uchida - Defensive Midfielder - 2
+ Gatoku Sakai - Defensive Midfielder - 3
+ Yuto Nagatomo - Defensive Midfielder - 5
+ Masato Morishige - Defensive Midfielder - 6
+ Yasuyuki Konno - Defensive Midfielder - 15
+ Masahiko Inoha - Defensive Midfielder - 19
+ Hiroki Sakai - Defensive Midfielder - 21
+ Maya Yoshida - Defensive Midfielder - 22
+ Keisuke Honda - Midfielder - 4
+ Yasuhito End - Midfielder - 7
+ Hiroshi Kiyotake - Midfielder - 8
+ Shinji Kagawa - Midfielder - 10
+ Toshihiro Aoyama - Midfielder - 14
+ Hotaru Yamaguchi - Midfielder - 16
+ Makoto Hasebe - Midfielder - 17
+ Shinji Okazaki - Forward - 9
+ Yoichiro Kakitani - Forward - 11
+ Yoshito kubo - Forward - 13
+ Yuya Osako - Forward - 18
+ Manabu Sait - Forward - 20
+ 
+ 
+ 
+ Country: Mexico
+ JosÈ de Jes˙s Corona - Goal Keeper - 1
+ Alfredo Talavera - Goal Keeper - 12
+ Guillermo Ochoa - Goal Keeper - 13
+ Francisco Javier RodrÌguez - Defensive Midfielder - 2
+ Carlos Salcido - Defensive Midfielder - 3
+ Rafael M·rquez - Defensive Midfielder - 4
+ Diego Reyes - Defensive Midfielder - 5
+ Miguel Lay˙n - Defensive Midfielder - 7
+ HÈctor Moreno - Defensive Midfielder - 15
+ Miguel ¡ngel Ponce - Defensive Midfielder - 16
+ AndrÈs Guardado - Defensive Midfielder - 18
+ Paul Aguilar - Defensive Midfielder - 22
+ HÈctor Herrera - Midfielder - 6
+ Marco Fabi·n - Midfielder - 8
+ Isa·c Brizuela - Midfielder - 17
+ Javier Aquino - Midfielder - 20
+ Carlos PeÒa - Midfielder - 21
+ JosÈ Juan V·zquez - Midfielder - 23
+ Ra˙l JimÈnez - Forward - 9
+ Giovani dos Santos - Forward - 10
+ Alan Pulido - Forward - 11
+ Javier Hern·ndez - Forward - 14
+ Oribe Peralta - Forward - 19
+ 
+ 
+ 
+ Country: Netherlands
+ Jasper Cillessen - Goal Keeper - 1
+ Michel Vorm - Goal Keeper - 22
+ Tim Krul - Goal Keeper - 23
+ Ron Vlaar - Defensive Midfielder - 2
+ Stefan de Vrij - Defensive Midfielder - 3
+ Bruno Martins Indi - Defensive Midfielder - 4
+ Daley Blind - Defensive Midfielder - 5
+ Daryl Janmaat - Defensive Midfielder - 7
+ Paul Verhaegh - Defensive Midfielder - 12
+ Joël Veltman - Defensive Midfielder - 13
+ Terence Kongolo - Defensive Midfielder - 14
+ Jonathan de Guzmán - Midfielder - 6
+ Nigel de Jong - Midfielder - 8
+ Wesley Sneijder - Midfielder - 10
+ Arjen Robben - Midfielder - 11
+ Jordy Clasie - Midfielder - 16
+ Leroy Fer - Midfielder - 18
+ Georginio Wijnaldum - Midfielder - 20
+ Memphis Depay - Midfielder - 21
+ Robin van Persie - Forward - 9
+ Dirk Kuyt - Forward - 15
+ Jeremain Lens - Forward - 17
+ Klaas-Jan Huntelaar - Forward - 19
+ 
+ 
+ 
+ Country: Nigeria    
+ Vincent Enyeama - Goal Keeper - 1
+ Austin Ejide - Goal Keeper - 16
+ Chigozie Agbim - Goal Keeper - 21
+ Joseph Yobo - Defensive Midfielder - 2
+ Uwa Elderson Echiéjilé - Defensive Midfielder - 3
+ Efe Ambrose - Defensive Midfielder - 5
+ Azubuike Egwuekwe - Defensive Midfielder - 6
+ Kunle Odunlami - Defensive Midfielder - 12
+ Juwon Oshaniwa - Defensive Midfielder - 13
+ Godfrey Oboabona - Defensive Midfielder - 14
+ Kenneth Omeruo - Defensive Midfielder - 22
+ Reuben Gabriel - Midfielder - 4
+ John Obi Mikel - Midfielder - 10
+ Victor Moses - Midfielder - 11
+ Ramon Azeez - Midfielder - 15
+ Ogenyi Onazi - Midfielder - 17
+ Michael Babatunde - Midfielder - 18
+ Ahmed Musa - Forward - 7
+ Peter Odemwingie - Forward - 8
+ Emmanuel Emenike - Forward - 9
+ Uche Nwofor - Forward - 19
+ Michael Uchebo - Forward - 20
+ Shola Ameobi - Forward - 23
+ 
+ 
+ 
+ Country: Portugal
+ Eduardo - Goal Keeper - 1
+ Rui Patrício - Goal Keeper - 12
+ Beto - Goal Keeper - 22
+ Bruno Alves - Defensive Midfielder - 2
+ Pepe - Defensive Midfielder - 3
+ Fábio Coentrão - Defensive Midfielder - 5
+ Ricardo Costa - Defensive Midfielder - 13
+ Luís Neto - Defensive Midfielder - 14
+ André Almeida - Defensive Midfielder - 19
+ João Pereira - Defensive Midfielder - 21
+ Miguel Veloso - Midfielder - 4
+ William Carvalho - Midfielder - 6
+ João Moutinho - Midfielder - 8
+ Vieirinha - Midfielder - 10
+ Rafa Silva - Midfielder - 15
+ Raul Meireles - Midfielder - 16
+ Nani - Midfielder - 17
+ Silvestre Varela - Midfielder - 18
+ Rúben Amorim - Midfielder - 20
+ Cristiano Ronaldo - Forward - 7
+ Hugo Almeida - Forward - 9
+ Éder - Forward - 11
+ Hélder Postiga - Forward - 23
+ 
+ 
+ 
+ Country: Russia
+ Igor Akinfeev - Goal Keeper - 1
+ Yuri Lodygin - Goal Keeper - 12
+ Sergey Ryzhikov - Goal Keeper - 16
+ Aleksei Kozlov - Defensive Midfielder - 2
+ Georgi Shchennikov - Defensive Midfielder - 3
+ Sergei Ignashevich - Defensive Midfielder - 4
+ Andrei Semyonov - Defensive Midfielder - 5
+ Vladimir Granat - Defensive Midfielder - 13
+ Vasili Berezutski - Defensive Midfielder - 14
+ Andrey Yeshchenko - Defensive Midfielder - 22
+ Dmitri Kombarov - Defensive Midfielder - 23
+ Igor Denisov - Midfielder - 7
+ Denis Glushakov - Midfielder - 8
+ Alan Dzagoev - Midfielder - 10
+ Roman Shirokov - Midfielder - 15
+ Oleg Shatov - Midfielder - 17
+ Viktor Fayzulin - Midfielder - 20
+ Maksim Kanunnikov - Forward - 6
+ Aleksandr Kokorin - Forward - 9
+ Aleksandr Kerzhakov - Forward - 11
+ Yuri Zhirkov - Forward - 18
+ Aleksandr Samedov - Forward - 19
+ Aleksei Ionov - Forward - 21
+ 
+ 
+ 
+ Country: South Korea
+ Jung Sung-Ryong - Goal Keeper - 1
+ Kim Seung-Gyu - Goal Keeper - 21
+ Lee Bum-Young - Goal Keeper - 23
+ Kim Chang-Soo - Defensive Midfielder - 2
+ Yun Suk-Young - Defensive Midfielder - 3
+ Kwak Tae-Hwi - Defensive Midfielder - 4
+ Kim Young-Gwon - Defensive Midfielder - 5
+ Hwang Seok-Ho - Defensive Midfielder - 6
+ Lee Yong - Defensive Midfielder - 12
+ Hong Jeong-Ho - Defensive Midfielder - 20
+ Park Joo-Ho - Defensive Midfielder - 22
+ Kim Bo-Kyung - Midfielder - 7
+ Ha Dae-Sung - Midfielder - 8
+ Koo Ja-Cheol - Midfielder - 13
+ Han Kook-Young - Midfielder - 14
+ Park Jong-Woo - Midfielder - 15
+ Ki Sung-Yueng - Midfielder - 16
+ Lee Chung-Yong - Midfielder - 17
+ Son Heung-Min - Forward - 9
+ Park Chu-Young - Forward - 10
+ Lee Keun-Ho - Forward - 11
+ Kim Shin-Wook - Forward - 18
+ Ji Dong-Won - Forward - 19
+ 
+ 
+ 
+ Country: Spain
+ Iker Casillas - Goal Keeper - 1
+ David de Gea - Goal Keeper - 12
+ Pepe Reina - Goal Keeper - 23
+ Raúl Albiol - Defensive Midfielder - 2
+ Gerard Piqué - Defensive Midfielder - 3
+ Juanfran - Defensive Midfielder - 5
+ Sergio Ramos - Defensive Midfielder - 15
+ Jordi Alba - Defensive Midfielder - 18
+ César Azpilicueta - Defensive Midfielder - 22
+ Javi Martínez - Midfielder - 4
+ Andrés Iniesta - Midfielder - 6
+ Xavi - Midfielder - 8
+ Cesc Fàbregas - Midfielder - 10
+ Juan Mata - Midfielder - 13
+ Xabi Alonso - Midfielder - 14
+ Sergio Busquets - Midfielder - 16
+ Koke - Midfielder - 17
+ Santi Cazorla - Midfielder - 20
+ David Silva - Midfielder - 21
+ David Villa - Forward - 7
+ Fernando Torres - Forward - 9
+ Pedro - Forward - 11
+ Diego Costa - Forward - 19
+ 
+ 
+ 
+ Country: Switzerland
+ Diego Benaglio - Goal Keeper - 1
+ Yann Sommer - Goal Keeper - 12
+ Roman Bürki - Goal Keeper - 21
+ Stephan Lichtsteiner - Defensive Midfielder - 2
+ Reto Ziegler - Defensive Midfielder - 3
+ Philippe Senderos - Defensive Midfielder - 4
+ Steve von Bergen - Defensive Midfielder - 5
+ Michael Lang - Defensive Midfielder - 6
+ Ricardo Rodríguez - Defensive Midfielder - 13
+ Johan Djourou - Defensive Midfielder - 20
+ Fabian Schär - Defensive Midfielder - 22
+ Tranquillo Barnetta - Midfielder - 7
+ Gökhan Inler - Midfielder - 8
+ Granit Xhaka - Midfielder - 10
+ Valon Behrami - Midfielder - 11
+ Valentin Stocker - Midfielder - 14
+ Blerim Džemaili - Midfielder - 15
+ Gelson Fernandes - Midfielder - 16
+ Xherdan Shaqiri - Midfielder - 23
+ Haris Seferović - Forward - 9
+ Mario Gavranović - Forward - 17
+ Admir Mehmedi - Forward - 18
+ Josip Drmić - Forward - 19
+ 
+ 
+ 
+ Country: Uruguay
+ Fernando Muslera - Goal Keeper - 1
+ Rodrigo MuÒoz - Goal Keeper - 12
+ MartÌn Silva - Goal Keeper - 23
+ Diego Lugano - Defensive Midfielder - 2
+ Diego GodÌn - Defensive Midfielder - 3
+ Sebasti·n Coates - Defensive Midfielder - 4
+ Jorge Fucile - Defensive Midfielder - 13
+ Maxi Pereira - Defensive Midfielder - 16
+ JosÈ MarÌa GimÈnez - Defensive Midfielder - 19
+ MartÌn C·ceres - Defensive Midfielder - 22
+ Walter Gargano - Midfielder - 5
+ ¡lvaro Pereira - Midfielder - 6
+ Cristian RodrÌguez - Midfielder - 7
+ Nicol·s Lodeiro - Midfielder - 14
+ Diego PÈrez - Midfielder - 15
+ Egidio ArÈvalo RÌos - Midfielder - 17
+ GastÛn RamÌrez - Midfielder - 18
+ ¡lvaro Gonz·lez - Midfielder - 20
+ Abel Hern·ndez - Forward - 8
+ Luis Su·rez - Forward - 9
+ Diego Forl·n - Forward - 10
+ Christian Stuani - Forward - 11
+ Edinson Cavani - Forward - 21
+ 
+ 
+ 
+ Country: United States
+ Tim Howard - Goal Keeper - 1
+ Brad Guzan - Goal Keeper - 12
+ Nick Rimando - Goal Keeper - 22
+ DeAndre Yedlin - Defensive Midfielder - 2
+ Omar Gonzalez - Defensive Midfielder - 3
+ Matt Besler - Defensive Midfielder - 5
+ John Brooks - Defensive Midfielder - 6
+ DaMarcus Beasley - Defensive Midfielder - 7
+ Geoff Cameron - Defensive Midfielder - 20
+ Timothy Chandler - Defensive Midfielder - 21
+ Fabian Johnson - Defensive Midfielder - 23
+ Michael Bradley - Midfielder - 4
+ Mikkel Diskerud - Midfielder - 10
+ Alejandro Bedoya - Midfielder - 11
+ Jermaine Jones - Midfielder - 13
+ Brad Davis - Midfielder - 14
+ Kyle Beckerman - Midfielder - 15
+ Julian Green - Midfielder - 16
+ Graham Zusi - Midfielder - 19
+ Clint Dempsey - Forward - 8
+ Aron Jóhannsson - Forward - 9
+ Jozy Altidore - Forward - 17
+ Chris Wondolowski - Forward - 18
+ 
+ 
+ 
+ 
+ 
+ 1.	Print all Teams to the screen
+ 2.	Print all Teams to the User Specified file
+ 3.	Sort the Teams by Natural Order (Hint: compareTo)
+ 4.	Sort the by Team Country Name (Hint: Comparator)
+ 5.	Sort each Team's Players by Number (Hint: Player compareTo)
+ 6.	Sort each Team's Players by Position (Hint: Comparator)
+ 7.	Print a entire team and only that team to a user specified file
+ 8.	Print the players for an entire team and only that team to the screen
+ 9.	Quit
+ Choice --> 2
+ Please enter the name of the output file allTeams.txt
+ 
+ 
+ 1.	Print all Teams to the screen
+ 2.	Print all Teams to the User Specified file
+ 3.	Sort the Teams by Natural Order (Hint: compareTo)
+ 4.	Sort the by Team Country Name (Hint: Comparator)
+ 5.	Sort each Team's Players by Number (Hint: Player compareTo)
+ 6.	Sort each Team's Players by Position (Hint: Comparator)
+ 7.	Print a entire team and only that team to a user specified file
+ 8.	Print the players for an entire team and only that team to the screen
+ 9.	Quit
+ Choice --> 3
+ 
+ 
+ 1.	Print all Teams to the screen
+ 2.	Print all Teams to the User Specified file
+ 3.	Sort the Teams by Natural Order (Hint: compareTo)
+ 4.	Sort the by Team Country Name (Hint: Comparator)
+ 5.	Sort each Team's Players by Number (Hint: Player compareTo)
+ 6.	Sort each Team's Players by Position (Hint: Comparator)
+ 7.	Print a entire team and only that team to a user specified file
+ 8.	Print the players for an entire team and only that team to the screen
+ 9.	Quit
+ Choice --> 1
+ Country: Algeria
+ Cedric Si Mohamed - Goal Keeper - 1
+ Mohamed Zemmamouche - Goal Keeper - 16
+ Rais M'Bolhi - Goal Keeper - 23
+ Madjid Bougherra - Defensive Midfielder - 2
+ Faouzi Ghoulam - Defensive Midfielder - 3
+ Essaïd Belkalem - Defensive Midfielder - 4
+ Rafik Halliche - Defensive Midfielder - 5
+ Djamel Mesbah - Defensive Midfielder - 6
+ Carl Medjani - Defensive Midfielder - 7
+ Liassine Cadamuro-Bentaïba - Defensive Midfielder - 17
+ Aissa Mandi - Defensive Midfielder - 20
+ Hassan Yebda - Midfielder - 8
+ Sofiane Feghouli - Midfielder - 10
+ Yacine Brahimi - Midfielder - 11
+ Medhi Lacen - Midfielder - 12
+ Nabil Bentaleb - Midfielder - 14
+ Abdelmoumene Djabou - Midfielder - 18
+ Saphir Taïder - Midfielder - 19
+ Riyad Mahrez - Midfielder - 21
+ Mehdi Mostefa - Midfielder - 22
+ Nabil Ghilas - Forward - 9
+ Islam Slimani - Forward - 13
+ El Arbi Hillel Soudani - Forward - 15
+ 
+ 
+ 
+ Country: Australia   
+ Mathew Ryan - Goal Keeper - 1
+ Mitchell Langerak - Goal Keeper - 12
+ Eugene Galeković - Goal Keeper - 18
+ Ivan Franjić - Defensive Midfielder - 2
+ Jason Davidson - Defensive Midfielder - 3
+ Matthew Špiranović - Defensive Midfielder - 6
+ Bailey Wright - Defensive Midfielder - 8
+ Ryan McGowan - Defensive Midfielder - 19
+ Alex Wilkinson - Defensive Midfielder - 22
+ Mark Milligan - Midfielder - 5
+ Ben Halloran - Midfielder - 10
+ Tommy Oar - Midfielder - 11
+ Oliver Bozanić - Midfielder - 13
+ James Troisi - Midfielder - 14
+ Mile Jedinak - Midfielder - 15
+ James Holland - Midfielder - 16
+ Matt McKay - Midfielder - 17
+ Dario Vidošić - Midfielder - 20
+ Massimo Luongo - Midfielder - 21
+ Mark Bresciano - Midfielder - 23
+ Tim Cahill - Forward - 4
+ Mathew Leckie - Forward - 7
+ Adam Taggart - Forward - 9
+ 
+ 
+ 
+ Country: Belgium  
+ Thibaut Courtois - Goal Keeper - 1
+ Simon Mignolet - Goal Keeper - 12
+ Sammy Bossut - Goal Keeper - 13
+ Toby Alderweireld - Defensive Midfielder - 2
+ Thomas Vermaelen - Defensive Midfielder - 3
+ Vincent Kompany - Defensive Midfielder - 4
+ Jan Vertonghen - Defensive Midfielder - 5
+ Daniel Van Buyten - Defensive Midfielder - 15
+ Nicolas Lombaerts - Defensive Midfielder - 18
+ Anthony Vanden Borre - Defensive Midfielder - 21
+ Laurent Ciman - Defensive Midfielder - 23
+ Axel Witsel - Midfielder - 6
+ Kevin De Bruyne - Midfielder - 7
+ Marouane Fellaini - Midfielder - 8
+ Eden Hazard - Midfielder - 10
+ Kevin Mirallas - Midfielder - 11
+ Steven Defour - Midfielder - 16
+ Mousa Dembélé - Midfielder - 19
+ Adnan Januzaj - Midfielder - 20
+ Nacer Chadli - Midfielder - 22
+ Romelu Lukaku - Forward - 9
+ Dries Mertens - Forward - 14
+ Divock Origi - Forward - 17
+ 
+ 
+ 
+ Country: Bosnia and Herzegovina
+ Asmir Begovi - Goal Keeper - 1
+ Jasmin Fejzi - Goal Keeper - 12
+ Asmir Avduki - Goal Keeper - 22
+ Avdija Vröajevi - Defensive Midfielder - 2
+ Ermin Biaki - Defensive Midfielder - 3
+ Emir Spahi - Defensive Midfielder - 4
+ Sead Kolaöinac - Defensive Midfielder - 5
+ Ognjen Vranjeö - Defensive Midfielder - 6
+ Muhamed Beöi - Defensive Midfielder - 7
+ Mensur Mujdûa - Defensive Midfielder - 13
+ Toni äunji - Defensive Midfielder - 15
+ Miralem Pjani - Midfielder - 8
+ Zvjezdan Misimovi - Midfielder - 10
+ Izet Hajrovi - Midfielder - 14
+ Senad Luli - Midfielder - 16
+ Senijad Ibrii - Midfielder - 17
+ Haris Medunjanin - Midfielder - 18
+ Anel Hadûi - Midfielder - 20
+ Tino-Sven Suöi - Midfielder - 21
+ Sejad Salihovi - Midfielder - 23
+ Vedad Ibiöevi - Forward - 9
+ Edin Dûeko - Forward - 11
+ Edin Viöa - Forward - 19
+ 
+ 
+ 
+ Country: Brazil 
+ Jefferson - Goal Keeper - 1
+ Júlio César - Goal Keeper - 12
+ Victor - Goal Keeper - 22
+ Dani Alves - Defensive Midfielder - 2
+ Thiago Silva - Defensive Midfielder - 3
+ David Luiz - Defensive Midfielder - 4
+ Marcelo - Defensive Midfielder - 6
+ Dante - Defensive Midfielder - 13
+ Maxwell - Defensive Midfielder - 14
+ Henrique - Defensive Midfielder - 15
+ Maicon - Defensive Midfielder - 23
+ Fernandinho - Midfielder - 5
+ Paulinho - Midfielder - 8
+ Oscar - Midfielder - 11
+ Ramires - Midfielder - 16
+ Luiz Gustavo - Midfielder - 17
+ Hernanes - Midfielder - 18
+ Willian - Midfielder - 19
+ Hulk - Forward - 7
+ Fred - Forward - 9
+ Neymar - Forward - 10
+ Bernard - Forward - 20
+ Jô - Forward - 21
+ 
+ 
+ 
+ Country: Chile
+ Claudio Bravo - Goal Keeper - 1
+ Cristopher Toselli - Goal Keeper - 12
+ Johnny Herrera - Goal Keeper - 23
+ Eugenio Mena - Defensive Midfielder - 2
+ Miiko Albornoz - Defensive Midfielder - 3
+ José Rojas - Defensive Midfielder - 13
+ Gary Medel - Defensive Midfielder - 17
+ Gonzalo Jara - Defensive Midfielder - 18
+ Mauricio Isla - Midfielder - 4
+ Francisco Silva - Midfielder - 5
+ Carlos Carmona - Midfielder - 6
+ Arturo Vidal - Midfielder - 8
+ Jorge Valdívia - Midfielder - 10
+ Fabián Orellana - Midfielder - 14
+ Jean Beausejour - Midfielder - 15
+ Felipe Gutiérrez - Midfielder - 16
+ José Pedro Fuenzalida - Midfielder - 19
+ Charles Aránguiz - Midfielder - 20
+ Marcelo Díaz - Midfielder - 21
+ Alexis Sánchez - Forward - 7
+ Mauricio Pinilla - Forward - 9
+ Eduardo Vargas - Forward - 11
+ Esteban Paredes - Forward - 22
+ 
+ 
+ 
+ Country: Cote d'Ivoire
+ Boubacar Barry - Goal Keeper - 1
+ Sylvain Gbohouo - Goal Keeper - 16
+ Sayouba Mandé - Goal Keeper - 23
+ Ousmane Viera - Defensive Midfielder - 2
+ Arthur Boka - Defensive Midfielder - 3
+ Kolo Touré - Defensive Midfielder - 4
+ Didier Zokora - Defensive Midfielder - 5
+ Jean-Daniel Akpa-Akpro - Defensive Midfielder - 7
+ Serge Aurier - Defensive Midfielder - 17
+ Constant Djakpa - Defensive Midfielder - 18
+ Sol Bamba - Defensive Midfielder - 22
+ Cheick Tioté - Midfielder - 9
+ Didier Ya Konan - Midfielder - 13
+ Ismaël Diomandé - Midfielder - 14
+ Yaya Touré - Midfielder - 19
+ Serey Die - Midfielder - 20
+ Mathis Bolly - Forward - 6
+ Salomon Kalou - Forward - 8
+ Gervinho - Forward - 10
+ Didier Drogba - Forward - 11
+ Wilfried Bony - Forward - 12
+ Max Gradel - Forward - 15
+ Giovanni Sio - Forward - 21
+ 
+ 
+ 
+ Country: Cameroon
+ Loïc Feudjou - Goal Keeper - 1
+ Charles Itandje - Goal Keeper - 16
+ Sammy N'Djock - Goal Keeper - 23
+ Benoît Assou-Ekotto - Defensive Midfielder - 2
+ Nicolas N'Koulou - Defensive Midfielder - 3
+ Cédric Djeugoué - Defensive Midfielder - 4
+ Dany Nounkeu - Defensive Midfielder - 5
+ Henri Bedimo - Defensive Midfielder - 12
+ Aurélien Chedjou - Defensive Midfielder - 14
+ Allan Nyom - Defensive Midfielder - 22
+ Alex Song - Midfielder - 6
+ Landry N'Guémo - Midfielder - 7
+ Jean Makoun - Midfielder - 11
+ Stéphane Mbia - Midfielder - 17
+ Eyong Enoh - Midfielder - 18
+ Edgar Salli - Midfielder - 20
+ Joël Matip - Midfielder - 21
+ Benjamin Moukandjo - Forward - 8
+ Samuel Eto'o - Forward - 9
+ Vincent Aboubakar - Forward - 10
+ Maxim Choupo-Moting - Forward - 13
+ Pierre Webó - Forward - 15
+ Fabrice Olinga - Forward - 19
+ 
+ 
+ 
+ Country: Colombia
+ David Ospina - Goal Keeper - 1
+ Camilo Vargas - Goal Keeper - 12
+ Faryd MondragÛn - Goal Keeper - 22
+ Cristi·n Zapata - Defensive Midfielder - 2
+ Mario Yepes - Defensive Midfielder - 3
+ Santiago Arias - Defensive Midfielder - 4
+ Pablo Armero - Defensive Midfielder - 7
+ …der ¡lvarez Balanta - Defensive Midfielder - 16
+ Juan Camilo Z˙Òiga - Defensive Midfielder - 18
+ Carlos ValdÈs - Defensive Midfielder - 23
+ Carlos Carbonero - Midfielder - 5
+ Carlos S·nchez - Midfielder - 6
+ Abel Aguilar - Midfielder - 8
+ James RodrÌguez - Midfielder - 10
+ Juan Guillermo Cuadrado - Midfielder - 11
+ Fredy GuarÌn - Midfielder - 13
+ VÌctor Ibarbo - Midfielder - 14
+ Alexander MejÌa - Midfielder - 15
+ Juan Fernando Quintero - Midfielder - 20
+ TeÛfilo GutiÈrrez - Forward - 9
+ Carlos Bacca - Forward - 17
+ Adri·n Ramos - Forward - 19
+ Jackson MartÌnez - Forward - 21
+ 
+ 
+ 
+ Country: Costa Rica   
+ Keylor Navas - Goal Keeper - 1
+ Patrick Pemberton - Goal Keeper - 18
+ Daniel Cambronero - Goal Keeper - 23
+ Johnny Acosta - Defensive Midfielder - 2
+ Giancarlo González - Defensive Midfielder - 3
+ Michael Umaña - Defensive Midfielder - 4
+ Óscar Duarte - Defensive Midfielder - 6
+ Heiner Mora - Defensive Midfielder - 8
+ Waylon Francis - Defensive Midfielder - 12
+ Júnior Díaz - Defensive Midfielder - 15
+ Cristian Gamboa - Defensive Midfielder - 16
+ Roy Miller - Defensive Midfielder - 19
+ Celso Borges - Midfielder - 5
+ Christian Bolaños - Midfielder - 7
+ Michael Barrantes - Midfielder - 11
+ Esteban Granados - Midfielder - 13
+ Yeltsin Tejeda - Midfielder - 17
+ Diego Calvo - Midfielder - 20
+ José Miguel Cubero - Midfielder - 22
+ Joel Campbell - Forward - 9
+ Bryan Ruiz - Forward - 10
+ Randall Brenes - Forward - 14
+ Marco Ureña - Forward - 21
+ 
+ 
+ 
+ Country: Croatia
+ Stipe Pletikosa - Goal Keeper - 1
+ Oliver Zelenika - Goal Keeper - 12
+ Danijel Subaši - Goal Keeper - 23
+ Šime Vrsaljko - Defensive Midfielder - 2
+ Danijel Pranji - Defensive Midfielder - 3
+ Vedran ?orluka - Defensive Midfielder - 5
+ Dejan Lovren - Defensive Midfielder - 6
+ Darijo Srna - Defensive Midfielder - 11
+ Gordon Schildenfeld - Defensive Midfielder - 13
+ Domagoj Vida - Defensive Midfielder - 21
+ Ivan Periši - Midfielder - 4
+ Ivan Rakiti - Midfielder - 7
+ Ognjen Vukojevi - Midfielder - 8
+ Luka Modri - Midfielder - 10
+ Marcelo Brozovi - Midfielder - 14
+ Ivan Molini - Midfielder - 15
+ Sammir - Midfielder - 19
+ Mateo Kovaki - Midfielder - 20
+ Nikica Jelavi - Forward - 9
+ Ante Rebi - Forward - 16
+ Mario Mandžuki - Forward - 17
+ Ivica Oli - Forward - 18
+ Eduardo - Forward - 22
+ 
+ 
+ 
+ Country: Ecuador
+ Máximo Banguera - Goal Keeper - 1
+ Adrián Bone - Goal Keeper - 12
+ Alexander Domínguez - Goal Keeper - 22
+ Jorge Guagua - Defensive Midfielder - 2
+ Frickson Erazo - Defensive Midfielder - 3
+ Juan Carlos Paredes - Defensive Midfielder - 4
+ Walter Ayoví - Defensive Midfielder - 10
+ Óscar Bagüí - Defensive Midfielder - 18
+ Gabriel Achilier - Defensive Midfielder - 21
+ Renato Ibarra - Midfielder - 5
+ Christian Noboa - Midfielder - 6
+ Jefferson Montero - Midfielder - 7
+ Édison Méndez - Midfielder - 8
+ Joao Rojas - Midfielder - 9
+ Segundo Castillo - Midfielder - 14
+ Michael Arroyo - Midfielder - 15
+ Antonio Valencia - Midfielder - 16
+ Luis Saritama - Midfielder - 19
+ Fidel Martínez - Midfielder - 20
+ Carlos Gruezo - Midfielder - 23
+ Felipe Caicedo - Forward - 11
+ Enner Valencia - Forward - 13
+ Jaime Ayoví - Forward - 17
+ 
+ 
+ 
+ Country: England
+ Joe Hart - Goal Keeper - 1
+ Ben Foster - Goal Keeper - 13
+ Fraser Forster - Goal Keeper - 22
+ Glen Johnson - Defensive Midfielder - 2
+ Leighton Baines - Defensive Midfielder - 3
+ Gary Cahill - Defensive Midfielder - 5
+ Phil Jagielka - Defensive Midfielder - 6
+ Chris Smalling - Defensive Midfielder - 12
+ Phil Jones - Defensive Midfielder - 16
+ Luke Shaw - Defensive Midfielder - 23
+ Steven Gerrard - Midfielder - 4
+ Jack Wilshere - Midfielder - 7
+ Frank Lampard - Midfielder - 8
+ Jordan Henderson - Midfielder - 14
+ Alex Oxlade-Chamberlain - Midfielder - 15
+ James Milner - Midfielder - 17
+ Raheem Sterling - Midfielder - 19
+ Adam Lallana - Midfielder - 20
+ Ross Barkley - Midfielder - 21
+ Daniel Sturridge - Forward - 9
+ Wayne Rooney - Forward - 10
+ Danny Welbeck - Forward - 11
+ Rickie Lambert - Forward - 18
+ 
+ 
+ 
+ Country: Spain
+ Iker Casillas - Goal Keeper - 1
+ David de Gea - Goal Keeper - 12
+ Pepe Reina - Goal Keeper - 23
+ Raúl Albiol - Defensive Midfielder - 2
+ Gerard Piqué - Defensive Midfielder - 3
+ Juanfran - Defensive Midfielder - 5
+ Sergio Ramos - Defensive Midfielder - 15
+ Jordi Alba - Defensive Midfielder - 18
+ César Azpilicueta - Defensive Midfielder - 22
+ Javi Martínez - Midfielder - 4
+ Andrés Iniesta - Midfielder - 6
+ Xavi - Midfielder - 8
+ Cesc Fàbregas - Midfielder - 10
+ Juan Mata - Midfielder - 13
+ Xabi Alonso - Midfielder - 14
+ Sergio Busquets - Midfielder - 16
+ Koke - Midfielder - 17
+ Santi Cazorla - Midfielder - 20
+ David Silva - Midfielder - 21
+ David Villa - Forward - 7
+ Fernando Torres - Forward - 9
+ Pedro - Forward - 11
+ Diego Costa - Forward - 19
+ 
+ 
+ 
+ Country: France
+ Hugo Lloris - Goal Keeper - 1
+ Stéphane Ruffier - Goal Keeper - 16
+ Mickaël Landreau - Goal Keeper - 23
+ Mathieu Debuchy - Defensive Midfielder - 2
+ Patrice Evra - Defensive Midfielder - 3
+ Raphaël Varane - Defensive Midfielder - 4
+ Mamadou Sakho - Defensive Midfielder - 5
+ Eliaquim Mangala - Defensive Midfielder - 13
+ Bacary Sagna - Defensive Midfielder - 15
+ Lucas Digne - Defensive Midfielder - 17
+ Laurent Koscielny - Defensive Midfielder - 21
+ Yohan Cabaye - Midfielder - 6
+ Mathieu Valbuena - Midfielder - 8
+ Antoine Griezmann - Midfielder - 11
+ Rio Mavuba - Midfielder - 12
+ Blaise Matuidi - Midfielder - 14
+ Moussa Sissoko - Midfielder - 18
+ Paul Pogba - Midfielder - 19
+ Morgan Schneiderlin - Midfielder - 22
+ Rémy Cabella - Forward - 7
+ Olivier Giroud - Forward - 9
+ Karim Benzema - Forward - 10
+ Loïc Rémy - Forward - 20
+ 
+ 
+ 
+ Country: Germany
+ Manuel Neuer - Goal Keeper - 1
+ Ron-Robert Zieler - Goal Keeper - 12
+ Roman Weidenfeller - Goal Keeper - 22
+ Kevin Großkreutz - Defensive Midfielder - 2
+ Benedikt Höwedes - Defensive Midfielder - 4
+ Mats Hummels - Defensive Midfielder - 5
+ Erik Durm - Defensive Midfielder - 15
+ Philipp Lahm - Defensive Midfielder - 16
+ Per Mertesacker - Defensive Midfielder - 17
+ Jérôme Boateng - Defensive Midfielder - 20
+ Matthias Ginter - Midfielder - 3
+ Sami Khedira - Midfielder - 6
+ Bastian Schweinsteiger - Midfielder - 7
+ Mesut Özil - Midfielder - 8
+ André Schürrle - Midfielder - 9
+ Thomas Müller - Midfielder - 13
+ Julian Draxler - Midfielder - 14
+ Toni Kroos - Midfielder - 18
+ Mario Götze - Midfielder - 19
+ Marco Reus - Midfielder - 21
+ Christoph Kramer - Midfielder - 23
+ Lukas Podolski - Forward - 10
+ Miroslav Klose - Forward - 11
+ 
+ 
+ 
+ Country: Ghana
+ Steven Adams - Goal Keeper - 1
+ Adam Kwarasey - Goal Keeper - 12
+ Fatau Dauda - Goal Keeper - 16
+ Samuel Inkoom - Defensive Midfielder - 2
+ Daniel Opare - Defensive Midfielder - 4
+ Rashid Sumaila - Defensive Midfielder - 15
+ Jonathan Mensah - Defensive Midfielder - 19
+ John Boye - Defensive Midfielder - 21
+ Harrison Afful - Defensive Midfielder - 23
+ Michael Essien - Midfielder - 5
+ Afriyie Acquah - Midfielder - 6
+ Christian Atsu - Midfielder - 7
+ Emmanuel Agyemang-Badu - Midfielder - 8
+ André Ayew - Midfielder - 10
+ Sulley Muntari - Midfielder - 11
+ Albert Adomah - Midfielder - 14
+ Mohammed Rabiu - Midfielder - 17
+ Kwadwo Asamoah - Midfielder - 20
+ Wakaso Mubarak - Midfielder - 22
+ Asamoah Gyan - Forward - 3
+ Kevin-Prince Boateng - Forward - 9
+ Jordan Ayew - Forward - 13
+ Majeed Waris - Forward - 18
+ 
+ 
+ 
+ Country: Greece
+ Orestis Karnezis - Goal Keeper - 1
+ Panagiotis Glykos - Goal Keeper - 12
+ Stefanos Kapino - Goal Keeper - 13
+ Giannis Maniatis - Defensive Midfielder - 2
+ Giorgos Tzavellas - Defensive Midfielder - 3
+ Kostas Manolas - Defensive Midfielder - 4
+ Vangelis Moras - Defensive Midfielder - 5
+ Loukas Vyntra - Defensive Midfielder - 11
+ Vasilis Torosidis - Defensive Midfielder - 15
+ Sokratis Papastathopoulos - Defensive Midfielder - 19
+ José Holebas - Defensive Midfielder - 20
+ Alexandros Tziolis - Midfielder - 6
+ Panagiotis Kone - Midfielder - 8
+ Giorgos Karagounis - Midfielder - 10
+ Lazaros Christodoulopoulos - Midfielder - 16
+ Giannis Fetfatzidis - Midfielder - 18
+ Kostas Katsouranis - Midfielder - 21
+ Andreas Samaris - Midfielder - 22
+ Panagiotis Tachtsidis - Midfielder - 23
+ Giorgos Samaras - Forward - 7
+ Kostas Mitroglou - Forward - 9
+ Dimitris Salpingidis - Forward - 14
+ Theofanis Gekas - Forward - 17
+ 
+ 
+ 
+ Country: Honduras
+ Luis López - Goal Keeper - 1
+ Noel Valladares - Goal Keeper - 18
+ Donis Escober - Goal Keeper - 22
+ Osman Chávez - Defensive Midfielder - 2
+ Maynor Figueroa - Defensive Midfielder - 3
+ Juan Pablo Montes - Defensive Midfielder - 4
+ Víctor Bernárdez - Defensive Midfielder - 5
+ Juan Carlos García - Defensive Midfielder - 6
+ Emilio Izaguirre - Defensive Midfielder - 7
+ Brayan Beckeles - Defensive Midfielder - 23
+ Wilson Palacios - Midfielder - 8
+ Mario Martínez - Midfielder - 10
+ Edder Delgado - Midfielder - 12
+ Óscar García - Midfielder - 14
+ Roger Espinoza - Midfielder - 15
+ Marvin Chávez - Midfielder - 17
+ Luis Garrido - Midfielder - 19
+ Jorge Claros - Midfielder - 20
+ Andy Najar - Midfielder - 21
+ Jerry Palacios - Forward - 9
+ Jerry Bengtson - Forward - 11
+ Carlo Costly - Forward - 13
+ Rony Martínez - Forward - 16
+ 
+ 
+ 
+ Country: Iran
+ Rahman Ahmadi - Goal Keeper - 1
+ Alireza Haghighi - Goal Keeper - 12
+ Daniel Davari - Goal Keeper - 22
+ Jalal Hosseini - Defensive Midfielder - 4
+ Amir Hossein Sadeghi - Defensive Midfielder - 5
+ Hossein Mahini - Defensive Midfielder - 13
+ Pejman Montazeri - Defensive Midfielder - 15
+ Ahmad Alenemeh - Defensive Midfielder - 17
+ Hashem Beikzadeh - Defensive Midfielder - 19
+ Steven Beitashour - Defensive Midfielder - 20
+ Mehrdad Pouladi - Defensive Midfielder - 23
+ Khosro Heydari - Midfielder - 2
+ Ehsan Hajsafi - Midfielder - 3
+ Javad Nekounam - Midfielder - 6
+ Masoud Shojaei - Midfielder - 7
+ Reza Haghighi - Midfielder - 8
+ Ghasem Haddadifar - Midfielder - 11
+ Andranik Teymourian - Midfielder - 14
+ Bakhtiar Rahmani - Midfielder - 18
+ Ashkan Dejagah - Midfielder - 21
+ Alireza Jahanbakhsh - Forward - 9
+ Karim Ansarifard - Forward - 10
+ Reza Ghoochannejhad - Forward - 16
+ 
+ 
+ 
+ Country: Italy
+ Gianluigi Buffon - Goal Keeper - 1
+ Salvatore Sirigu - Goal Keeper - 12
+ Mattia Perin - Goal Keeper - 13
+ Mattia De Sciglio - Defensive Midfielder - 2
+ Giorgio Chiellini - Defensive Midfielder - 3
+ Matteo Darmian - Defensive Midfielder - 4
+ Ignazio Abate - Defensive Midfielder - 7
+ Andrea Barzagli - Defensive Midfielder - 15
+ Leonardo Bonucci - Defensive Midfielder - 19
+ Gabriel Paletta - Defensive Midfielder - 20
+ Thiago Motta - Midfielder - 5
+ Antonio Candreva - Midfielder - 6
+ Claudio Marchisio - Midfielder - 8
+ Alberto Aquilani - Midfielder - 14
+ Daniele De Rossi - Midfielder - 16
+ Marco Parolo - Midfielder - 18
+ Andrea Pirlo - Midfielder - 21
+ Marco Verratti - Midfielder - 23
+ Mario Balotelli - Forward - 9
+ Antonio Cassano - Forward - 10
+ Alessio Cerci - Forward - 11
+ Ciro Immobile - Forward - 17
+ Lorenzo Insigne - Forward - 22
+ 
+ 
+ 
+ Country: Japan
+ Eiji Kawashima - Goal Keeper - 1
+ Shusaku Nishikawa - Goal Keeper - 12
+ Shichi Gonda - Goal Keeper - 23
+ Atsuto Uchida - Defensive Midfielder - 2
+ Gatoku Sakai - Defensive Midfielder - 3
+ Yuto Nagatomo - Defensive Midfielder - 5
+ Masato Morishige - Defensive Midfielder - 6
+ Yasuyuki Konno - Defensive Midfielder - 15
+ Masahiko Inoha - Defensive Midfielder - 19
+ Hiroki Sakai - Defensive Midfielder - 21
+ Maya Yoshida - Defensive Midfielder - 22
+ Keisuke Honda - Midfielder - 4
+ Yasuhito End - Midfielder - 7
+ Hiroshi Kiyotake - Midfielder - 8
+ Shinji Kagawa - Midfielder - 10
+ Toshihiro Aoyama - Midfielder - 14
+ Hotaru Yamaguchi - Midfielder - 16
+ Makoto Hasebe - Midfielder - 17
+ Shinji Okazaki - Forward - 9
+ Yoichiro Kakitani - Forward - 11
+ Yoshito kubo - Forward - 13
+ Yuya Osako - Forward - 18
+ Manabu Sait - Forward - 20
+ 
+ 
+ 
+ Country: South Korea
+ Jung Sung-Ryong - Goal Keeper - 1
+ Kim Seung-Gyu - Goal Keeper - 21
+ Lee Bum-Young - Goal Keeper - 23
+ Kim Chang-Soo - Defensive Midfielder - 2
+ Yun Suk-Young - Defensive Midfielder - 3
+ Kwak Tae-Hwi - Defensive Midfielder - 4
+ Kim Young-Gwon - Defensive Midfielder - 5
+ Hwang Seok-Ho - Defensive Midfielder - 6
+ Lee Yong - Defensive Midfielder - 12
+ Hong Jeong-Ho - Defensive Midfielder - 20
+ Park Joo-Ho - Defensive Midfielder - 22
+ Kim Bo-Kyung - Midfielder - 7
+ Ha Dae-Sung - Midfielder - 8
+ Koo Ja-Cheol - Midfielder - 13
+ Han Kook-Young - Midfielder - 14
+ Park Jong-Woo - Midfielder - 15
+ Ki Sung-Yueng - Midfielder - 16
+ Lee Chung-Yong - Midfielder - 17
+ Son Heung-Min - Forward - 9
+ Park Chu-Young - Forward - 10
+ Lee Keun-Ho - Forward - 11
+ Kim Shin-Wook - Forward - 18
+ Ji Dong-Won - Forward - 19
+ 
+ 
+ 
+ Country: Mexico
+ JosÈ de Jes˙s Corona - Goal Keeper - 1
+ Alfredo Talavera - Goal Keeper - 12
+ Guillermo Ochoa - Goal Keeper - 13
+ Francisco Javier RodrÌguez - Defensive Midfielder - 2
+ Carlos Salcido - Defensive Midfielder - 3
+ Rafael M·rquez - Defensive Midfielder - 4
+ Diego Reyes - Defensive Midfielder - 5
+ Miguel Lay˙n - Defensive Midfielder - 7
+ HÈctor Moreno - Defensive Midfielder - 15
+ Miguel ¡ngel Ponce - Defensive Midfielder - 16
+ AndrÈs Guardado - Defensive Midfielder - 18
+ Paul Aguilar - Defensive Midfielder - 22
+ HÈctor Herrera - Midfielder - 6
+ Marco Fabi·n - Midfielder - 8
+ Isa·c Brizuela - Midfielder - 17
+ Javier Aquino - Midfielder - 20
+ Carlos PeÒa - Midfielder - 21
+ JosÈ Juan V·zquez - Midfielder - 23
+ Ra˙l JimÈnez - Forward - 9
+ Giovani dos Santos - Forward - 10
+ Alan Pulido - Forward - 11
+ Javier Hern·ndez - Forward - 14
+ Oribe Peralta - Forward - 19
+ 
+ 
+ 
+ Country: Netherlands
+ Jasper Cillessen - Goal Keeper - 1
+ Michel Vorm - Goal Keeper - 22
+ Tim Krul - Goal Keeper - 23
+ Ron Vlaar - Defensive Midfielder - 2
+ Stefan de Vrij - Defensive Midfielder - 3
+ Bruno Martins Indi - Defensive Midfielder - 4
+ Daley Blind - Defensive Midfielder - 5
+ Daryl Janmaat - Defensive Midfielder - 7
+ Paul Verhaegh - Defensive Midfielder - 12
+ Joël Veltman - Defensive Midfielder - 13
+ Terence Kongolo - Defensive Midfielder - 14
+ Jonathan de Guzmán - Midfielder - 6
+ Nigel de Jong - Midfielder - 8
+ Wesley Sneijder - Midfielder - 10
+ Arjen Robben - Midfielder - 11
+ Jordy Clasie - Midfielder - 16
+ Leroy Fer - Midfielder - 18
+ Georginio Wijnaldum - Midfielder - 20
+ Memphis Depay - Midfielder - 21
+ Robin van Persie - Forward - 9
+ Dirk Kuyt - Forward - 15
+ Jeremain Lens - Forward - 17
+ Klaas-Jan Huntelaar - Forward - 19
+ 
+ 
+ 
+ Country: Nigeria    
+ Vincent Enyeama - Goal Keeper - 1
+ Austin Ejide - Goal Keeper - 16
+ Chigozie Agbim - Goal Keeper - 21
+ Joseph Yobo - Defensive Midfielder - 2
+ Uwa Elderson Echiéjilé - Defensive Midfielder - 3
+ Efe Ambrose - Defensive Midfielder - 5
+ Azubuike Egwuekwe - Defensive Midfielder - 6
+ Kunle Odunlami - Defensive Midfielder - 12
+ Juwon Oshaniwa - Defensive Midfielder - 13
+ Godfrey Oboabona - Defensive Midfielder - 14
+ Kenneth Omeruo - Defensive Midfielder - 22
+ Reuben Gabriel - Midfielder - 4
+ John Obi Mikel - Midfielder - 10
+ Victor Moses - Midfielder - 11
+ Ramon Azeez - Midfielder - 15
+ Ogenyi Onazi - Midfielder - 17
+ Michael Babatunde - Midfielder - 18
+ Ahmed Musa - Forward - 7
+ Peter Odemwingie - Forward - 8
+ Emmanuel Emenike - Forward - 9
+ Uche Nwofor - Forward - 19
+ Michael Uchebo - Forward - 20
+ Shola Ameobi - Forward - 23
+ 
+ 
+ 
+ Country: Portugal
+ Eduardo - Goal Keeper - 1
+ Rui Patrício - Goal Keeper - 12
+ Beto - Goal Keeper - 22
+ Bruno Alves - Defensive Midfielder - 2
+ Pepe - Defensive Midfielder - 3
+ Fábio Coentrão - Defensive Midfielder - 5
+ Ricardo Costa - Defensive Midfielder - 13
+ Luís Neto - Defensive Midfielder - 14
+ André Almeida - Defensive Midfielder - 19
+ João Pereira - Defensive Midfielder - 21
+ Miguel Veloso - Midfielder - 4
+ William Carvalho - Midfielder - 6
+ João Moutinho - Midfielder - 8
+ Vieirinha - Midfielder - 10
+ Rafa Silva - Midfielder - 15
+ Raul Meireles - Midfielder - 16
+ Nani - Midfielder - 17
+ Silvestre Varela - Midfielder - 18
+ Rúben Amorim - Midfielder - 20
+ Cristiano Ronaldo - Forward - 7
+ Hugo Almeida - Forward - 9
+ Éder - Forward - 11
+ Hélder Postiga - Forward - 23
+ 
+ 
+ 
+ Country: Russia
+ Igor Akinfeev - Goal Keeper - 1
+ Yuri Lodygin - Goal Keeper - 12
+ Sergey Ryzhikov - Goal Keeper - 16
+ Aleksei Kozlov - Defensive Midfielder - 2
+ Georgi Shchennikov - Defensive Midfielder - 3
+ Sergei Ignashevich - Defensive Midfielder - 4
+ Andrei Semyonov - Defensive Midfielder - 5
+ Vladimir Granat - Defensive Midfielder - 13
+ Vasili Berezutski - Defensive Midfielder - 14
+ Andrey Yeshchenko - Defensive Midfielder - 22
+ Dmitri Kombarov - Defensive Midfielder - 23
+ Igor Denisov - Midfielder - 7
+ Denis Glushakov - Midfielder - 8
+ Alan Dzagoev - Midfielder - 10
+ Roman Shirokov - Midfielder - 15
+ Oleg Shatov - Midfielder - 17
+ Viktor Fayzulin - Midfielder - 20
+ Maksim Kanunnikov - Forward - 6
+ Aleksandr Kokorin - Forward - 9
+ Aleksandr Kerzhakov - Forward - 11
+ Yuri Zhirkov - Forward - 18
+ Aleksandr Samedov - Forward - 19
+ Aleksei Ionov - Forward - 21
+ 
+ 
+ 
+ Country: Switzerland
+ Diego Benaglio - Goal Keeper - 1
+ Yann Sommer - Goal Keeper - 12
+ Roman Bürki - Goal Keeper - 21
+ Stephan Lichtsteiner - Defensive Midfielder - 2
+ Reto Ziegler - Defensive Midfielder - 3
+ Philippe Senderos - Defensive Midfielder - 4
+ Steve von Bergen - Defensive Midfielder - 5
+ Michael Lang - Defensive Midfielder - 6
+ Ricardo Rodríguez - Defensive Midfielder - 13
+ Johan Djourou - Defensive Midfielder - 20
+ Fabian Schär - Defensive Midfielder - 22
+ Tranquillo Barnetta - Midfielder - 7
+ Gökhan Inler - Midfielder - 8
+ Granit Xhaka - Midfielder - 10
+ Valon Behrami - Midfielder - 11
+ Valentin Stocker - Midfielder - 14
+ Blerim Džemaili - Midfielder - 15
+ Gelson Fernandes - Midfielder - 16
+ Xherdan Shaqiri - Midfielder - 23
+ Haris Seferović - Forward - 9
+ Mario Gavranović - Forward - 17
+ Admir Mehmedi - Forward - 18
+ Josip Drmić - Forward - 19
+ 
+ 
+ 
+ Country: Uruguay
+ Fernando Muslera - Goal Keeper - 1
+ Rodrigo MuÒoz - Goal Keeper - 12
+ MartÌn Silva - Goal Keeper - 23
+ Diego Lugano - Defensive Midfielder - 2
+ Diego GodÌn - Defensive Midfielder - 3
+ Sebasti·n Coates - Defensive Midfielder - 4
+ Jorge Fucile - Defensive Midfielder - 13
+ Maxi Pereira - Defensive Midfielder - 16
+ JosÈ MarÌa GimÈnez - Defensive Midfielder - 19
+ MartÌn C·ceres - Defensive Midfielder - 22
+ Walter Gargano - Midfielder - 5
+ ¡lvaro Pereira - Midfielder - 6
+ Cristian RodrÌguez - Midfielder - 7
+ Nicol·s Lodeiro - Midfielder - 14
+ Diego PÈrez - Midfielder - 15
+ Egidio ArÈvalo RÌos - Midfielder - 17
+ GastÛn RamÌrez - Midfielder - 18
+ ¡lvaro Gonz·lez - Midfielder - 20
+ Abel Hern·ndez - Forward - 8
+ Luis Su·rez - Forward - 9
+ Diego Forl·n - Forward - 10
+ Christian Stuani - Forward - 11
+ Edinson Cavani - Forward - 21
+ 
+ 
+ 
+ Country: United States
+ Tim Howard - Goal Keeper - 1
+ Brad Guzan - Goal Keeper - 12
+ Nick Rimando - Goal Keeper - 22
+ DeAndre Yedlin - Defensive Midfielder - 2
+ Omar Gonzalez - Defensive Midfielder - 3
+ Matt Besler - Defensive Midfielder - 5
+ John Brooks - Defensive Midfielder - 6
+ DaMarcus Beasley - Defensive Midfielder - 7
+ Geoff Cameron - Defensive Midfielder - 20
+ Timothy Chandler - Defensive Midfielder - 21
+ Fabian Johnson - Defensive Midfielder - 23
+ Michael Bradley - Midfielder - 4
+ Mikkel Diskerud - Midfielder - 10
+ Alejandro Bedoya - Midfielder - 11
+ Jermaine Jones - Midfielder - 13
+ Brad Davis - Midfielder - 14
+ Kyle Beckerman - Midfielder - 15
+ Julian Green - Midfielder - 16
+ Graham Zusi - Midfielder - 19
+ Clint Dempsey - Forward - 8
+ Aron Jóhannsson - Forward - 9
+ Jozy Altidore - Forward - 17
+ Chris Wondolowski - Forward - 18
+ 
+ 
+ 
+ 
+ 
+ 1.	Print all Teams to the screen
+ 2.	Print all Teams to the User Specified file
+ 3.	Sort the Teams by Natural Order (Hint: compareTo)
+ 4.	Sort the by Team Country Name (Hint: Comparator)
+ 5.	Sort each Team's Players by Number (Hint: Player compareTo)
+ 6.	Sort each Team's Players by Position (Hint: Comparator)
+ 7.	Print a entire team and only that team to a user specified file
+ 8.	Print the players for an entire team and only that team to the screen
+ 9.	Quit
+ Choice --> 4
+ 
+ 
+ 1.	Print all Teams to the screen
+ 2.	Print all Teams to the User Specified file
+ 3.	Sort the Teams by Natural Order (Hint: compareTo)
+ 4.	Sort the by Team Country Name (Hint: Comparator)
+ 5.	Sort each Team's Players by Number (Hint: Player compareTo)
+ 6.	Sort each Team's Players by Position (Hint: Comparator)
+ 7.	Print a entire team and only that team to a user specified file
+ 8.	Print the players for an entire team and only that team to the screen
+ 9.	Quit
+ Choice --> 1
+ Country: Algeria
+ Cedric Si Mohamed - Goal Keeper - 1
+ Mohamed Zemmamouche - Goal Keeper - 16
+ Rais M'Bolhi - Goal Keeper - 23
+ Madjid Bougherra - Defensive Midfielder - 2
+ Faouzi Ghoulam - Defensive Midfielder - 3
+ Essaïd Belkalem - Defensive Midfielder - 4
+ Rafik Halliche - Defensive Midfielder - 5
+ Djamel Mesbah - Defensive Midfielder - 6
+ Carl Medjani - Defensive Midfielder - 7
+ Liassine Cadamuro-Bentaïba - Defensive Midfielder - 17
+ Aissa Mandi - Defensive Midfielder - 20
+ Hassan Yebda - Midfielder - 8
+ Sofiane Feghouli - Midfielder - 10
+ Yacine Brahimi - Midfielder - 11
+ Medhi Lacen - Midfielder - 12
+ Nabil Bentaleb - Midfielder - 14
+ Abdelmoumene Djabou - Midfielder - 18
+ Saphir Taïder - Midfielder - 19
+ Riyad Mahrez - Midfielder - 21
+ Mehdi Mostefa - Midfielder - 22
+ Nabil Ghilas - Forward - 9
+ Islam Slimani - Forward - 13
+ El Arbi Hillel Soudani - Forward - 15
+ 
+ 
+ 
+ Country: Australia   
+ Mathew Ryan - Goal Keeper - 1
+ Mitchell Langerak - Goal Keeper - 12
+ Eugene Galeković - Goal Keeper - 18
+ Ivan Franjić - Defensive Midfielder - 2
+ Jason Davidson - Defensive Midfielder - 3
+ Matthew Špiranović - Defensive Midfielder - 6
+ Bailey Wright - Defensive Midfielder - 8
+ Ryan McGowan - Defensive Midfielder - 19
+ Alex Wilkinson - Defensive Midfielder - 22
+ Mark Milligan - Midfielder - 5
+ Ben Halloran - Midfielder - 10
+ Tommy Oar - Midfielder - 11
+ Oliver Bozanić - Midfielder - 13
+ James Troisi - Midfielder - 14
+ Mile Jedinak - Midfielder - 15
+ James Holland - Midfielder - 16
+ Matt McKay - Midfielder - 17
+ Dario Vidošić - Midfielder - 20
+ Massimo Luongo - Midfielder - 21
+ Mark Bresciano - Midfielder - 23
+ Tim Cahill - Forward - 4
+ Mathew Leckie - Forward - 7
+ Adam Taggart - Forward - 9
+ 
+ 
+ 
+ Country: Belgium  
+ Thibaut Courtois - Goal Keeper - 1
+ Simon Mignolet - Goal Keeper - 12
+ Sammy Bossut - Goal Keeper - 13
+ Toby Alderweireld - Defensive Midfielder - 2
+ Thomas Vermaelen - Defensive Midfielder - 3
+ Vincent Kompany - Defensive Midfielder - 4
+ Jan Vertonghen - Defensive Midfielder - 5
+ Daniel Van Buyten - Defensive Midfielder - 15
+ Nicolas Lombaerts - Defensive Midfielder - 18
+ Anthony Vanden Borre - Defensive Midfielder - 21
+ Laurent Ciman - Defensive Midfielder - 23
+ Axel Witsel - Midfielder - 6
+ Kevin De Bruyne - Midfielder - 7
+ Marouane Fellaini - Midfielder - 8
+ Eden Hazard - Midfielder - 10
+ Kevin Mirallas - Midfielder - 11
+ Steven Defour - Midfielder - 16
+ Mousa Dembélé - Midfielder - 19
+ Adnan Januzaj - Midfielder - 20
+ Nacer Chadli - Midfielder - 22
+ Romelu Lukaku - Forward - 9
+ Dries Mertens - Forward - 14
+ Divock Origi - Forward - 17
+ 
+ 
+ 
+ Country: Bosnia and Herzegovina
+ Asmir Begovi - Goal Keeper - 1
+ Jasmin Fejzi - Goal Keeper - 12
+ Asmir Avduki - Goal Keeper - 22
+ Avdija Vröajevi - Defensive Midfielder - 2
+ Ermin Biaki - Defensive Midfielder - 3
+ Emir Spahi - Defensive Midfielder - 4
+ Sead Kolaöinac - Defensive Midfielder - 5
+ Ognjen Vranjeö - Defensive Midfielder - 6
+ Muhamed Beöi - Defensive Midfielder - 7
+ Mensur Mujdûa - Defensive Midfielder - 13
+ Toni äunji - Defensive Midfielder - 15
+ Miralem Pjani - Midfielder - 8
+ Zvjezdan Misimovi - Midfielder - 10
+ Izet Hajrovi - Midfielder - 14
+ Senad Luli - Midfielder - 16
+ Senijad Ibrii - Midfielder - 17
+ Haris Medunjanin - Midfielder - 18
+ Anel Hadûi - Midfielder - 20
+ Tino-Sven Suöi - Midfielder - 21
+ Sejad Salihovi - Midfielder - 23
+ Vedad Ibiöevi - Forward - 9
+ Edin Dûeko - Forward - 11
+ Edin Viöa - Forward - 19
+ 
+ 
+ 
+ Country: Brazil 
+ Jefferson - Goal Keeper - 1
+ Júlio César - Goal Keeper - 12
+ Victor - Goal Keeper - 22
+ Dani Alves - Defensive Midfielder - 2
+ Thiago Silva - Defensive Midfielder - 3
+ David Luiz - Defensive Midfielder - 4
+ Marcelo - Defensive Midfielder - 6
+ Dante - Defensive Midfielder - 13
+ Maxwell - Defensive Midfielder - 14
+ Henrique - Defensive Midfielder - 15
+ Maicon - Defensive Midfielder - 23
+ Fernandinho - Midfielder - 5
+ Paulinho - Midfielder - 8
+ Oscar - Midfielder - 11
+ Ramires - Midfielder - 16
+ Luiz Gustavo - Midfielder - 17
+ Hernanes - Midfielder - 18
+ Willian - Midfielder - 19
+ Hulk - Forward - 7
+ Fred - Forward - 9
+ Neymar - Forward - 10
+ Bernard - Forward - 20
+ Jô - Forward - 21
+ 
+ 
+ 
+ Country: Cameroon
+ Loïc Feudjou - Goal Keeper - 1
+ Charles Itandje - Goal Keeper - 16
+ Sammy N'Djock - Goal Keeper - 23
+ Benoît Assou-Ekotto - Defensive Midfielder - 2
+ Nicolas N'Koulou - Defensive Midfielder - 3
+ Cédric Djeugoué - Defensive Midfielder - 4
+ Dany Nounkeu - Defensive Midfielder - 5
+ Henri Bedimo - Defensive Midfielder - 12
+ Aurélien Chedjou - Defensive Midfielder - 14
+ Allan Nyom - Defensive Midfielder - 22
+ Alex Song - Midfielder - 6
+ Landry N'Guémo - Midfielder - 7
+ Jean Makoun - Midfielder - 11
+ Stéphane Mbia - Midfielder - 17
+ Eyong Enoh - Midfielder - 18
+ Edgar Salli - Midfielder - 20
+ Joël Matip - Midfielder - 21
+ Benjamin Moukandjo - Forward - 8
+ Samuel Eto'o - Forward - 9
+ Vincent Aboubakar - Forward - 10
+ Maxim Choupo-Moting - Forward - 13
+ Pierre Webó - Forward - 15
+ Fabrice Olinga - Forward - 19
+ 
+ 
+ 
+ Country: Chile
+ Claudio Bravo - Goal Keeper - 1
+ Cristopher Toselli - Goal Keeper - 12
+ Johnny Herrera - Goal Keeper - 23
+ Eugenio Mena - Defensive Midfielder - 2
+ Miiko Albornoz - Defensive Midfielder - 3
+ José Rojas - Defensive Midfielder - 13
+ Gary Medel - Defensive Midfielder - 17
+ Gonzalo Jara - Defensive Midfielder - 18
+ Mauricio Isla - Midfielder - 4
+ Francisco Silva - Midfielder - 5
+ Carlos Carmona - Midfielder - 6
+ Arturo Vidal - Midfielder - 8
+ Jorge Valdívia - Midfielder - 10
+ Fabián Orellana - Midfielder - 14
+ Jean Beausejour - Midfielder - 15
+ Felipe Gutiérrez - Midfielder - 16
+ José Pedro Fuenzalida - Midfielder - 19
+ Charles Aránguiz - Midfielder - 20
+ Marcelo Díaz - Midfielder - 21
+ Alexis Sánchez - Forward - 7
+ Mauricio Pinilla - Forward - 9
+ Eduardo Vargas - Forward - 11
+ Esteban Paredes - Forward - 22
+ 
+ 
+ 
+ Country: Colombia
+ David Ospina - Goal Keeper - 1
+ Camilo Vargas - Goal Keeper - 12
+ Faryd MondragÛn - Goal Keeper - 22
+ Cristi·n Zapata - Defensive Midfielder - 2
+ Mario Yepes - Defensive Midfielder - 3
+ Santiago Arias - Defensive Midfielder - 4
+ Pablo Armero - Defensive Midfielder - 7
+ …der ¡lvarez Balanta - Defensive Midfielder - 16
+ Juan Camilo Z˙Òiga - Defensive Midfielder - 18
+ Carlos ValdÈs - Defensive Midfielder - 23
+ Carlos Carbonero - Midfielder - 5
+ Carlos S·nchez - Midfielder - 6
+ Abel Aguilar - Midfielder - 8
+ James RodrÌguez - Midfielder - 10
+ Juan Guillermo Cuadrado - Midfielder - 11
+ Fredy GuarÌn - Midfielder - 13
+ VÌctor Ibarbo - Midfielder - 14
+ Alexander MejÌa - Midfielder - 15
+ Juan Fernando Quintero - Midfielder - 20
+ TeÛfilo GutiÈrrez - Forward - 9
+ Carlos Bacca - Forward - 17
+ Adri·n Ramos - Forward - 19
+ Jackson MartÌnez - Forward - 21
+ 
+ 
+ 
+ Country: Costa Rica   
+ Keylor Navas - Goal Keeper - 1
+ Patrick Pemberton - Goal Keeper - 18
+ Daniel Cambronero - Goal Keeper - 23
+ Johnny Acosta - Defensive Midfielder - 2
+ Giancarlo González - Defensive Midfielder - 3
+ Michael Umaña - Defensive Midfielder - 4
+ Óscar Duarte - Defensive Midfielder - 6
+ Heiner Mora - Defensive Midfielder - 8
+ Waylon Francis - Defensive Midfielder - 12
+ Júnior Díaz - Defensive Midfielder - 15
+ Cristian Gamboa - Defensive Midfielder - 16
+ Roy Miller - Defensive Midfielder - 19
+ Celso Borges - Midfielder - 5
+ Christian Bolaños - Midfielder - 7
+ Michael Barrantes - Midfielder - 11
+ Esteban Granados - Midfielder - 13
+ Yeltsin Tejeda - Midfielder - 17
+ Diego Calvo - Midfielder - 20
+ José Miguel Cubero - Midfielder - 22
+ Joel Campbell - Forward - 9
+ Bryan Ruiz - Forward - 10
+ Randall Brenes - Forward - 14
+ Marco Ureña - Forward - 21
+ 
+ 
+ 
+ Country: Cote d'Ivoire
+ Boubacar Barry - Goal Keeper - 1
+ Sylvain Gbohouo - Goal Keeper - 16
+ Sayouba Mandé - Goal Keeper - 23
+ Ousmane Viera - Defensive Midfielder - 2
+ Arthur Boka - Defensive Midfielder - 3
+ Kolo Touré - Defensive Midfielder - 4
+ Didier Zokora - Defensive Midfielder - 5
+ Jean-Daniel Akpa-Akpro - Defensive Midfielder - 7
+ Serge Aurier - Defensive Midfielder - 17
+ Constant Djakpa - Defensive Midfielder - 18
+ Sol Bamba - Defensive Midfielder - 22
+ Cheick Tioté - Midfielder - 9
+ Didier Ya Konan - Midfielder - 13
+ Ismaël Diomandé - Midfielder - 14
+ Yaya Touré - Midfielder - 19
+ Serey Die - Midfielder - 20
+ Mathis Bolly - Forward - 6
+ Salomon Kalou - Forward - 8
+ Gervinho - Forward - 10
+ Didier Drogba - Forward - 11
+ Wilfried Bony - Forward - 12
+ Max Gradel - Forward - 15
+ Giovanni Sio - Forward - 21
+ 
+ 
+ 
+ Country: Croatia
+ Stipe Pletikosa - Goal Keeper - 1
+ Oliver Zelenika - Goal Keeper - 12
+ Danijel Subaši - Goal Keeper - 23
+ Šime Vrsaljko - Defensive Midfielder - 2
+ Danijel Pranji - Defensive Midfielder - 3
+ Vedran ?orluka - Defensive Midfielder - 5
+ Dejan Lovren - Defensive Midfielder - 6
+ Darijo Srna - Defensive Midfielder - 11
+ Gordon Schildenfeld - Defensive Midfielder - 13
+ Domagoj Vida - Defensive Midfielder - 21
+ Ivan Periši - Midfielder - 4
+ Ivan Rakiti - Midfielder - 7
+ Ognjen Vukojevi - Midfielder - 8
+ Luka Modri - Midfielder - 10
+ Marcelo Brozovi - Midfielder - 14
+ Ivan Molini - Midfielder - 15
+ Sammir - Midfielder - 19
+ Mateo Kovaki - Midfielder - 20
+ Nikica Jelavi - Forward - 9
+ Ante Rebi - Forward - 16
+ Mario Mandžuki - Forward - 17
+ Ivica Oli - Forward - 18
+ Eduardo - Forward - 22
+ 
+ 
+ 
+ Country: Ecuador
+ Máximo Banguera - Goal Keeper - 1
+ Adrián Bone - Goal Keeper - 12
+ Alexander Domínguez - Goal Keeper - 22
+ Jorge Guagua - Defensive Midfielder - 2
+ Frickson Erazo - Defensive Midfielder - 3
+ Juan Carlos Paredes - Defensive Midfielder - 4
+ Walter Ayoví - Defensive Midfielder - 10
+ Óscar Bagüí - Defensive Midfielder - 18
+ Gabriel Achilier - Defensive Midfielder - 21
+ Renato Ibarra - Midfielder - 5
+ Christian Noboa - Midfielder - 6
+ Jefferson Montero - Midfielder - 7
+ Édison Méndez - Midfielder - 8
+ Joao Rojas - Midfielder - 9
+ Segundo Castillo - Midfielder - 14
+ Michael Arroyo - Midfielder - 15
+ Antonio Valencia - Midfielder - 16
+ Luis Saritama - Midfielder - 19
+ Fidel Martínez - Midfielder - 20
+ Carlos Gruezo - Midfielder - 23
+ Felipe Caicedo - Forward - 11
+ Enner Valencia - Forward - 13
+ Jaime Ayoví - Forward - 17
+ 
+ 
+ 
+ Country: England
+ Joe Hart - Goal Keeper - 1
+ Ben Foster - Goal Keeper - 13
+ Fraser Forster - Goal Keeper - 22
+ Glen Johnson - Defensive Midfielder - 2
+ Leighton Baines - Defensive Midfielder - 3
+ Gary Cahill - Defensive Midfielder - 5
+ Phil Jagielka - Defensive Midfielder - 6
+ Chris Smalling - Defensive Midfielder - 12
+ Phil Jones - Defensive Midfielder - 16
+ Luke Shaw - Defensive Midfielder - 23
+ Steven Gerrard - Midfielder - 4
+ Jack Wilshere - Midfielder - 7
+ Frank Lampard - Midfielder - 8
+ Jordan Henderson - Midfielder - 14
+ Alex Oxlade-Chamberlain - Midfielder - 15
+ James Milner - Midfielder - 17
+ Raheem Sterling - Midfielder - 19
+ Adam Lallana - Midfielder - 20
+ Ross Barkley - Midfielder - 21
+ Daniel Sturridge - Forward - 9
+ Wayne Rooney - Forward - 10
+ Danny Welbeck - Forward - 11
+ Rickie Lambert - Forward - 18
+ 
+ 
+ 
+ Country: France
+ Hugo Lloris - Goal Keeper - 1
+ Stéphane Ruffier - Goal Keeper - 16
+ Mickaël Landreau - Goal Keeper - 23
+ Mathieu Debuchy - Defensive Midfielder - 2
+ Patrice Evra - Defensive Midfielder - 3
+ Raphaël Varane - Defensive Midfielder - 4
+ Mamadou Sakho - Defensive Midfielder - 5
+ Eliaquim Mangala - Defensive Midfielder - 13
+ Bacary Sagna - Defensive Midfielder - 15
+ Lucas Digne - Defensive Midfielder - 17
+ Laurent Koscielny - Defensive Midfielder - 21
+ Yohan Cabaye - Midfielder - 6
+ Mathieu Valbuena - Midfielder - 8
+ Antoine Griezmann - Midfielder - 11
+ Rio Mavuba - Midfielder - 12
+ Blaise Matuidi - Midfielder - 14
+ Moussa Sissoko - Midfielder - 18
+ Paul Pogba - Midfielder - 19
+ Morgan Schneiderlin - Midfielder - 22
+ Rémy Cabella - Forward - 7
+ Olivier Giroud - Forward - 9
+ Karim Benzema - Forward - 10
+ Loïc Rémy - Forward - 20
+ 
+ 
+ 
+ Country: Germany
+ Manuel Neuer - Goal Keeper - 1
+ Ron-Robert Zieler - Goal Keeper - 12
+ Roman Weidenfeller - Goal Keeper - 22
+ Kevin Großkreutz - Defensive Midfielder - 2
+ Benedikt Höwedes - Defensive Midfielder - 4
+ Mats Hummels - Defensive Midfielder - 5
+ Erik Durm - Defensive Midfielder - 15
+ Philipp Lahm - Defensive Midfielder - 16
+ Per Mertesacker - Defensive Midfielder - 17
+ Jérôme Boateng - Defensive Midfielder - 20
+ Matthias Ginter - Midfielder - 3
+ Sami Khedira - Midfielder - 6
+ Bastian Schweinsteiger - Midfielder - 7
+ Mesut Özil - Midfielder - 8
+ André Schürrle - Midfielder - 9
+ Thomas Müller - Midfielder - 13
+ Julian Draxler - Midfielder - 14
+ Toni Kroos - Midfielder - 18
+ Mario Götze - Midfielder - 19
+ Marco Reus - Midfielder - 21
+ Christoph Kramer - Midfielder - 23
+ Lukas Podolski - Forward - 10
+ Miroslav Klose - Forward - 11
+ 
+ 
+ 
+ Country: Ghana
+ Steven Adams - Goal Keeper - 1
+ Adam Kwarasey - Goal Keeper - 12
+ Fatau Dauda - Goal Keeper - 16
+ Samuel Inkoom - Defensive Midfielder - 2
+ Daniel Opare - Defensive Midfielder - 4
+ Rashid Sumaila - Defensive Midfielder - 15
+ Jonathan Mensah - Defensive Midfielder - 19
+ John Boye - Defensive Midfielder - 21
+ Harrison Afful - Defensive Midfielder - 23
+ Michael Essien - Midfielder - 5
+ Afriyie Acquah - Midfielder - 6
+ Christian Atsu - Midfielder - 7
+ Emmanuel Agyemang-Badu - Midfielder - 8
+ André Ayew - Midfielder - 10
+ Sulley Muntari - Midfielder - 11
+ Albert Adomah - Midfielder - 14
+ Mohammed Rabiu - Midfielder - 17
+ Kwadwo Asamoah - Midfielder - 20
+ Wakaso Mubarak - Midfielder - 22
+ Asamoah Gyan - Forward - 3
+ Kevin-Prince Boateng - Forward - 9
+ Jordan Ayew - Forward - 13
+ Majeed Waris - Forward - 18
+ 
+ 
+ 
+ Country: Greece
+ Orestis Karnezis - Goal Keeper - 1
+ Panagiotis Glykos - Goal Keeper - 12
+ Stefanos Kapino - Goal Keeper - 13
+ Giannis Maniatis - Defensive Midfielder - 2
+ Giorgos Tzavellas - Defensive Midfielder - 3
+ Kostas Manolas - Defensive Midfielder - 4
+ Vangelis Moras - Defensive Midfielder - 5
+ Loukas Vyntra - Defensive Midfielder - 11
+ Vasilis Torosidis - Defensive Midfielder - 15
+ Sokratis Papastathopoulos - Defensive Midfielder - 19
+ José Holebas - Defensive Midfielder - 20
+ Alexandros Tziolis - Midfielder - 6
+ Panagiotis Kone - Midfielder - 8
+ Giorgos Karagounis - Midfielder - 10
+ Lazaros Christodoulopoulos - Midfielder - 16
+ Giannis Fetfatzidis - Midfielder - 18
+ Kostas Katsouranis - Midfielder - 21
+ Andreas Samaris - Midfielder - 22
+ Panagiotis Tachtsidis - Midfielder - 23
+ Giorgos Samaras - Forward - 7
+ Kostas Mitroglou - Forward - 9
+ Dimitris Salpingidis - Forward - 14
+ Theofanis Gekas - Forward - 17
+ 
+ 
+ 
+ Country: Honduras
+ Luis López - Goal Keeper - 1
+ Noel Valladares - Goal Keeper - 18
+ Donis Escober - Goal Keeper - 22
+ Osman Chávez - Defensive Midfielder - 2
+ Maynor Figueroa - Defensive Midfielder - 3
+ Juan Pablo Montes - Defensive Midfielder - 4
+ Víctor Bernárdez - Defensive Midfielder - 5
+ Juan Carlos García - Defensive Midfielder - 6
+ Emilio Izaguirre - Defensive Midfielder - 7
+ Brayan Beckeles - Defensive Midfielder - 23
+ Wilson Palacios - Midfielder - 8
+ Mario Martínez - Midfielder - 10
+ Edder Delgado - Midfielder - 12
+ Óscar García - Midfielder - 14
+ Roger Espinoza - Midfielder - 15
+ Marvin Chávez - Midfielder - 17
+ Luis Garrido - Midfielder - 19
+ Jorge Claros - Midfielder - 20
+ Andy Najar - Midfielder - 21
+ Jerry Palacios - Forward - 9
+ Jerry Bengtson - Forward - 11
+ Carlo Costly - Forward - 13
+ Rony Martínez - Forward - 16
+ 
+ 
+ 
+ Country: Iran
+ Rahman Ahmadi - Goal Keeper - 1
+ Alireza Haghighi - Goal Keeper - 12
+ Daniel Davari - Goal Keeper - 22
+ Jalal Hosseini - Defensive Midfielder - 4
+ Amir Hossein Sadeghi - Defensive Midfielder - 5
+ Hossein Mahini - Defensive Midfielder - 13
+ Pejman Montazeri - Defensive Midfielder - 15
+ Ahmad Alenemeh - Defensive Midfielder - 17
+ Hashem Beikzadeh - Defensive Midfielder - 19
+ Steven Beitashour - Defensive Midfielder - 20
+ Mehrdad Pouladi - Defensive Midfielder - 23
+ Khosro Heydari - Midfielder - 2
+ Ehsan Hajsafi - Midfielder - 3
+ Javad Nekounam - Midfielder - 6
+ Masoud Shojaei - Midfielder - 7
+ Reza Haghighi - Midfielder - 8
+ Ghasem Haddadifar - Midfielder - 11
+ Andranik Teymourian - Midfielder - 14
+ Bakhtiar Rahmani - Midfielder - 18
+ Ashkan Dejagah - Midfielder - 21
+ Alireza Jahanbakhsh - Forward - 9
+ Karim Ansarifard - Forward - 10
+ Reza Ghoochannejhad - Forward - 16
+ 
+ 
+ 
+ Country: Italy
+ Gianluigi Buffon - Goal Keeper - 1
+ Salvatore Sirigu - Goal Keeper - 12
+ Mattia Perin - Goal Keeper - 13
+ Mattia De Sciglio - Defensive Midfielder - 2
+ Giorgio Chiellini - Defensive Midfielder - 3
+ Matteo Darmian - Defensive Midfielder - 4
+ Ignazio Abate - Defensive Midfielder - 7
+ Andrea Barzagli - Defensive Midfielder - 15
+ Leonardo Bonucci - Defensive Midfielder - 19
+ Gabriel Paletta - Defensive Midfielder - 20
+ Thiago Motta - Midfielder - 5
+ Antonio Candreva - Midfielder - 6
+ Claudio Marchisio - Midfielder - 8
+ Alberto Aquilani - Midfielder - 14
+ Daniele De Rossi - Midfielder - 16
+ Marco Parolo - Midfielder - 18
+ Andrea Pirlo - Midfielder - 21
+ Marco Verratti - Midfielder - 23
+ Mario Balotelli - Forward - 9
+ Antonio Cassano - Forward - 10
+ Alessio Cerci - Forward - 11
+ Ciro Immobile - Forward - 17
+ Lorenzo Insigne - Forward - 22
+ 
+ 
+ 
+ Country: Japan
+ Eiji Kawashima - Goal Keeper - 1
+ Shusaku Nishikawa - Goal Keeper - 12
+ Shichi Gonda - Goal Keeper - 23
+ Atsuto Uchida - Defensive Midfielder - 2
+ Gatoku Sakai - Defensive Midfielder - 3
+ Yuto Nagatomo - Defensive Midfielder - 5
+ Masato Morishige - Defensive Midfielder - 6
+ Yasuyuki Konno - Defensive Midfielder - 15
+ Masahiko Inoha - Defensive Midfielder - 19
+ Hiroki Sakai - Defensive Midfielder - 21
+ Maya Yoshida - Defensive Midfielder - 22
+ Keisuke Honda - Midfielder - 4
+ Yasuhito End - Midfielder - 7
+ Hiroshi Kiyotake - Midfielder - 8
+ Shinji Kagawa - Midfielder - 10
+ Toshihiro Aoyama - Midfielder - 14
+ Hotaru Yamaguchi - Midfielder - 16
+ Makoto Hasebe - Midfielder - 17
+ Shinji Okazaki - Forward - 9
+ Yoichiro Kakitani - Forward - 11
+ Yoshito kubo - Forward - 13
+ Yuya Osako - Forward - 18
+ Manabu Sait - Forward - 20
+ 
+ 
+ 
+ Country: Mexico
+ JosÈ de Jes˙s Corona - Goal Keeper - 1
+ Alfredo Talavera - Goal Keeper - 12
+ Guillermo Ochoa - Goal Keeper - 13
+ Francisco Javier RodrÌguez - Defensive Midfielder - 2
+ Carlos Salcido - Defensive Midfielder - 3
+ Rafael M·rquez - Defensive Midfielder - 4
+ Diego Reyes - Defensive Midfielder - 5
+ Miguel Lay˙n - Defensive Midfielder - 7
+ HÈctor Moreno - Defensive Midfielder - 15
+ Miguel ¡ngel Ponce - Defensive Midfielder - 16
+ AndrÈs Guardado - Defensive Midfielder - 18
+ Paul Aguilar - Defensive Midfielder - 22
+ HÈctor Herrera - Midfielder - 6
+ Marco Fabi·n - Midfielder - 8
+ Isa·c Brizuela - Midfielder - 17
+ Javier Aquino - Midfielder - 20
+ Carlos PeÒa - Midfielder - 21
+ JosÈ Juan V·zquez - Midfielder - 23
+ Ra˙l JimÈnez - Forward - 9
+ Giovani dos Santos - Forward - 10
+ Alan Pulido - Forward - 11
+ Javier Hern·ndez - Forward - 14
+ Oribe Peralta - Forward - 19
+ 
+ 
+ 
+ Country: Netherlands
+ Jasper Cillessen - Goal Keeper - 1
+ Michel Vorm - Goal Keeper - 22
+ Tim Krul - Goal Keeper - 23
+ Ron Vlaar - Defensive Midfielder - 2
+ Stefan de Vrij - Defensive Midfielder - 3
+ Bruno Martins Indi - Defensive Midfielder - 4
+ Daley Blind - Defensive Midfielder - 5
+ Daryl Janmaat - Defensive Midfielder - 7
+ Paul Verhaegh - Defensive Midfielder - 12
+ Joël Veltman - Defensive Midfielder - 13
+ Terence Kongolo - Defensive Midfielder - 14
+ Jonathan de Guzmán - Midfielder - 6
+ Nigel de Jong - Midfielder - 8
+ Wesley Sneijder - Midfielder - 10
+ Arjen Robben - Midfielder - 11
+ Jordy Clasie - Midfielder - 16
+ Leroy Fer - Midfielder - 18
+ Georginio Wijnaldum - Midfielder - 20
+ Memphis Depay - Midfielder - 21
+ Robin van Persie - Forward - 9
+ Dirk Kuyt - Forward - 15
+ Jeremain Lens - Forward - 17
+ Klaas-Jan Huntelaar - Forward - 19
+ 
+ 
+ 
+ Country: Nigeria    
+ Vincent Enyeama - Goal Keeper - 1
+ Austin Ejide - Goal Keeper - 16
+ Chigozie Agbim - Goal Keeper - 21
+ Joseph Yobo - Defensive Midfielder - 2
+ Uwa Elderson Echiéjilé - Defensive Midfielder - 3
+ Efe Ambrose - Defensive Midfielder - 5
+ Azubuike Egwuekwe - Defensive Midfielder - 6
+ Kunle Odunlami - Defensive Midfielder - 12
+ Juwon Oshaniwa - Defensive Midfielder - 13
+ Godfrey Oboabona - Defensive Midfielder - 14
+ Kenneth Omeruo - Defensive Midfielder - 22
+ Reuben Gabriel - Midfielder - 4
+ John Obi Mikel - Midfielder - 10
+ Victor Moses - Midfielder - 11
+ Ramon Azeez - Midfielder - 15
+ Ogenyi Onazi - Midfielder - 17
+ Michael Babatunde - Midfielder - 18
+ Ahmed Musa - Forward - 7
+ Peter Odemwingie - Forward - 8
+ Emmanuel Emenike - Forward - 9
+ Uche Nwofor - Forward - 19
+ Michael Uchebo - Forward - 20
+ Shola Ameobi - Forward - 23
+ 
+ 
+ 
+ Country: Portugal
+ Eduardo - Goal Keeper - 1
+ Rui Patrício - Goal Keeper - 12
+ Beto - Goal Keeper - 22
+ Bruno Alves - Defensive Midfielder - 2
+ Pepe - Defensive Midfielder - 3
+ Fábio Coentrão - Defensive Midfielder - 5
+ Ricardo Costa - Defensive Midfielder - 13
+ Luís Neto - Defensive Midfielder - 14
+ André Almeida - Defensive Midfielder - 19
+ João Pereira - Defensive Midfielder - 21
+ Miguel Veloso - Midfielder - 4
+ William Carvalho - Midfielder - 6
+ João Moutinho - Midfielder - 8
+ Vieirinha - Midfielder - 10
+ Rafa Silva - Midfielder - 15
+ Raul Meireles - Midfielder - 16
+ Nani - Midfielder - 17
+ Silvestre Varela - Midfielder - 18
+ Rúben Amorim - Midfielder - 20
+ Cristiano Ronaldo - Forward - 7
+ Hugo Almeida - Forward - 9
+ Éder - Forward - 11
+ Hélder Postiga - Forward - 23
+ 
+ 
+ 
+ Country: Russia
+ Igor Akinfeev - Goal Keeper - 1
+ Yuri Lodygin - Goal Keeper - 12
+ Sergey Ryzhikov - Goal Keeper - 16
+ Aleksei Kozlov - Defensive Midfielder - 2
+ Georgi Shchennikov - Defensive Midfielder - 3
+ Sergei Ignashevich - Defensive Midfielder - 4
+ Andrei Semyonov - Defensive Midfielder - 5
+ Vladimir Granat - Defensive Midfielder - 13
+ Vasili Berezutski - Defensive Midfielder - 14
+ Andrey Yeshchenko - Defensive Midfielder - 22
+ Dmitri Kombarov - Defensive Midfielder - 23
+ Igor Denisov - Midfielder - 7
+ Denis Glushakov - Midfielder - 8
+ Alan Dzagoev - Midfielder - 10
+ Roman Shirokov - Midfielder - 15
+ Oleg Shatov - Midfielder - 17
+ Viktor Fayzulin - Midfielder - 20
+ Maksim Kanunnikov - Forward - 6
+ Aleksandr Kokorin - Forward - 9
+ Aleksandr Kerzhakov - Forward - 11
+ Yuri Zhirkov - Forward - 18
+ Aleksandr Samedov - Forward - 19
+ Aleksei Ionov - Forward - 21
+ 
+ 
+ 
+ Country: South Korea
+ Jung Sung-Ryong - Goal Keeper - 1
+ Kim Seung-Gyu - Goal Keeper - 21
+ Lee Bum-Young - Goal Keeper - 23
+ Kim Chang-Soo - Defensive Midfielder - 2
+ Yun Suk-Young - Defensive Midfielder - 3
+ Kwak Tae-Hwi - Defensive Midfielder - 4
+ Kim Young-Gwon - Defensive Midfielder - 5
+ Hwang Seok-Ho - Defensive Midfielder - 6
+ Lee Yong - Defensive Midfielder - 12
+ Hong Jeong-Ho - Defensive Midfielder - 20
+ Park Joo-Ho - Defensive Midfielder - 22
+ Kim Bo-Kyung - Midfielder - 7
+ Ha Dae-Sung - Midfielder - 8
+ Koo Ja-Cheol - Midfielder - 13
+ Han Kook-Young - Midfielder - 14
+ Park Jong-Woo - Midfielder - 15
+ Ki Sung-Yueng - Midfielder - 16
+ Lee Chung-Yong - Midfielder - 17
+ Son Heung-Min - Forward - 9
+ Park Chu-Young - Forward - 10
+ Lee Keun-Ho - Forward - 11
+ Kim Shin-Wook - Forward - 18
+ Ji Dong-Won - Forward - 19
+ 
+ 
+ 
+ Country: Spain
+ Iker Casillas - Goal Keeper - 1
+ David de Gea - Goal Keeper - 12
+ Pepe Reina - Goal Keeper - 23
+ Raúl Albiol - Defensive Midfielder - 2
+ Gerard Piqué - Defensive Midfielder - 3
+ Juanfran - Defensive Midfielder - 5
+ Sergio Ramos - Defensive Midfielder - 15
+ Jordi Alba - Defensive Midfielder - 18
+ César Azpilicueta - Defensive Midfielder - 22
+ Javi Martínez - Midfielder - 4
+ Andrés Iniesta - Midfielder - 6
+ Xavi - Midfielder - 8
+ Cesc Fàbregas - Midfielder - 10
+ Juan Mata - Midfielder - 13
+ Xabi Alonso - Midfielder - 14
+ Sergio Busquets - Midfielder - 16
+ Koke - Midfielder - 17
+ Santi Cazorla - Midfielder - 20
+ David Silva - Midfielder - 21
+ David Villa - Forward - 7
+ Fernando Torres - Forward - 9
+ Pedro - Forward - 11
+ Diego Costa - Forward - 19
+ 
+ 
+ 
+ Country: Switzerland
+ Diego Benaglio - Goal Keeper - 1
+ Yann Sommer - Goal Keeper - 12
+ Roman Bürki - Goal Keeper - 21
+ Stephan Lichtsteiner - Defensive Midfielder - 2
+ Reto Ziegler - Defensive Midfielder - 3
+ Philippe Senderos - Defensive Midfielder - 4
+ Steve von Bergen - Defensive Midfielder - 5
+ Michael Lang - Defensive Midfielder - 6
+ Ricardo Rodríguez - Defensive Midfielder - 13
+ Johan Djourou - Defensive Midfielder - 20
+ Fabian Schär - Defensive Midfielder - 22
+ Tranquillo Barnetta - Midfielder - 7
+ Gökhan Inler - Midfielder - 8
+ Granit Xhaka - Midfielder - 10
+ Valon Behrami - Midfielder - 11
+ Valentin Stocker - Midfielder - 14
+ Blerim Džemaili - Midfielder - 15
+ Gelson Fernandes - Midfielder - 16
+ Xherdan Shaqiri - Midfielder - 23
+ Haris Seferović - Forward - 9
+ Mario Gavranović - Forward - 17
+ Admir Mehmedi - Forward - 18
+ Josip Drmić - Forward - 19
+ 
+ 
+ 
+ Country: United States
+ Tim Howard - Goal Keeper - 1
+ Brad Guzan - Goal Keeper - 12
+ Nick Rimando - Goal Keeper - 22
+ DeAndre Yedlin - Defensive Midfielder - 2
+ Omar Gonzalez - Defensive Midfielder - 3
+ Matt Besler - Defensive Midfielder - 5
+ John Brooks - Defensive Midfielder - 6
+ DaMarcus Beasley - Defensive Midfielder - 7
+ Geoff Cameron - Defensive Midfielder - 20
+ Timothy Chandler - Defensive Midfielder - 21
+ Fabian Johnson - Defensive Midfielder - 23
+ Michael Bradley - Midfielder - 4
+ Mikkel Diskerud - Midfielder - 10
+ Alejandro Bedoya - Midfielder - 11
+ Jermaine Jones - Midfielder - 13
+ Brad Davis - Midfielder - 14
+ Kyle Beckerman - Midfielder - 15
+ Julian Green - Midfielder - 16
+ Graham Zusi - Midfielder - 19
+ Clint Dempsey - Forward - 8
+ Aron Jóhannsson - Forward - 9
+ Jozy Altidore - Forward - 17
+ Chris Wondolowski - Forward - 18
+ 
+ 
+ 
+ Country: Uruguay
+ Fernando Muslera - Goal Keeper - 1
+ Rodrigo MuÒoz - Goal Keeper - 12
+ MartÌn Silva - Goal Keeper - 23
+ Diego Lugano - Defensive Midfielder - 2
+ Diego GodÌn - Defensive Midfielder - 3
+ Sebasti·n Coates - Defensive Midfielder - 4
+ Jorge Fucile - Defensive Midfielder - 13
+ Maxi Pereira - Defensive Midfielder - 16
+ JosÈ MarÌa GimÈnez - Defensive Midfielder - 19
+ MartÌn C·ceres - Defensive Midfielder - 22
+ Walter Gargano - Midfielder - 5
+ ¡lvaro Pereira - Midfielder - 6
+ Cristian RodrÌguez - Midfielder - 7
+ Nicol·s Lodeiro - Midfielder - 14
+ Diego PÈrez - Midfielder - 15
+ Egidio ArÈvalo RÌos - Midfielder - 17
+ GastÛn RamÌrez - Midfielder - 18
+ ¡lvaro Gonz·lez - Midfielder - 20
+ Abel Hern·ndez - Forward - 8
+ Luis Su·rez - Forward - 9
+ Diego Forl·n - Forward - 10
+ Christian Stuani - Forward - 11
+ Edinson Cavani - Forward - 21
+ 
+ 
+ 
+ 
+ 
+ 1.	Print all Teams to the screen
+ 2.	Print all Teams to the User Specified file
+ 3.	Sort the Teams by Natural Order (Hint: compareTo)
+ 4.	Sort the by Team Country Name (Hint: Comparator)
+ 5.	Sort each Team's Players by Number (Hint: Player compareTo)
+ 6.	Sort each Team's Players by Position (Hint: Comparator)
+ 7.	Print a entire team and only that team to a user specified file
+ 8.	Print the players for an entire team and only that team to the screen
+ 9.	Quit
+ Choice --> 5
+ 
+ 
+ 1.	Print all Teams to the screen
+ 2.	Print all Teams to the User Specified file
+ 3.	Sort the Teams by Natural Order (Hint: compareTo)
+ 4.	Sort the by Team Country Name (Hint: Comparator)
+ 5.	Sort each Team's Players by Number (Hint: Player compareTo)
+ 6.	Sort each Team's Players by Position (Hint: Comparator)
+ 7.	Print a entire team and only that team to a user specified file
+ 8.	Print the players for an entire team and only that team to the screen
+ 9.	Quit
+ Choice --> 1
+ Country: Algeria
+ Cedric Si Mohamed - Goal Keeper - 1
+ Madjid Bougherra - Defensive Midfielder - 2
+ Faouzi Ghoulam - Defensive Midfielder - 3
+ Essaïd Belkalem - Defensive Midfielder - 4
+ Rafik Halliche - Defensive Midfielder - 5
+ Djamel Mesbah - Defensive Midfielder - 6
+ Carl Medjani - Defensive Midfielder - 7
+ Hassan Yebda - Midfielder - 8
+ Nabil Ghilas - Forward - 9
+ Sofiane Feghouli - Midfielder - 10
+ Yacine Brahimi - Midfielder - 11
+ Medhi Lacen - Midfielder - 12
+ Islam Slimani - Forward - 13
+ Nabil Bentaleb - Midfielder - 14
+ El Arbi Hillel Soudani - Forward - 15
+ Mohamed Zemmamouche - Goal Keeper - 16
+ Liassine Cadamuro-Bentaïba - Defensive Midfielder - 17
+ Abdelmoumene Djabou - Midfielder - 18
+ Saphir Taïder - Midfielder - 19
+ Aissa Mandi - Defensive Midfielder - 20
+ Riyad Mahrez - Midfielder - 21
+ Mehdi Mostefa - Midfielder - 22
+ Rais M'Bolhi - Goal Keeper - 23
+ 
+ 
+ 
+ Country: Australia   
+ Mathew Ryan - Goal Keeper - 1
+ Ivan Franjić - Defensive Midfielder - 2
+ Jason Davidson - Defensive Midfielder - 3
+ Tim Cahill - Forward - 4
+ Mark Milligan - Midfielder - 5
+ Matthew Špiranović - Defensive Midfielder - 6
+ Mathew Leckie - Forward - 7
+ Bailey Wright - Defensive Midfielder - 8
+ Adam Taggart - Forward - 9
+ Ben Halloran - Midfielder - 10
+ Tommy Oar - Midfielder - 11
+ Mitchell Langerak - Goal Keeper - 12
+ Oliver Bozanić - Midfielder - 13
+ James Troisi - Midfielder - 14
+ Mile Jedinak - Midfielder - 15
+ James Holland - Midfielder - 16
+ Matt McKay - Midfielder - 17
+ Eugene Galeković - Goal Keeper - 18
+ Ryan McGowan - Defensive Midfielder - 19
+ Dario Vidošić - Midfielder - 20
+ Massimo Luongo - Midfielder - 21
+ Alex Wilkinson - Defensive Midfielder - 22
+ Mark Bresciano - Midfielder - 23
+ 
+ 
+ 
+ Country: Belgium  
+ Thibaut Courtois - Goal Keeper - 1
+ Toby Alderweireld - Defensive Midfielder - 2
+ Thomas Vermaelen - Defensive Midfielder - 3
+ Vincent Kompany - Defensive Midfielder - 4
+ Jan Vertonghen - Defensive Midfielder - 5
+ Axel Witsel - Midfielder - 6
+ Kevin De Bruyne - Midfielder - 7
+ Marouane Fellaini - Midfielder - 8
+ Romelu Lukaku - Forward - 9
+ Eden Hazard - Midfielder - 10
+ Kevin Mirallas - Midfielder - 11
+ Simon Mignolet - Goal Keeper - 12
+ Sammy Bossut - Goal Keeper - 13
+ Dries Mertens - Forward - 14
+ Daniel Van Buyten - Defensive Midfielder - 15
+ Steven Defour - Midfielder - 16
+ Divock Origi - Forward - 17
+ Nicolas Lombaerts - Defensive Midfielder - 18
+ Mousa Dembélé - Midfielder - 19
+ Adnan Januzaj - Midfielder - 20
+ Anthony Vanden Borre - Defensive Midfielder - 21
+ Nacer Chadli - Midfielder - 22
+ Laurent Ciman - Defensive Midfielder - 23
+ 
+ 
+ 
+ Country: Bosnia and Herzegovina
+ Asmir Begovi - Goal Keeper - 1
+ Avdija Vröajevi - Defensive Midfielder - 2
+ Ermin Biaki - Defensive Midfielder - 3
+ Emir Spahi - Defensive Midfielder - 4
+ Sead Kolaöinac - Defensive Midfielder - 5
+ Ognjen Vranjeö - Defensive Midfielder - 6
+ Muhamed Beöi - Defensive Midfielder - 7
+ Miralem Pjani - Midfielder - 8
+ Vedad Ibiöevi - Forward - 9
+ Zvjezdan Misimovi - Midfielder - 10
+ Edin Dûeko - Forward - 11
+ Jasmin Fejzi - Goal Keeper - 12
+ Mensur Mujdûa - Defensive Midfielder - 13
+ Izet Hajrovi - Midfielder - 14
+ Toni äunji - Defensive Midfielder - 15
+ Senad Luli - Midfielder - 16
+ Senijad Ibrii - Midfielder - 17
+ Haris Medunjanin - Midfielder - 18
+ Edin Viöa - Forward - 19
+ Anel Hadûi - Midfielder - 20
+ Tino-Sven Suöi - Midfielder - 21
+ Asmir Avduki - Goal Keeper - 22
+ Sejad Salihovi - Midfielder - 23
+ 
+ 
+ 
+ Country: Brazil 
+ Jefferson - Goal Keeper - 1
+ Dani Alves - Defensive Midfielder - 2
+ Thiago Silva - Defensive Midfielder - 3
+ David Luiz - Defensive Midfielder - 4
+ Fernandinho - Midfielder - 5
+ Marcelo - Defensive Midfielder - 6
+ Hulk - Forward - 7
+ Paulinho - Midfielder - 8
+ Fred - Forward - 9
+ Neymar - Forward - 10
+ Oscar - Midfielder - 11
+ Júlio César - Goal Keeper - 12
+ Dante - Defensive Midfielder - 13
+ Maxwell - Defensive Midfielder - 14
+ Henrique - Defensive Midfielder - 15
+ Ramires - Midfielder - 16
+ Luiz Gustavo - Midfielder - 17
+ Hernanes - Midfielder - 18
+ Willian - Midfielder - 19
+ Bernard - Forward - 20
+ Jô - Forward - 21
+ Victor - Goal Keeper - 22
+ Maicon - Defensive Midfielder - 23
+ 
+ 
+ 
+ Country: Cameroon
+ Loïc Feudjou - Goal Keeper - 1
+ Benoît Assou-Ekotto - Defensive Midfielder - 2
+ Nicolas N'Koulou - Defensive Midfielder - 3
+ Cédric Djeugoué - Defensive Midfielder - 4
+ Dany Nounkeu - Defensive Midfielder - 5
+ Alex Song - Midfielder - 6
+ Landry N'Guémo - Midfielder - 7
+ Benjamin Moukandjo - Forward - 8
+ Samuel Eto'o - Forward - 9
+ Vincent Aboubakar - Forward - 10
+ Jean Makoun - Midfielder - 11
+ Henri Bedimo - Defensive Midfielder - 12
+ Maxim Choupo-Moting - Forward - 13
+ Aurélien Chedjou - Defensive Midfielder - 14
+ Pierre Webó - Forward - 15
+ Charles Itandje - Goal Keeper - 16
+ Stéphane Mbia - Midfielder - 17
+ Eyong Enoh - Midfielder - 18
+ Fabrice Olinga - Forward - 19
+ Edgar Salli - Midfielder - 20
+ Joël Matip - Midfielder - 21
+ Allan Nyom - Defensive Midfielder - 22
+ Sammy N'Djock - Goal Keeper - 23
+ 
+ 
+ 
+ Country: Chile
+ Claudio Bravo - Goal Keeper - 1
+ Eugenio Mena - Defensive Midfielder - 2
+ Miiko Albornoz - Defensive Midfielder - 3
+ Mauricio Isla - Midfielder - 4
+ Francisco Silva - Midfielder - 5
+ Carlos Carmona - Midfielder - 6
+ Alexis Sánchez - Forward - 7
+ Arturo Vidal - Midfielder - 8
+ Mauricio Pinilla - Forward - 9
+ Jorge Valdívia - Midfielder - 10
+ Eduardo Vargas - Forward - 11
+ Cristopher Toselli - Goal Keeper - 12
+ José Rojas - Defensive Midfielder - 13
+ Fabián Orellana - Midfielder - 14
+ Jean Beausejour - Midfielder - 15
+ Felipe Gutiérrez - Midfielder - 16
+ Gary Medel - Defensive Midfielder - 17
+ Gonzalo Jara - Defensive Midfielder - 18
+ José Pedro Fuenzalida - Midfielder - 19
+ Charles Aránguiz - Midfielder - 20
+ Marcelo Díaz - Midfielder - 21
+ Esteban Paredes - Forward - 22
+ Johnny Herrera - Goal Keeper - 23
+ 
+ 
+ 
+ Country: Colombia
+ David Ospina - Goal Keeper - 1
+ Cristi·n Zapata - Defensive Midfielder - 2
+ Mario Yepes - Defensive Midfielder - 3
+ Santiago Arias - Defensive Midfielder - 4
+ Carlos Carbonero - Midfielder - 5
+ Carlos S·nchez - Midfielder - 6
+ Pablo Armero - Defensive Midfielder - 7
+ Abel Aguilar - Midfielder - 8
+ TeÛfilo GutiÈrrez - Forward - 9
+ James RodrÌguez - Midfielder - 10
+ Juan Guillermo Cuadrado - Midfielder - 11
+ Camilo Vargas - Goal Keeper - 12
+ Fredy GuarÌn - Midfielder - 13
+ VÌctor Ibarbo - Midfielder - 14
+ Alexander MejÌa - Midfielder - 15
+ …der ¡lvarez Balanta - Defensive Midfielder - 16
+ Carlos Bacca - Forward - 17
+ Juan Camilo Z˙Òiga - Defensive Midfielder - 18
+ Adri·n Ramos - Forward - 19
+ Juan Fernando Quintero - Midfielder - 20
+ Jackson MartÌnez - Forward - 21
+ Faryd MondragÛn - Goal Keeper - 22
+ Carlos ValdÈs - Defensive Midfielder - 23
+ 
+ 
+ 
+ Country: Costa Rica   
+ Keylor Navas - Goal Keeper - 1
+ Johnny Acosta - Defensive Midfielder - 2
+ Giancarlo González - Defensive Midfielder - 3
+ Michael Umaña - Defensive Midfielder - 4
+ Celso Borges - Midfielder - 5
+ Óscar Duarte - Defensive Midfielder - 6
+ Christian Bolaños - Midfielder - 7
+ Heiner Mora - Defensive Midfielder - 8
+ Joel Campbell - Forward - 9
+ Bryan Ruiz - Forward - 10
+ Michael Barrantes - Midfielder - 11
+ Waylon Francis - Defensive Midfielder - 12
+ Esteban Granados - Midfielder - 13
+ Randall Brenes - Forward - 14
+ Júnior Díaz - Defensive Midfielder - 15
+ Cristian Gamboa - Defensive Midfielder - 16
+ Yeltsin Tejeda - Midfielder - 17
+ Patrick Pemberton - Goal Keeper - 18
+ Roy Miller - Defensive Midfielder - 19
+ Diego Calvo - Midfielder - 20
+ Marco Ureña - Forward - 21
+ José Miguel Cubero - Midfielder - 22
+ Daniel Cambronero - Goal Keeper - 23
+ 
+ 
+ 
+ Country: Cote d'Ivoire
+ Boubacar Barry - Goal Keeper - 1
+ Ousmane Viera - Defensive Midfielder - 2
+ Arthur Boka - Defensive Midfielder - 3
+ Kolo Touré - Defensive Midfielder - 4
+ Didier Zokora - Defensive Midfielder - 5
+ Mathis Bolly - Forward - 6
+ Jean-Daniel Akpa-Akpro - Defensive Midfielder - 7
+ Salomon Kalou - Forward - 8
+ Cheick Tioté - Midfielder - 9
+ Gervinho - Forward - 10
+ Didier Drogba - Forward - 11
+ Wilfried Bony - Forward - 12
+ Didier Ya Konan - Midfielder - 13
+ Ismaël Diomandé - Midfielder - 14
+ Max Gradel - Forward - 15
+ Sylvain Gbohouo - Goal Keeper - 16
+ Serge Aurier - Defensive Midfielder - 17
+ Constant Djakpa - Defensive Midfielder - 18
+ Yaya Touré - Midfielder - 19
+ Serey Die - Midfielder - 20
+ Giovanni Sio - Forward - 21
+ Sol Bamba - Defensive Midfielder - 22
+ Sayouba Mandé - Goal Keeper - 23
+ 
+ 
+ 
+ Country: Croatia
+ Stipe Pletikosa - Goal Keeper - 1
+ Šime Vrsaljko - Defensive Midfielder - 2
+ Danijel Pranji - Defensive Midfielder - 3
+ Ivan Periši - Midfielder - 4
+ Vedran ?orluka - Defensive Midfielder - 5
+ Dejan Lovren - Defensive Midfielder - 6
+ Ivan Rakiti - Midfielder - 7
+ Ognjen Vukojevi - Midfielder - 8
+ Nikica Jelavi - Forward - 9
+ Luka Modri - Midfielder - 10
+ Darijo Srna - Defensive Midfielder - 11
+ Oliver Zelenika - Goal Keeper - 12
+ Gordon Schildenfeld - Defensive Midfielder - 13
+ Marcelo Brozovi - Midfielder - 14
+ Ivan Molini - Midfielder - 15
+ Ante Rebi - Forward - 16
+ Mario Mandžuki - Forward - 17
+ Ivica Oli - Forward - 18
+ Sammir - Midfielder - 19
+ Mateo Kovaki - Midfielder - 20
+ Domagoj Vida - Defensive Midfielder - 21
+ Eduardo - Forward - 22
+ Danijel Subaši - Goal Keeper - 23
+ 
+ 
+ 
+ Country: Ecuador
+ Máximo Banguera - Goal Keeper - 1
+ Jorge Guagua - Defensive Midfielder - 2
+ Frickson Erazo - Defensive Midfielder - 3
+ Juan Carlos Paredes - Defensive Midfielder - 4
+ Renato Ibarra - Midfielder - 5
+ Christian Noboa - Midfielder - 6
+ Jefferson Montero - Midfielder - 7
+ Édison Méndez - Midfielder - 8
+ Joao Rojas - Midfielder - 9
+ Walter Ayoví - Defensive Midfielder - 10
+ Felipe Caicedo - Forward - 11
+ Adrián Bone - Goal Keeper - 12
+ Enner Valencia - Forward - 13
+ Segundo Castillo - Midfielder - 14
+ Michael Arroyo - Midfielder - 15
+ Antonio Valencia - Midfielder - 16
+ Jaime Ayoví - Forward - 17
+ Óscar Bagüí - Defensive Midfielder - 18
+ Luis Saritama - Midfielder - 19
+ Fidel Martínez - Midfielder - 20
+ Gabriel Achilier - Defensive Midfielder - 21
+ Alexander Domínguez - Goal Keeper - 22
+ Carlos Gruezo - Midfielder - 23
+ 
+ 
+ 
+ Country: England
+ Joe Hart - Goal Keeper - 1
+ Glen Johnson - Defensive Midfielder - 2
+ Leighton Baines - Defensive Midfielder - 3
+ Steven Gerrard - Midfielder - 4
+ Gary Cahill - Defensive Midfielder - 5
+ Phil Jagielka - Defensive Midfielder - 6
+ Jack Wilshere - Midfielder - 7
+ Frank Lampard - Midfielder - 8
+ Daniel Sturridge - Forward - 9
+ Wayne Rooney - Forward - 10
+ Danny Welbeck - Forward - 11
+ Chris Smalling - Defensive Midfielder - 12
+ Ben Foster - Goal Keeper - 13
+ Jordan Henderson - Midfielder - 14
+ Alex Oxlade-Chamberlain - Midfielder - 15
+ Phil Jones - Defensive Midfielder - 16
+ James Milner - Midfielder - 17
+ Rickie Lambert - Forward - 18
+ Raheem Sterling - Midfielder - 19
+ Adam Lallana - Midfielder - 20
+ Ross Barkley - Midfielder - 21
+ Fraser Forster - Goal Keeper - 22
+ Luke Shaw - Defensive Midfielder - 23
+ 
+ 
+ 
+ Country: France
+ Hugo Lloris - Goal Keeper - 1
+ Mathieu Debuchy - Defensive Midfielder - 2
+ Patrice Evra - Defensive Midfielder - 3
+ Raphaël Varane - Defensive Midfielder - 4
+ Mamadou Sakho - Defensive Midfielder - 5
+ Yohan Cabaye - Midfielder - 6
+ Rémy Cabella - Forward - 7
+ Mathieu Valbuena - Midfielder - 8
+ Olivier Giroud - Forward - 9
+ Karim Benzema - Forward - 10
+ Antoine Griezmann - Midfielder - 11
+ Rio Mavuba - Midfielder - 12
+ Eliaquim Mangala - Defensive Midfielder - 13
+ Blaise Matuidi - Midfielder - 14
+ Bacary Sagna - Defensive Midfielder - 15
+ Stéphane Ruffier - Goal Keeper - 16
+ Lucas Digne - Defensive Midfielder - 17
+ Moussa Sissoko - Midfielder - 18
+ Paul Pogba - Midfielder - 19
+ Loïc Rémy - Forward - 20
+ Laurent Koscielny - Defensive Midfielder - 21
+ Morgan Schneiderlin - Midfielder - 22
+ Mickaël Landreau - Goal Keeper - 23
+ 
+ 
+ 
+ Country: Germany
+ Manuel Neuer - Goal Keeper - 1
+ Kevin Großkreutz - Defensive Midfielder - 2
+ Matthias Ginter - Midfielder - 3
+ Benedikt Höwedes - Defensive Midfielder - 4
+ Mats Hummels - Defensive Midfielder - 5
+ Sami Khedira - Midfielder - 6
+ Bastian Schweinsteiger - Midfielder - 7
+ Mesut Özil - Midfielder - 8
+ André Schürrle - Midfielder - 9
+ Lukas Podolski - Forward - 10
+ Miroslav Klose - Forward - 11
+ Ron-Robert Zieler - Goal Keeper - 12
+ Thomas Müller - Midfielder - 13
+ Julian Draxler - Midfielder - 14
+ Erik Durm - Defensive Midfielder - 15
+ Philipp Lahm - Defensive Midfielder - 16
+ Per Mertesacker - Defensive Midfielder - 17
+ Toni Kroos - Midfielder - 18
+ Mario Götze - Midfielder - 19
+ Jérôme Boateng - Defensive Midfielder - 20
+ Marco Reus - Midfielder - 21
+ Roman Weidenfeller - Goal Keeper - 22
+ Christoph Kramer - Midfielder - 23
+ 
+ 
+ 
+ Country: Ghana
+ Steven Adams - Goal Keeper - 1
+ Samuel Inkoom - Defensive Midfielder - 2
+ Asamoah Gyan - Forward - 3
+ Daniel Opare - Defensive Midfielder - 4
+ Michael Essien - Midfielder - 5
+ Afriyie Acquah - Midfielder - 6
+ Christian Atsu - Midfielder - 7
+ Emmanuel Agyemang-Badu - Midfielder - 8
+ Kevin-Prince Boateng - Forward - 9
+ André Ayew - Midfielder - 10
+ Sulley Muntari - Midfielder - 11
+ Adam Kwarasey - Goal Keeper - 12
+ Jordan Ayew - Forward - 13
+ Albert Adomah - Midfielder - 14
+ Rashid Sumaila - Defensive Midfielder - 15
+ Fatau Dauda - Goal Keeper - 16
+ Mohammed Rabiu - Midfielder - 17
+ Majeed Waris - Forward - 18
+ Jonathan Mensah - Defensive Midfielder - 19
+ Kwadwo Asamoah - Midfielder - 20
+ John Boye - Defensive Midfielder - 21
+ Wakaso Mubarak - Midfielder - 22
+ Harrison Afful - Defensive Midfielder - 23
+ 
+ 
+ 
+ Country: Greece
+ Orestis Karnezis - Goal Keeper - 1
+ Giannis Maniatis - Defensive Midfielder - 2
+ Giorgos Tzavellas - Defensive Midfielder - 3
+ Kostas Manolas - Defensive Midfielder - 4
+ Vangelis Moras - Defensive Midfielder - 5
+ Alexandros Tziolis - Midfielder - 6
+ Giorgos Samaras - Forward - 7
+ Panagiotis Kone - Midfielder - 8
+ Kostas Mitroglou - Forward - 9
+ Giorgos Karagounis - Midfielder - 10
+ Loukas Vyntra - Defensive Midfielder - 11
+ Panagiotis Glykos - Goal Keeper - 12
+ Stefanos Kapino - Goal Keeper - 13
+ Dimitris Salpingidis - Forward - 14
+ Vasilis Torosidis - Defensive Midfielder - 15
+ Lazaros Christodoulopoulos - Midfielder - 16
+ Theofanis Gekas - Forward - 17
+ Giannis Fetfatzidis - Midfielder - 18
+ Sokratis Papastathopoulos - Defensive Midfielder - 19
+ José Holebas - Defensive Midfielder - 20
+ Kostas Katsouranis - Midfielder - 21
+ Andreas Samaris - Midfielder - 22
+ Panagiotis Tachtsidis - Midfielder - 23
+ 
+ 
+ 
+ Country: Honduras
+ Luis López - Goal Keeper - 1
+ Osman Chávez - Defensive Midfielder - 2
+ Maynor Figueroa - Defensive Midfielder - 3
+ Juan Pablo Montes - Defensive Midfielder - 4
+ Víctor Bernárdez - Defensive Midfielder - 5
+ Juan Carlos García - Defensive Midfielder - 6
+ Emilio Izaguirre - Defensive Midfielder - 7
+ Wilson Palacios - Midfielder - 8
+ Jerry Palacios - Forward - 9
+ Mario Martínez - Midfielder - 10
+ Jerry Bengtson - Forward - 11
+ Edder Delgado - Midfielder - 12
+ Carlo Costly - Forward - 13
+ Óscar García - Midfielder - 14
+ Roger Espinoza - Midfielder - 15
+ Rony Martínez - Forward - 16
+ Marvin Chávez - Midfielder - 17
+ Noel Valladares - Goal Keeper - 18
+ Luis Garrido - Midfielder - 19
+ Jorge Claros - Midfielder - 20
+ Andy Najar - Midfielder - 21
+ Donis Escober - Goal Keeper - 22
+ Brayan Beckeles - Defensive Midfielder - 23
+ 
+ 
+ 
+ Country: Iran
+ Rahman Ahmadi - Goal Keeper - 1
+ Khosro Heydari - Midfielder - 2
+ Ehsan Hajsafi - Midfielder - 3
+ Jalal Hosseini - Defensive Midfielder - 4
+ Amir Hossein Sadeghi - Defensive Midfielder - 5
+ Javad Nekounam - Midfielder - 6
+ Masoud Shojaei - Midfielder - 7
+ Reza Haghighi - Midfielder - 8
+ Alireza Jahanbakhsh - Forward - 9
+ Karim Ansarifard - Forward - 10
+ Ghasem Haddadifar - Midfielder - 11
+ Alireza Haghighi - Goal Keeper - 12
+ Hossein Mahini - Defensive Midfielder - 13
+ Andranik Teymourian - Midfielder - 14
+ Pejman Montazeri - Defensive Midfielder - 15
+ Reza Ghoochannejhad - Forward - 16
+ Ahmad Alenemeh - Defensive Midfielder - 17
+ Bakhtiar Rahmani - Midfielder - 18
+ Hashem Beikzadeh - Defensive Midfielder - 19
+ Steven Beitashour - Defensive Midfielder - 20
+ Ashkan Dejagah - Midfielder - 21
+ Daniel Davari - Goal Keeper - 22
+ Mehrdad Pouladi - Defensive Midfielder - 23
+ 
+ 
+ 
+ Country: Italy
+ Gianluigi Buffon - Goal Keeper - 1
+ Mattia De Sciglio - Defensive Midfielder - 2
+ Giorgio Chiellini - Defensive Midfielder - 3
+ Matteo Darmian - Defensive Midfielder - 4
+ Thiago Motta - Midfielder - 5
+ Antonio Candreva - Midfielder - 6
+ Ignazio Abate - Defensive Midfielder - 7
+ Claudio Marchisio - Midfielder - 8
+ Mario Balotelli - Forward - 9
+ Antonio Cassano - Forward - 10
+ Alessio Cerci - Forward - 11
+ Salvatore Sirigu - Goal Keeper - 12
+ Mattia Perin - Goal Keeper - 13
+ Alberto Aquilani - Midfielder - 14
+ Andrea Barzagli - Defensive Midfielder - 15
+ Daniele De Rossi - Midfielder - 16
+ Ciro Immobile - Forward - 17
+ Marco Parolo - Midfielder - 18
+ Leonardo Bonucci - Defensive Midfielder - 19
+ Gabriel Paletta - Defensive Midfielder - 20
+ Andrea Pirlo - Midfielder - 21
+ Lorenzo Insigne - Forward - 22
+ Marco Verratti - Midfielder - 23
+ 
+ 
+ 
+ Country: Japan
+ Eiji Kawashima - Goal Keeper - 1
+ Atsuto Uchida - Defensive Midfielder - 2
+ Gatoku Sakai - Defensive Midfielder - 3
+ Keisuke Honda - Midfielder - 4
+ Yuto Nagatomo - Defensive Midfielder - 5
+ Masato Morishige - Defensive Midfielder - 6
+ Yasuhito End - Midfielder - 7
+ Hiroshi Kiyotake - Midfielder - 8
+ Shinji Okazaki - Forward - 9
+ Shinji Kagawa - Midfielder - 10
+ Yoichiro Kakitani - Forward - 11
+ Shusaku Nishikawa - Goal Keeper - 12
+ Yoshito kubo - Forward - 13
+ Toshihiro Aoyama - Midfielder - 14
+ Yasuyuki Konno - Defensive Midfielder - 15
+ Hotaru Yamaguchi - Midfielder - 16
+ Makoto Hasebe - Midfielder - 17
+ Yuya Osako - Forward - 18
+ Masahiko Inoha - Defensive Midfielder - 19
+ Manabu Sait - Forward - 20
+ Hiroki Sakai - Defensive Midfielder - 21
+ Maya Yoshida - Defensive Midfielder - 22
+ Shichi Gonda - Goal Keeper - 23
+ 
+ 
+ 
+ Country: Mexico
+ JosÈ de Jes˙s Corona - Goal Keeper - 1
+ Francisco Javier RodrÌguez - Defensive Midfielder - 2
+ Carlos Salcido - Defensive Midfielder - 3
+ Rafael M·rquez - Defensive Midfielder - 4
+ Diego Reyes - Defensive Midfielder - 5
+ HÈctor Herrera - Midfielder - 6
+ Miguel Lay˙n - Defensive Midfielder - 7
+ Marco Fabi·n - Midfielder - 8
+ Ra˙l JimÈnez - Forward - 9
+ Giovani dos Santos - Forward - 10
+ Alan Pulido - Forward - 11
+ Alfredo Talavera - Goal Keeper - 12
+ Guillermo Ochoa - Goal Keeper - 13
+ Javier Hern·ndez - Forward - 14
+ HÈctor Moreno - Defensive Midfielder - 15
+ Miguel ¡ngel Ponce - Defensive Midfielder - 16
+ Isa·c Brizuela - Midfielder - 17
+ AndrÈs Guardado - Defensive Midfielder - 18
+ Oribe Peralta - Forward - 19
+ Javier Aquino - Midfielder - 20
+ Carlos PeÒa - Midfielder - 21
+ Paul Aguilar - Defensive Midfielder - 22
+ JosÈ Juan V·zquez - Midfielder - 23
+ 
+ 
+ 
+ Country: Netherlands
+ Jasper Cillessen - Goal Keeper - 1
+ Ron Vlaar - Defensive Midfielder - 2
+ Stefan de Vrij - Defensive Midfielder - 3
+ Bruno Martins Indi - Defensive Midfielder - 4
+ Daley Blind - Defensive Midfielder - 5
+ Jonathan de Guzmán - Midfielder - 6
+ Daryl Janmaat - Defensive Midfielder - 7
+ Nigel de Jong - Midfielder - 8
+ Robin van Persie - Forward - 9
+ Wesley Sneijder - Midfielder - 10
+ Arjen Robben - Midfielder - 11
+ Paul Verhaegh - Defensive Midfielder - 12
+ Joël Veltman - Defensive Midfielder - 13
+ Terence Kongolo - Defensive Midfielder - 14
+ Dirk Kuyt - Forward - 15
+ Jordy Clasie - Midfielder - 16
+ Jeremain Lens - Forward - 17
+ Leroy Fer - Midfielder - 18
+ Klaas-Jan Huntelaar - Forward - 19
+ Georginio Wijnaldum - Midfielder - 20
+ Memphis Depay - Midfielder - 21
+ Michel Vorm - Goal Keeper - 22
+ Tim Krul - Goal Keeper - 23
+ 
+ 
+ 
+ Country: Nigeria    
+ Vincent Enyeama - Goal Keeper - 1
+ Joseph Yobo - Defensive Midfielder - 2
+ Uwa Elderson Echiéjilé - Defensive Midfielder - 3
+ Reuben Gabriel - Midfielder - 4
+ Efe Ambrose - Defensive Midfielder - 5
+ Azubuike Egwuekwe - Defensive Midfielder - 6
+ Ahmed Musa - Forward - 7
+ Peter Odemwingie - Forward - 8
+ Emmanuel Emenike - Forward - 9
+ John Obi Mikel - Midfielder - 10
+ Victor Moses - Midfielder - 11
+ Kunle Odunlami - Defensive Midfielder - 12
+ Juwon Oshaniwa - Defensive Midfielder - 13
+ Godfrey Oboabona - Defensive Midfielder - 14
+ Ramon Azeez - Midfielder - 15
+ Austin Ejide - Goal Keeper - 16
+ Ogenyi Onazi - Midfielder - 17
+ Michael Babatunde - Midfielder - 18
+ Uche Nwofor - Forward - 19
+ Michael Uchebo - Forward - 20
+ Chigozie Agbim - Goal Keeper - 21
+ Kenneth Omeruo - Defensive Midfielder - 22
+ Shola Ameobi - Forward - 23
+ 
+ 
+ 
+ Country: Portugal
+ Eduardo - Goal Keeper - 1
+ Bruno Alves - Defensive Midfielder - 2
+ Pepe - Defensive Midfielder - 3
+ Miguel Veloso - Midfielder - 4
+ Fábio Coentrão - Defensive Midfielder - 5
+ William Carvalho - Midfielder - 6
+ Cristiano Ronaldo - Forward - 7
+ João Moutinho - Midfielder - 8
+ Hugo Almeida - Forward - 9
+ Vieirinha - Midfielder - 10
+ Éder - Forward - 11
+ Rui Patrício - Goal Keeper - 12
+ Ricardo Costa - Defensive Midfielder - 13
+ Luís Neto - Defensive Midfielder - 14
+ Rafa Silva - Midfielder - 15
+ Raul Meireles - Midfielder - 16
+ Nani - Midfielder - 17
+ Silvestre Varela - Midfielder - 18
+ André Almeida - Defensive Midfielder - 19
+ Rúben Amorim - Midfielder - 20
+ João Pereira - Defensive Midfielder - 21
+ Beto - Goal Keeper - 22
+ Hélder Postiga - Forward - 23
+ 
+ 
+ 
+ Country: Russia
+ Igor Akinfeev - Goal Keeper - 1
+ Aleksei Kozlov - Defensive Midfielder - 2
+ Georgi Shchennikov - Defensive Midfielder - 3
+ Sergei Ignashevich - Defensive Midfielder - 4
+ Andrei Semyonov - Defensive Midfielder - 5
+ Maksim Kanunnikov - Forward - 6
+ Igor Denisov - Midfielder - 7
+ Denis Glushakov - Midfielder - 8
+ Aleksandr Kokorin - Forward - 9
+ Alan Dzagoev - Midfielder - 10
+ Aleksandr Kerzhakov - Forward - 11
+ Yuri Lodygin - Goal Keeper - 12
+ Vladimir Granat - Defensive Midfielder - 13
+ Vasili Berezutski - Defensive Midfielder - 14
+ Roman Shirokov - Midfielder - 15
+ Sergey Ryzhikov - Goal Keeper - 16
+ Oleg Shatov - Midfielder - 17
+ Yuri Zhirkov - Forward - 18
+ Aleksandr Samedov - Forward - 19
+ Viktor Fayzulin - Midfielder - 20
+ Aleksei Ionov - Forward - 21
+ Andrey Yeshchenko - Defensive Midfielder - 22
+ Dmitri Kombarov - Defensive Midfielder - 23
+ 
+ 
+ 
+ Country: South Korea
+ Jung Sung-Ryong - Goal Keeper - 1
+ Kim Chang-Soo - Defensive Midfielder - 2
+ Yun Suk-Young - Defensive Midfielder - 3
+ Kwak Tae-Hwi - Defensive Midfielder - 4
+ Kim Young-Gwon - Defensive Midfielder - 5
+ Hwang Seok-Ho - Defensive Midfielder - 6
+ Kim Bo-Kyung - Midfielder - 7
+ Ha Dae-Sung - Midfielder - 8
+ Son Heung-Min - Forward - 9
+ Park Chu-Young - Forward - 10
+ Lee Keun-Ho - Forward - 11
+ Lee Yong - Defensive Midfielder - 12
+ Koo Ja-Cheol - Midfielder - 13
+ Han Kook-Young - Midfielder - 14
+ Park Jong-Woo - Midfielder - 15
+ Ki Sung-Yueng - Midfielder - 16
+ Lee Chung-Yong - Midfielder - 17
+ Kim Shin-Wook - Forward - 18
+ Ji Dong-Won - Forward - 19
+ Hong Jeong-Ho - Defensive Midfielder - 20
+ Kim Seung-Gyu - Goal Keeper - 21
+ Park Joo-Ho - Defensive Midfielder - 22
+ Lee Bum-Young - Goal Keeper - 23
+ 
+ 
+ 
+ Country: Spain
+ Iker Casillas - Goal Keeper - 1
+ Raúl Albiol - Defensive Midfielder - 2
+ Gerard Piqué - Defensive Midfielder - 3
+ Javi Martínez - Midfielder - 4
+ Juanfran - Defensive Midfielder - 5
+ Andrés Iniesta - Midfielder - 6
+ David Villa - Forward - 7
+ Xavi - Midfielder - 8
+ Fernando Torres - Forward - 9
+ Cesc Fàbregas - Midfielder - 10
+ Pedro - Forward - 11
+ David de Gea - Goal Keeper - 12
+ Juan Mata - Midfielder - 13
+ Xabi Alonso - Midfielder - 14
+ Sergio Ramos - Defensive Midfielder - 15
+ Sergio Busquets - Midfielder - 16
+ Koke - Midfielder - 17
+ Jordi Alba - Defensive Midfielder - 18
+ Diego Costa - Forward - 19
+ Santi Cazorla - Midfielder - 20
+ David Silva - Midfielder - 21
+ César Azpilicueta - Defensive Midfielder - 22
+ Pepe Reina - Goal Keeper - 23
+ 
+ 
+ 
+ Country: Switzerland
+ Diego Benaglio - Goal Keeper - 1
+ Stephan Lichtsteiner - Defensive Midfielder - 2
+ Reto Ziegler - Defensive Midfielder - 3
+ Philippe Senderos - Defensive Midfielder - 4
+ Steve von Bergen - Defensive Midfielder - 5
+ Michael Lang - Defensive Midfielder - 6
+ Tranquillo Barnetta - Midfielder - 7
+ Gökhan Inler - Midfielder - 8
+ Haris Seferović - Forward - 9
+ Granit Xhaka - Midfielder - 10
+ Valon Behrami - Midfielder - 11
+ Yann Sommer - Goal Keeper - 12
+ Ricardo Rodríguez - Defensive Midfielder - 13
+ Valentin Stocker - Midfielder - 14
+ Blerim Džemaili - Midfielder - 15
+ Gelson Fernandes - Midfielder - 16
+ Mario Gavranović - Forward - 17
+ Admir Mehmedi - Forward - 18
+ Josip Drmić - Forward - 19
+ Johan Djourou - Defensive Midfielder - 20
+ Roman Bürki - Goal Keeper - 21
+ Fabian Schär - Defensive Midfielder - 22
+ Xherdan Shaqiri - Midfielder - 23
+ 
+ 
+ 
+ Country: United States
+ Tim Howard - Goal Keeper - 1
+ DeAndre Yedlin - Defensive Midfielder - 2
+ Omar Gonzalez - Defensive Midfielder - 3
+ Michael Bradley - Midfielder - 4
+ Matt Besler - Defensive Midfielder - 5
+ John Brooks - Defensive Midfielder - 6
+ DaMarcus Beasley - Defensive Midfielder - 7
+ Clint Dempsey - Forward - 8
+ Aron Jóhannsson - Forward - 9
+ Mikkel Diskerud - Midfielder - 10
+ Alejandro Bedoya - Midfielder - 11
+ Brad Guzan - Goal Keeper - 12
+ Jermaine Jones - Midfielder - 13
+ Brad Davis - Midfielder - 14
+ Kyle Beckerman - Midfielder - 15
+ Julian Green - Midfielder - 16
+ Jozy Altidore - Forward - 17
+ Chris Wondolowski - Forward - 18
+ Graham Zusi - Midfielder - 19
+ Geoff Cameron - Defensive Midfielder - 20
+ Timothy Chandler - Defensive Midfielder - 21
+ Nick Rimando - Goal Keeper - 22
+ Fabian Johnson - Defensive Midfielder - 23
+ 
+ 
+ 
+ Country: Uruguay
+ Fernando Muslera - Goal Keeper - 1
+ Diego Lugano - Defensive Midfielder - 2
+ Diego GodÌn - Defensive Midfielder - 3
+ Sebasti·n Coates - Defensive Midfielder - 4
+ Walter Gargano - Midfielder - 5
+ ¡lvaro Pereira - Midfielder - 6
+ Cristian RodrÌguez - Midfielder - 7
+ Abel Hern·ndez - Forward - 8
+ Luis Su·rez - Forward - 9
+ Diego Forl·n - Forward - 10
+ Christian Stuani - Forward - 11
+ Rodrigo MuÒoz - Goal Keeper - 12
+ Jorge Fucile - Defensive Midfielder - 13
+ Nicol·s Lodeiro - Midfielder - 14
+ Diego PÈrez - Midfielder - 15
+ Maxi Pereira - Defensive Midfielder - 16
+ Egidio ArÈvalo RÌos - Midfielder - 17
+ GastÛn RamÌrez - Midfielder - 18
+ JosÈ MarÌa GimÈnez - Defensive Midfielder - 19
+ ¡lvaro Gonz·lez - Midfielder - 20
+ Edinson Cavani - Forward - 21
+ MartÌn C·ceres - Defensive Midfielder - 22
+ MartÌn Silva - Goal Keeper - 23
+ 
+ 
+ 1.	Print all Teams to the screen
+ 2.	Print all Teams to the User Specified file
+ 3.	Sort the Teams by Natural Order (Hint: compareTo)
+ 4.	Sort the by Team Country Name (Hint: Comparator)
+ 5.	Sort each Team's Players by Number (Hint: Player compareTo)
+ 6.	Sort each Team's Players by Position (Hint: Comparator)
+ 7.	Print a entire team and only that team to a user specified file
+ 8.	Print the players for an entire team and only that team to the screen
+ 9.	Quit
+ Choice --> 8
+ Please enter the team 3 letter code usa
+ Tim Howard - Goal Keeper - 1
+ DeAndre Yedlin - Defensive Midfielder - 2
+ Omar Gonzalez - Defensive Midfielder - 3
+ Michael Bradley - Midfielder - 4
+ Matt Besler - Defensive Midfielder - 5
+ John Brooks - Defensive Midfielder - 6
+ DaMarcus Beasley - Defensive Midfielder - 7
+ Clint Dempsey - Forward - 8
+ Aron Jóhannsson - Forward - 9
+ Mikkel Diskerud - Midfielder - 10
+ Alejandro Bedoya - Midfielder - 11
+ Brad Guzan - Goal Keeper - 12
+ Jermaine Jones - Midfielder - 13
+ Brad Davis - Midfielder - 14
+ Kyle Beckerman - Midfielder - 15
+ Julian Green - Midfielder - 16
+ Jozy Altidore - Forward - 17
+ Chris Wondolowski - Forward - 18
+ Graham Zusi - Midfielder - 19
+ Geoff Cameron - Defensive Midfielder - 20
+ Timothy Chandler - Defensive Midfielder - 21
+ Nick Rimando - Goal Keeper - 22
+ Fabian Johnson - Defensive Midfielder - 23
+ 
+ 
+ 1.	Print all Teams to the screen
+ 2.	Print all Teams to the User Specified file
+ 3.	Sort the Teams by Natural Order (Hint: compareTo)
+ 4.	Sort the by Team Country Name (Hint: Comparator)
+ 5.	Sort each Team's Players by Number (Hint: Player compareTo)
+ 6.	Sort each Team's Players by Position (Hint: Comparator)
+ 7.	Print a entire team and only that team to a user specified file
+ 8.	Print the players for an entire team and only that team to the screen
+ 9.	Quit
+ Choice --> 9
+  ----jGRASP: process ended by user.
+ 

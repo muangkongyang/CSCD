@@ -1,0 +1,436 @@
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210Lab8.CSCD210Lab8
+ Please enter the number of elements in the array: 4
+ Enter the value for element #0: 2
+ Enter the value for element #1: 5
+ Enter the value for element #2: 3
+ Enter the value for element #3: 8
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 4
+ Array: [2, 5, 3, 8]
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 1
+ Please enter the value to be added: 10
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 4
+ Array: [2, 5, 3, 8, 10]
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 5
+ Mean of the array: 5.6
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 6
+ median of the array: 5.0
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 7
+ Midpoint of the array: 7.0
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 8
+ Standard Deviation of the array: 3.361547262794322
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 2
+ Enter the value that is to be deleted: 5
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 4
+ Array: [2, 3, 8, 10]
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 3
+ Enter the index element for deletion: 2
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 4
+ Array: [2, 3, 10]
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 9
+ All Done
+ Good Bye
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210Lab8.CSCD210Lab8
+ Please enter the number of elements in the array: 3
+ Enter the value for element #0: 10
+ Enter the value for element #1: -2
+ Enter the value for element #2: 15
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 4
+ Array: [10, -2, 15]
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 5
+ Mean of the array: 7.666666666666667
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 2
+ Enter the value that is to be deleted: 1
+ Value NOT found!
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 4
+ Array: [10, -2, 15]
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 2
+ Enter the value that is to be deleted: 10
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 4
+ Array: [-2, 15]
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 3
+ Enter the index element for deletion: 3
+ Enter the index element for deletion: 2
+ Enter the index element for deletion: 1
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 4
+ Array: [-2]
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 9
+ All Done
+ Good Bye
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210Lab8.CSCD210Lab8
+ Please enter the number of elements in the array: 10
+ Enter the value for element #0: 3
+ Enter the value for element #1: 90
+ Enter the value for element #2: 21
+ Enter the value for element #3: 2
+ Enter the value for element #4: 15
+ Enter the value for element #5: -30
+ Enter the value for element #6: 9
+ Enter the value for element #7: 1
+ Enter the value for element #8: 0
+ Enter the value for element #9: -4
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 4
+ Array: [3, 90, 21, 2, 15, -30, 9, 1, 0, -4]
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 1
+ Please enter the value to be added: 15
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 4
+ Array: [3, 90, 21, 2, 15, -30, 9, 1, 0, -4, 15]
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 5
+ Mean of the array: 11.090909090909092
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 6
+ median of the array: 3.0
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 7
+ Midpoint of the array: 15.0
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 8
+ Standard Deviation of the array: 29.40902768013436
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 3
+ Enter the index element for deletion: 3
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 3
+ Enter the index element for deletion: 5
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 3
+ Enter the index element for deletion: 8
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 4
+ Array: [-30, -4, 0, 2, 3, 15, 15, 21]
+ 1) Add a value to the array
+ 2) Delete a value from the array (by value)
+ 3) Delete a value from the array (by location)
+ 4) Display the array
+ 5) Compute the mean of the array
+ 6) Compute the median of the array
+ 7) Compute the midpoint of the array
+ 8) Compute the standard deviation of the array
+ 9) Quit 
+ 
+ Please enter a choice: 9
+ All Done
+ Good Bye
+ 
+  ----jGRASP: operation complete.
+ 

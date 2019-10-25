@@ -1,0 +1,107 @@
+  ----jGRASP exec: java cscd211Lab2.CSCD211Lab2
+ Please enter the name of the input file input.txt
+ 1) Print the array to the screen (System.out) by calling the printArray method in the ArrayUtils class
+ 2) Sort the array based on the natural order by calling the selectionSort method in ArrayUtils class
+ 3) Sort the array by imposing a total order by calling the compare method in the ManufacturerComparator class
+ 4) Sort the array by imposing a total order by calling the compare method in the ModelComparator class
+ 5) Print the array to a file that is specified by the user after prompting for a filename. This printArray method that resides in the ArrayUtils class uses a PrintStream object to print to the file. The PrintStream object is closed after printing.
+ 6) Quit the program
+ 
+ Please enter a choice: 1
+ 
+ Your Ford F150 is a 8 banger with a 5.8 liter engine.
+ Your Nissan Sentra is a 4 banger with a 2.3 liter engine.
+ Your Toyota Rav 4 is a 6 banger with a 2.8 liter engine.
+ Your Ford Escape is a 6 banger with a 2.8 liter engine.
+ 
+ 1) Print the array to the screen (System.out) by calling the printArray method in the ArrayUtils class
+ 2) Sort the array based on the natural order by calling the selectionSort method in ArrayUtils class
+ 3) Sort the array by imposing a total order by calling the compare method in the ManufacturerComparator class
+ 4) Sort the array by imposing a total order by calling the compare method in the ModelComparator class
+ 5) Print the array to a file that is specified by the user after prompting for a filename. This printArray method that resides in the ArrayUtils class uses a PrintStream object to print to the file. The PrintStream object is closed after printing.
+ 6) Quit the program
+ 
+ Please enter a choice: 2
+ 
+ 1) Print the array to the screen (System.out) by calling the printArray method in the ArrayUtils class
+ 2) Sort the array based on the natural order by calling the selectionSort method in ArrayUtils class
+ 3) Sort the array by imposing a total order by calling the compare method in the ManufacturerComparator class
+ 4) Sort the array by imposing a total order by calling the compare method in the ModelComparator class
+ 5) Print the array to a file that is specified by the user after prompting for a filename. This printArray method that resides in the ArrayUtils class uses a PrintStream object to print to the file. The PrintStream object is closed after printing.
+ 6) Quit the program
+ 
+ Please enter a choice: 1
+ 
+ Your Ford Escape is a 6 banger with a 2.8 liter engine.
+ Your Ford F150 is a 8 banger with a 5.8 liter engine.
+ Your Toyota Rav 4 is a 6 banger with a 2.8 liter engine.
+ Your Nissan Sentra is a 4 banger with a 2.3 liter engine.
+ 
+ 1) Print the array to the screen (System.out) by calling the printArray method in the ArrayUtils class
+ 2) Sort the array based on the natural order by calling the selectionSort method in ArrayUtils class
+ 3) Sort the array by imposing a total order by calling the compare method in the ManufacturerComparator class
+ 4) Sort the array by imposing a total order by calling the compare method in the ModelComparator class
+ 5) Print the array to a file that is specified by the user after prompting for a filename. This printArray method that resides in the ArrayUtils class uses a PrintStream object to print to the file. The PrintStream object is closed after printing.
+ 6) Quit the program
+ 
+ Please enter a choice: 3
+ 
+ 1) Print the array to the screen (System.out) by calling the printArray method in the ArrayUtils class
+ 2) Sort the array based on the natural order by calling the selectionSort method in ArrayUtils class
+ 3) Sort the array by imposing a total order by calling the compare method in the ManufacturerComparator class
+ 4) Sort the array by imposing a total order by calling the compare method in the ModelComparator class
+ 5) Print the array to a file that is specified by the user after prompting for a filename. This printArray method that resides in the ArrayUtils class uses a PrintStream object to print to the file. The PrintStream object is closed after printing.
+ 6) Quit the program
+ 
+ Please enter a choice: 1
+ 
+ Your Ford Escape is a 6 banger with a 2.8 liter engine.
+ Your Ford F150 is a 8 banger with a 5.8 liter engine.
+ Your Nissan Sentra is a 4 banger with a 2.3 liter engine.
+ Your Toyota Rav 4 is a 6 banger with a 2.8 liter engine.
+ 
+ 1) Print the array to the screen (System.out) by calling the printArray method in the ArrayUtils class
+ 2) Sort the array based on the natural order by calling the selectionSort method in ArrayUtils class
+ 3) Sort the array by imposing a total order by calling the compare method in the ManufacturerComparator class
+ 4) Sort the array by imposing a total order by calling the compare method in the ModelComparator class
+ 5) Print the array to a file that is specified by the user after prompting for a filename. This printArray method that resides in the ArrayUtils class uses a PrintStream object to print to the file. The PrintStream object is closed after printing.
+ 6) Quit the program
+ 
+ Please enter a choice: 4
+ 
+ 1) Print the array to the screen (System.out) by calling the printArray method in the ArrayUtils class
+ 2) Sort the array based on the natural order by calling the selectionSort method in ArrayUtils class
+ 3) Sort the array by imposing a total order by calling the compare method in the ManufacturerComparator class
+ 4) Sort the array by imposing a total order by calling the compare method in the ModelComparator class
+ 5) Print the array to a file that is specified by the user after prompting for a filename. This printArray method that resides in the ArrayUtils class uses a PrintStream object to print to the file. The PrintStream object is closed after printing.
+ 6) Quit the program
+ 
+ Please enter a choice: 1
+ 
+ Your Ford Escape is a 6 banger with a 2.8 liter engine.
+ Your Ford F150 is a 8 banger with a 5.8 liter engine.
+ Your Toyota Rav 4 is a 6 banger with a 2.8 liter engine.
+ Your Nissan Sentra is a 4 banger with a 2.3 liter engine.
+ 
+ 1) Print the array to the screen (System.out) by calling the printArray method in the ArrayUtils class
+ 2) Sort the array based on the natural order by calling the selectionSort method in ArrayUtils class
+ 3) Sort the array by imposing a total order by calling the compare method in the ManufacturerComparator class
+ 4) Sort the array by imposing a total order by calling the compare method in the ModelComparator class
+ 5) Print the array to a file that is specified by the user after prompting for a filename. This printArray method that resides in the ArrayUtils class uses a PrintStream object to print to the file. The PrintStream object is closed after printing.
+ 6) Quit the program
+ 
+ Please enter a choice: 5
+ Please enter the name of the output file myOutput
+ 
+ 1) Print the array to the screen (System.out) by calling the printArray method in the ArrayUtils class
+ 2) Sort the array based on the natural order by calling the selectionSort method in ArrayUtils class
+ 3) Sort the array by imposing a total order by calling the compare method in the ManufacturerComparator class
+ 4) Sort the array by imposing a total order by calling the compare method in the ModelComparator class
+ 5) Print the array to a file that is specified by the user after prompting for a filename. This printArray method that resides in the ArrayUtils class uses a PrintStream object to print to the file. The PrintStream object is closed after printing.
+ 6) Quit the program
+ 
+ Please enter a choice: 6
+ 
+ 
+  ----jGRASP: operation complete.
+ 

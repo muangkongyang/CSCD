@@ -1,0 +1,39 @@
+	Testing Foreach Loop
+Name: Muangkong Yang
+SID: 4391
+GPA: 3.5
+
+Name: Steve Harvy
+SID: 3231
+GPA: 3.9
+
+Name: Mike Ackerman
+SID: 5967
+GPA: 4.0
+
+	Testing Regular For Loop
+Name: Muangkong Yang
+SID: 4391
+GPA: 3.5
+
+Name: Steve Harvy
+SID: 3231
+GPA: 3.9
+
+Name: Mike Ackerman
+SID: 5967
+GPA: 4.0
+
+	Testing Iterator Methods
+Name: Muangkong Yang
+SID: 4391
+GPA: 3.5
+
+Name: Steve Harvy
+SID: 3231
+GPA: 3.9
+
+Name: Mike Ackerman
+SID: 5967
+GPA: 4.0
+

@@ -1,0 +1,51 @@
+ 
+  ----jGRASP exec: java cscd210Lab12.CSCD210Lab12
+ Information on this checking accounts:
+ 
+ Account Number: 884116055
+ Account Balance: 100.00
+ 
+ Making a deposit of 300
+ Information on this checking account is 
+ Account Number: 884116055
+ Account Balance: 400.00
+ 
+ Information on this checking account is 
+ Account Number: 510301300
+ Account Balance: 555.66
+ 
+ Making a withdrawal of 132.70
+ Information on this checking account is 
+ Account Number: 510301300
+ Account Balance: 422.96
+ 
+ Making a withdrawal of 750
+ Account Balance: 400.00
+ 
+ Examine accounts
+ Accounts are EXACTLY the same
+ 
+ Information on this checking account is 
+ Account Number: 2001556687
+ AccountNumber: $2000.04
+ 
+ Information on this checking account is 
+ Account Number: 884116055
+ AccountNumber: $400.0
+ 
+ Information on this checking account is 
+ Account Number: 510301300
+ AccountNumber: $422.96
+ 
+ Accounts are NOT the same
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210Lab12.CSCD210Lab12Test
+ Exception in thread "main" java.lang.IllegalArgumentException: bad CheckingAccount params
+ 	at cscd210Classes.CheckingAccount.<init>(CheckingAccount.java:17)
+ 	at cscd210Lab12.CSCD210Lab12Test.main(CSCD210Lab12Test.java:20)
+ 
+  ----jGRASP wedge2: exit code for process is 1.
+  ----jGRASP: operation complete.
+ 

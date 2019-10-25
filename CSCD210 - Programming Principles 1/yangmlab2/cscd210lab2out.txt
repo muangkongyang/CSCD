@@ -1,0 +1,25 @@
+ 
+  ----jGRASP exec: java CSCD210Lab2
+ Please enter your full name: Muangkong Yang
+ Please enter your gender (m/f): m
+ The first letter of your name is: M
+ The last letter of your name is: g
+ Your middle name is:
+ Your name with your last name first is:  Yang, Muangkong
+ Your name with all of the letter m replaced is Muangkong Yang
+ Have a nice day!
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java CSCD210Lab2
+ Please enter your full name: Fifi Daisy Alfrea
+ Please enter your gender (m/f): f
+ The first letter of your name is: F
+ The last letter of your name is: a
+ Your middle name is: Daisy
+ Your name with your last name first is:  Alfrea, Fifi Daisy
+ Your name with all of the letter f replaced is Fi?i Daisy Al?rea
+ Have a nice day!
+ 
+  ----jGRASP: operation complete.
+ 

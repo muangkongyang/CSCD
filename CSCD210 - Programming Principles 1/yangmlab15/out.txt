@@ -1,0 +1,12 @@
+Title: Operating Systems Concepts
+Author(s): Siblerschatz, Gagne, Galvin
+ISBN: 9780470128725
+
+Title: Java Programming
+Author(s): Farrell
+ISBN: 9781285856919
+
+Title: Operating Systems Concepts
+Author(s): Siblerschatz, Galvin, Gagne
+ISBN: 9781119299677
+

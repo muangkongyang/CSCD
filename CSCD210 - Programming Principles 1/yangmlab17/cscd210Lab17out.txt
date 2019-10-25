@@ -1,0 +1,133 @@
+ 
+  ----jGRASP exec: java cscd210Lab17.CSCD210Lab17
+ Ace of Clubs, Two of Clubs, Three of Clubs, Four of Clubs, Five of Clubs, Six of Clubs, Seven of Clubs, Eight of Clubs, Nine of Clubs, Ten of Clubs, Jack of Clubs, Queen of Clubs, King of Clubs, Ace of Diamonds, Two of Diamonds, Three of Diamonds, Four of Diamonds, Five of Diamonds, Six of Diamonds, Seven of Diamonds, Eight of Diamonds, Nine of Diamonds, Ten of Diamonds, Jack of Diamonds, Queen of Diamonds, King of Diamonds, Ace of Spades, Two of Spades, Three of Spades, Four of Spades, Five of Spades, Six of Spades, Seven of Spades, Eight of Spades, Nine of Spades, Ten of Spades, Jack of Spades, Queen of Spades, King of Spades, Ace of Hearts, Two of Hearts, Three of Hearts, Four of Hearts, Five of Hearts, Six of Hearts, Seven of Hearts, Eight of Hearts, Nine of Hearts, Ten of Hearts, Jack of Hearts, Queen of Hearts, King of Hearts
+ Player 1's hand: Five of Diamonds, Eight of Clubs
+ Player 2's hand: Six of Hearts, Nine of Diamonds
+ Player 2 is the winner!
+ Player 1's hand: Jack of Clubs, Three of Diamonds
+ Player 2's hand: Queen of Diamonds, Jack of Hearts
+ Player 2 is the winner!
+ Player 1's hand: Nine of Spades, Two of Diamonds
+ Player 2's hand: Nine of Hearts, King of Diamonds
+ Player 2 is the winner!
+ Player 1's hand: Two of Clubs, Ten of Diamonds
+ Player 2's hand: King of Hearts, Two of Spades
+ Player 2 is the winner!
+ Player 1's hand: Five of Clubs, Four of Spades
+ Player 2's hand: Ten of Clubs, Eight of Hearts
+ Player 2 is the winner!
+ Player 1's hand: Queen of Clubs, Queen of Hearts
+ Player 2's hand: Six of Clubs, Ace of Diamonds
+ Player 1 is the winner!
+ Player 1's hand: Four of Clubs, Four of Hearts
+ Player 2's hand: King of Spades, Six of Spades
+ Player 2 is the winner!
+ Player 1's hand: Eight of Diamonds, Three of Clubs
+ Player 2's hand: Two of Hearts, Jack of Diamonds
+ Player 2 is the winner!
+ Player 1's hand: Three of Spades, Seven of Diamonds
+ Player 2's hand: Seven of Spades, Five of Hearts
+ Player 2 is the winner!
+ Player 1's hand: Ten of Hearts, Ace of Spades
+ Player 2's hand: Eight of Spades, Nine of Clubs
+ Player 2 is the winner!
+ Player 1's hand: Ten of Spades, Three of Hearts
+ Player 2's hand: Six of Diamonds, Ace of Clubs
+ Player 1 is the winner!
+ Player 1's hand: Four of Diamonds, Five of Spades
+ Player 2's hand: Queen of Spades, King of Clubs
+ Player 2 is the winner!
+ Player 1's hand: Jack of Spades, Seven of Hearts
+ Player 2's hand: Ace of Hearts, Seven of Clubs
+ Player 1 is the winner!
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210Lab17.CSCD210Lab17
+ Ace of Clubs, Two of Clubs, Three of Clubs, Four of Clubs, Five of Clubs, Six of Clubs, Seven of Clubs, Eight of Clubs, Nine of Clubs, Ten of Clubs, Jack of Clubs, Queen of Clubs, King of Clubs, Ace of Diamonds, Two of Diamonds, Three of Diamonds, Four of Diamonds, Five of Diamonds, Six of Diamonds, Seven of Diamonds, Eight of Diamonds, Nine of Diamonds, Ten of Diamonds, Jack of Diamonds, Queen of Diamonds, King of Diamonds, Ace of Spades, Two of Spades, Three of Spades, Four of Spades, Five of Spades, Six of Spades, Seven of Spades, Eight of Spades, Nine of Spades, Ten of Spades, Jack of Spades, Queen of Spades, King of Spades, Ace of Hearts, Two of Hearts, Three of Hearts, Four of Hearts, Five of Hearts, Six of Hearts, Seven of Hearts, Eight of Hearts, Nine of Hearts, Ten of Hearts, Jack of Hearts, Queen of Hearts, King of Hearts
+ Player 1's hand: Three of Diamonds, Six of Hearts
+ Player 2's hand: Three of Clubs, Two of Spades
+ Player 1 is the winner!
+ Player 1's hand: Two of Hearts, Three of Spades
+ Player 2's hand: Eight of Diamonds, Ten of Diamonds
+ Player 2 is the winner!
+ Player 1's hand: Seven of Spades, Nine of Diamonds
+ Player 2's hand: Six of Spades, Two of Clubs
+ Player 1 is the winner!
+ Player 1's hand: King of Clubs, Five of Diamonds
+ Player 2's hand: Seven of Hearts, Four of Hearts
+ Player 1 is the winner!
+ Player 1's hand: Five of Hearts, Seven of Clubs
+ Player 2's hand: Eight of Clubs, Ace of Diamonds
+ Player 1 is the winner!
+ Player 1's hand: Six of Diamonds, Four of Diamonds
+ Player 2's hand: King of Hearts, Ten of Spades
+ Player 2 is the winner!
+ Player 1's hand: Ten of Clubs, Four of Clubs
+ Player 2's hand: Nine of Clubs, Eight of Hearts
+ Player 2 is the winner!
+ Player 1's hand: Seven of Diamonds, Two of Diamonds
+ Player 2's hand: Nine of Spades, Five of Clubs
+ Player 2 is the winner!
+ Player 1's hand: Nine of Hearts, Ace of Hearts
+ Player 2's hand: Ace of Spades, King of Diamonds
+ Player 2 is the winner!
+ Player 1's hand: Three of Hearts, Five of Spades
+ Player 2's hand: Queen of Diamonds, Six of Clubs
+ Player 2 is the winner!
+ Player 1's hand: Eight of Spades, Queen of Spades
+ Player 2's hand: Ace of Clubs, Jack of Clubs
+ Player 1 is the winner!
+ Player 1's hand: Ten of Hearts, Jack of Diamonds
+ Player 2's hand: Queen of Clubs, Four of Spades
+ Player 1 is the winner!
+ Player 1's hand: King of Spades, Queen of Hearts
+ Player 2's hand: Jack of Spades, Jack of Hearts
+ Player 1 is the winner!
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210Lab17.CSCD210Lab17
+ Ace of Clubs, Two of Clubs, Three of Clubs, Four of Clubs, Five of Clubs, Six of Clubs, Seven of Clubs, Eight of Clubs, Nine of Clubs, Ten of Clubs, Jack of Clubs, Queen of Clubs, King of Clubs, Ace of Diamonds, Two of Diamonds, Three of Diamonds, Four of Diamonds, Five of Diamonds, Six of Diamonds, Seven of Diamonds, Eight of Diamonds, Nine of Diamonds, Ten of Diamonds, Jack of Diamonds, Queen of Diamonds, King of Diamonds, Ace of Spades, Two of Spades, Three of Spades, Four of Spades, Five of Spades, Six of Spades, Seven of Spades, Eight of Spades, Nine of Spades, Ten of Spades, Jack of Spades, Queen of Spades, King of Spades, Ace of Hearts, Two of Hearts, Three of Hearts, Four of Hearts, Five of Hearts, Six of Hearts, Seven of Hearts, Eight of Hearts, Nine of Hearts, Ten of Hearts, Jack of Hearts, Queen of Hearts, King of Hearts
+ Player 1's hand: Queen of Diamonds, Eight of Diamonds
+ Player 2's hand: Two of Spades, Nine of Clubs
+ Player 1 is the winner!
+ Player 1's hand: Five of Diamonds, Jack of Clubs
+ Player 2's hand: Jack of Diamonds, Three of Clubs
+ Player 1 is the winner!
+ Player 1's hand: Five of Spades, King of Clubs
+ Player 2's hand: King of Spades, Jack of Hearts
+ Player 2 is the winner!
+ Player 1's hand: Ace of Diamonds, Ten of Diamonds
+ Player 2's hand: Five of Clubs, Two of Clubs
+ Player 1 is the winner!
+ Player 1's hand: Six of Diamonds, Queen of Hearts
+ Player 2's hand: Four of Clubs, Four of Spades
+ Player 1 is the winner!
+ Player 1's hand: Seven of Spades, Ace of Clubs
+ Player 2's hand: Seven of Hearts, Nine of Diamonds
+ Player 2 is the winner!
+ Player 1's hand: Four of Diamonds, Seven of Diamonds
+ Player 2's hand: Four of Hearts, Two of Hearts
+ Player 1 is the winner!
+ Player 1's hand: Ace of Hearts, Six of Spades
+ Player 2's hand: Nine of Hearts, Seven of Clubs
+ Player 2 is the winner!
+ Player 1's hand: Six of Clubs, Ten of Clubs
+ Player 2's hand: Five of Hearts, Three of Hearts
+ Player 1 is the winner!
+ Player 1's hand: Queen of Spades, Three of Spades
+ Player 2's hand: Eight of Clubs, Ten of Hearts
+ Player 2 is the winner!
+ Player 1's hand: Eight of Hearts, Eight of Spades
+ Player 2's hand: Ace of Spades, Ten of Spades
+ Player 1 is the winner!
+ Player 1's hand: Two of Diamonds, Jack of Spades
+ Player 2's hand: Three of Diamonds, Six of Hearts
+ Player 1 is the winner!
+ Player 1's hand: Nine of Spades, King of Hearts
+ Player 2's hand: Queen of Clubs, King of Diamonds
+ Player 2 is the winner!
+ 
+  ----jGRASP: operation complete.
+ 

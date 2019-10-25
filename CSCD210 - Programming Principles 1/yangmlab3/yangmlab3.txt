@@ -1,0 +1,52 @@
+ 
+  ----jGRASP exec: java CSCD210Lab3
+ Please enter the winning time (in seconds) of the race: 
+ 234.56
+ Please enter the name of the skier: 
+ Muangkong Yang
+ 
+ Muangkong Yang was traveling at a rate of: 
+ 10.66 meters per second, 
+ 34.97 feet per second, 
+ 38.37 kilometers per hour, 
+ 23.84 miles per hour, 
+ 
+ It would take 2 minute(s) and 31.01 seconds for Muangkong Yang to ski one mile.
+ It would take 8.58 seconds for Muangkong Yang to ski 100 yards.
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java CSCD210Lab3
+ Please enter the winning time (in seconds) of the race: 
+ 149.15
+ Please enter the name of the skier: 
+ Sally
+ 
+ Sally was traveling at a rate of: 
+ 16.76 meters per second, 
+ 54.99 feet per second, 
+ 60.34 kilometers per hour, 
+ 37.49 miles per hour, 
+ 
+ It would take 1 minute(s) and 36.03 seconds for Sally to ski one mile.
+ It would take 5.46 seconds for Sally to ski 100 yards.
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java CSCD210Lab3
+ Please enter the winning time (in seconds) of the race: 
+ 364.8921
+ Please enter the name of the skier: 
+ Jeremiah 
+ 
+ Jeremiah was traveling at a rate of: 
+ 6.85 meters per second, 
+ 22.47 feet per second, 
+ 24.66 kilometers per hour, 
+ 15.32 miles per hour, 
+ 
+ It would take 3 minute(s) and 54.99 seconds for Jeremiah to ski one mile.
+ It would take 13.35 seconds for Jeremiah to ski 100 yards.
+ 
+  ----jGRASP: operation complete.
+ 

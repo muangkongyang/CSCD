@@ -1,0 +1,19 @@
+List before sort
+Circle area is 254.47
+Triangle area is 7.50
+Square area is 9.00
+Rectangle area is 16.00
+Circle area is 28.27
+Triangle area is 6.50
+Rectangle area is 15.00
+Square area is 36.00
+
+List after sort
+Triangle area is 7.50
+Triangle area is 6.50
+Square area is 9.00
+Rectangle area is 16.00
+Rectangle area is 15.00
+Square area is 36.00
+Circle area is 254.47
+Circle area is 28.27

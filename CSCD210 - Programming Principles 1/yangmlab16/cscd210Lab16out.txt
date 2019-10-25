@@ -1,0 +1,49 @@
+ 
+  ----jGRASP exec: java cscd210Lab16.CSCD210Lab16
+ Please enter the name of the file months.txt
+ 
+ 1) Print the array to the screen
+ 2) Sort the array by Natural Order
+ 3) Sort the array by Total Order based on days
+ 4) Quit
+ 
+ Please enter a choice: 1
+ January, February, March, April, May, June, July, August, September, October, November, December, December, January, November, February, October, March, September, April, August, May, July, June
+ 1) Print the array to the screen
+ 2) Sort the array by Natural Order
+ 3) Sort the array by Total Order based on days
+ 4) Quit
+ 
+ Please enter a choice: 2
+ 
+ 1) Print the array to the screen
+ 2) Sort the array by Natural Order
+ 3) Sort the array by Total Order based on days
+ 4) Quit
+ 
+ Please enter a choice: 1
+ January, January, February, February, March, March, April, April, May, May, June, June, July, July, August, August, September, September, October, October, November, November, December, December
+ 1) Print the array to the screen
+ 2) Sort the array by Natural Order
+ 3) Sort the array by Total Order based on days
+ 4) Quit
+ 
+ Please enter a choice: 3
+ 
+ 1) Print the array to the screen
+ 2) Sort the array by Natural Order
+ 3) Sort the array by Total Order based on days
+ 4) Quit
+ 
+ Please enter a choice: 1
+ February, February, April, April, June, June, September, September, November, November, January, January, March, March, May, May, July, July, August, August, October, October, December, December
+ 1) Print the array to the screen
+ 2) Sort the array by Natural Order
+ 3) Sort the array by Total Order based on days
+ 4) Quit
+ 
+ Please enter a choice: 4
+ All Done
+ 
+  ----jGRASP: operation complete.
+ 

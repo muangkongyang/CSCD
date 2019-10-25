@@ -1,0 +1,42 @@
+ Please enter the name of the file input.txt
+ 1) Print the array to the screen
+ 2) Print the array to an output file
+ 3) Read and index and check for equality
+ 4) Quit
+ Please enter choice: 1
+ bass, 1.11 - 1.0
+ brook trout, 3.21 - 1.0
+ cutthroat trout, 5.68 - 1.0
+ ling, 0.25 - 1.0
+ rainbow trout, 1.23 - 1.0
+ 1) Print the array to the screen
+ 2) Print the array to an output file
+ 3) Read and index and check for equality
+ 4) Quit
+ Please enter choice: 2
+ Output File Name: myResults.txt
+ 1) Print the array to the screen
+ 2) Print the array to an output file
+ 3) Read and index and check for equality
+ 4) Quit
+ Please enter choice: 3
+ Enter a number between 0 and 4: 1
+ Enter a number between 0 and 4: 1
+ The two fish are equal in both name and weight
+ 1) Print the array to the screen
+ 2) Print the array to an output file
+ 3) Read and index and check for equality
+ 4) Quit
+ Please enter choice: 3
+ Enter a number between 0 and 4: 2
+ Enter a number between 0 and 4: 4
+ The two fish are not equal
+ 1) Print the array to the screen
+ 2) Print the array to an output file
+ 3) Read and index and check for equality
+ 4) Quit
+ Please enter choice: 4
+ Exiting
+ 
+  ----jGRASP: operation complete.
+ 

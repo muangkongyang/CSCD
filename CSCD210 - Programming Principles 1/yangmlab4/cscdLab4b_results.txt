@@ -1,0 +1,21 @@
+ 
+  ----jGRASP exec: java CSCD210Lab4b
+ Please enter first fruit: 
+ orange
+ Please enter second fruit: 
+ Pineapple
+ Please enter third fruit: 
+ APPLE
+ DEBUG: Fruit1 is orange.
+        Fruit2 is Pineapple.
+        Fruit3 is APPLE.
+ DEBUG: Fruit1 is now orange.
+        Fruit2 is now Pineapple.
+ DEBUG: Fruit2 is now APPLE.
+        Fruit3 is now Pineapple.
+ DEBUG: Fruit1 is now APPLE.
+        Fruit2 is now orange.
+ 
+ Your fruits alphabetically ordered is: APPLE, orange, Pineapple.
+  ----jGRASP: operation complete.
+ 

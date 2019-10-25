@@ -1,0 +1,126 @@
+ Please enter the filename: words.txt
+ a
+ aardvark
+ aback
+ abacus
+ abaft
+ abalone
+ abandon
+ abandoned
+ abase
+ abash
+ abate
+ azure
+ b
+ babble
+ babe
+ babel
+ baboon
+ babushka
+ baby
+ baccalaureate
+ bacchanalia
+ bachelor
+ bacillus
+ back
+ 
+ 
+ 
+ adversativeconjunction
+ anthropomorphologically
+ antidisestablishmentarianism
+ antiestablishmentarians
+ beating around the bush
+ carboxymethylcelluloses
+ chlorotrifluoroethylene
+ cyclotrimethylenetrinitramine
+ deinstitutionalizations
+ dichlorodifluoromethane
+ electroencephalographic
+ electrophotomicrography
+ ethylenediaminetetraacetates
+ floccinaucinihilipilification
+ hexamethylenetetramines
+ hydrochlorofluorocarbon
+ hypobetalipoproteinemia
+ magnetohydrodynamically
+ methylenedioxymethamphetamine
+ microspectrophotometric
+ penny for your thoughts
+ polytetrafluoroethylene
+ thymolsulphonephthalein
+ transubstantiationalist
+ 
+ 
+ 
+ Exception in thread "main" java.lang.RuntimeException: file doesn't exist
+ 	at cscd210Utils.FileUtils.openInputFile(FileUtils.java:59)
+ 	at cscd210Lab10.CSCD210Lab10.main(CSCD210Lab10.java:51)
+ 
+  ----jGRASP wedge2: exit code for process is 1.
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210Lab10.CSCD210Lab10
+ Please enter the filename: woords.txt
+ Please enter the filename: words2.txt
+ adversativeconjunction
+ anthropomorphologically
+ antidisestablishmentarianism
+ antiestablishmentarians
+ beating around the bush
+ carboxymethylcelluloses
+ chlorotrifluoroethylene
+ cyclotrimethylenetrinitramine
+ deinstitutionalizations
+ dichlorodifluoromethane
+ electroencephalographic
+ electrophotomicrography
+ ethylenediaminetetraacetates
+ floccinaucinihilipilification
+ hexamethylenetetramines
+ hydrochlorofluorocarbon
+ hypobetalipoproteinemia
+ magnetohydrodynamically
+ methylenedioxymethamphetamine
+ microspectrophotometric
+ penny for your thoughts
+ polytetrafluoroethylene
+ thymolsulphonephthalein
+ transubstantiationalist
+ 
+ 
+ 
+ adversativeconjunction
+ anthropomorphologically
+ antidisestablishmentarianism
+ antiestablishmentarians
+ beating around the bush
+ carboxymethylcelluloses
+ chlorotrifluoroethylene
+ cyclotrimethylenetrinitramine
+ deinstitutionalizations
+ dichlorodifluoromethane
+ electroencephalographic
+ electrophotomicrography
+ ethylenediaminetetraacetates
+ floccinaucinihilipilification
+ hexamethylenetetramines
+ hydrochlorofluorocarbon
+ hypobetalipoproteinemia
+ magnetohydrodynamically
+ methylenedioxymethamphetamine
+ microspectrophotometric
+ penny for your thoughts
+ polytetrafluoroethylene
+ thymolsulphonephthalein
+ transubstantiationalist
+ 
+ 
+ 
+ Exception in thread "main" java.lang.RuntimeException: file doesn't exist
+ 	at cscd210Utils.FileUtils.openInputFile(FileUtils.java:59)
+ 	at cscd210Lab10.CSCD210Lab10.main(CSCD210Lab10.java:51)
+ 
+  ----jGRASP wedge2: exit code for process is 1.
+  ----jGRASP: operation complete.
+ 

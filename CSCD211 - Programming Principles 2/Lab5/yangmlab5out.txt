@@ -1,0 +1,280 @@
+ 
+  ----jGRASP exec: java cscd211Lab5.CSCD211Lab5
+ Please enter contents for element #0: this
+ Please enter contents for element #1: is
+ Please enter contents for element #2: dummy
+ Please enter contents for element #3: head
+ Please enter contents for element #4: list
+ 1) Print the List
+ 2) Create a BoxCar and append the specified element to the end of this list.
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) clear the list
+ 11) Print the size of the list
+ Please enter a choice: 1
+ [ this, is, dummy, head, list ]
+ 1) Print the List
+ 2) Create a BoxCar and append the specified element to the end of this list.
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) clear the list
+ 11) Print the size of the list
+ Please enter a choice: 2
+ Please enter contents for new BoxCar: node
+ The results of add true
+ 1) Print the List
+ 2) Create a BoxCar and append the specified element to the end of this list.
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) clear the list
+ 11) Print the size of the list
+ Please enter a choice: 1
+ [ this, is, dummy, head, list, node ]
+ 1) Print the List
+ 2) Create a BoxCar and append the specified element to the end of this list.
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) clear the list
+ 11) Print the size of the list
+ Please enter a choice: 3
+ Please enter contents for element #0: for
+ Please enter contents for element #1: the
+ Please enter contents for element #2: example
+ Please enter an index: 2
+ The results of addAll true
+ 1) Print the List
+ 2) Create a BoxCar and append the specified element to the end of this list.
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) clear the list
+ 11) Print the size of the list
+ Please enter a choice: 1
+ [ this, is, for, the, example, dummy, head, list, node ]
+ 1) Print the List
+ 2) Create a BoxCar and append the specified element to the end of this list.
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) clear the list
+ 11) Print the size of the list
+ Please enter a choice: 4
+ Please enter an index: 5
+ The results of get dummy
+ 1) Print the List
+ 2) Create a BoxCar and append the specified element to the end of this list.
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) clear the list
+ 11) Print the size of the list
+ Please enter a choice: 5
+ The results of getLast node
+ 1) Print the List
+ 2) Create a BoxCar and append the specified element to the end of this list.
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) clear the list
+ 11) Print the size of the list
+ Please enter a choice: 6
+ The results of remove this
+ 1) Print the List
+ 2) Create a BoxCar and append the specified element to the end of this list.
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) clear the list
+ 11) Print the size of the list
+ Please enter a choice: 1
+ [ is, for, the, example, dummy, head, list, node ]
+ 1) Print the List
+ 2) Create a BoxCar and append the specified element to the end of this list.
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) clear the list
+ 11) Print the size of the list
+ Please enter a choice: 7
+ Please enter an index: 6
+ The results of remove list
+ 1) Print the List
+ 2) Create a BoxCar and append the specified element to the end of this list.
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) clear the list
+ 11) Print the size of the list
+ Please enter a choice: 1
+ [ is, for, the, example, dummy, head, node ]
+ 1) Print the List
+ 2) Create a BoxCar and append the specified element to the end of this list.
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) clear the list
+ 11) Print the size of the list
+ Please enter a choice: 8
+ The results of removeLast node
+ 1) Print the List
+ 2) Create a BoxCar and append the specified element to the end of this list.
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) clear the list
+ 11) Print the size of the list
+ Please enter a choice: 9
+ is for the example dummy head 
+ 1) Print the List
+ 2) Create a BoxCar and append the specified element to the end of this list.
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) clear the list
+ 11) Print the size of the list
+ Please enter a choice: 11
+ List size: 6
+ 1) Print the List
+ 2) Create a BoxCar and append the specified element to the end of this list.
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) clear the list
+ 11) Print the size of the list
+ Please enter a choice: 10
+ 1) Print the List
+ 2) Create a BoxCar and append the specified element to the end of this list.
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) clear the list
+ 11) Print the size of the list
+ Please enter a choice: 11
+ List size: 0
+ 1) Print the List
+ 2) Create a BoxCar and append the specified element to the end of this list.
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) clear the list
+ 11) Print the size of the list
+ Please enter a choice: 1
+ List is empty.
+ 1) Print the List
+ 2) Create a BoxCar and append the specified element to the end of this list.
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) clear the list
+ 11) Print the size of the list
+ Please enter a choice: 3
+ Please enter contents for element #0: i'm
+ Please enter contents for element #1: finally
+ Please enter contents for element #2: done
+ Please enter an index: 0
+ The results of addAll true
+ 1) Print the List
+ 2) Create a BoxCar and append the specified element to the end of this list.
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) clear the list
+ 11) Print the size of the list
+ Please enter a choice: 1
+ [ i'm, finally, done ]
+ 1) Print the List
+ 2) Create a BoxCar and append the specified element to the end of this list.
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) clear the list
+ 11) Print the size of the list
+ Please enter a choice: 12
+ Program ending
+ 
+  ----jGRASP: operation complete.
+ 

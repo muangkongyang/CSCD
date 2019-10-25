@@ -1,0 +1,22 @@
+ 
+  ----jGRASP exec: java cscd210Classes.CodeTester
+ Rational Number of Array #0 is: 1/1
+ Rational Number of Array #1 is: 1/3
+ Rational Number of Array #2 is: -3/1
+ Rational Number of Array #3 is: -1/4
+ Rational Number of Array #4 is: 1/1
+ 
+    Adding Two Fractions
+ 1/3 + -3/1 = -8/3
+ Recipricol of -8/3 is -3/8
+ 
+    Comparing Two Fractions
+ 1/1 is the same as 1/1
+ 1/1 is greater than -3/1
+ 
+    Equality of Two Fractions
+ 1/1 is equal to 1/1
+ 1/3 is equal to -4/1
+ 
+  ----jGRASP: operation complete.
+ 

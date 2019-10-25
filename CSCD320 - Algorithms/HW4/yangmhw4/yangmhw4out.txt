@@ -1,0 +1,109 @@
+ ----jGRASP exec: java Tester
+ 
+ ------------------------TESTING isWord---------------------------
+    Note: This program will only print out possible words
+    from a sequence of numbers. If there is no actual words
+    in the dictionary.txt file, then nothing will be printed.
+ 
+ Please enter your number sequence from any number from the range [2-9] (e.g. 2456789): 22
+    Making Dictionary Trie...
+    Making HashTable Dictionary ...
+    Completed. Thanks for waiting!
+ 
+    Now checking...
+ For your sequence of 22:
+ aa is a word in the Dictionary Trie!
+ aa is a word in the Hashtable Dictionary!
+ ab is a word in the Dictionary Trie!
+ ab is a word in the Hashtable Dictionary!
+ ac is a word in the Dictionary Trie!
+ ac is a word in the Hashtable Dictionary!
+ ba is a word in the Dictionary Trie!
+ ba is a word in the Hashtable Dictionary!
+ bb is a word in the Dictionary Trie!
+ bb is a word in the Hashtable Dictionary!
+ bc is a word in the Dictionary Trie!
+ bc is a word in the Hashtable Dictionary!
+ ca is a word in the Dictionary Trie!
+ ca is a word in the Hashtable Dictionary!
+ -----------------------------------------------------------------
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Tester
+ 
+ ------------------------TESTING isWord---------------------------
+    Note: This program will only print out possible words
+    from a sequence of numbers. If there is no actual words
+    in the dictionary.txt file, then nothing will be printed.
+ 
+ Please enter your number sequence from any number from the range [2-9] (e.g. 2456789): 22263666368
+    Making Dictionary Trie...
+    Making HashTable Dictionary ...
+    Completed. Thanks for waiting!
+ 
+    Now checking...
+ For your sequence of 22263666368:
+ abandonment is a word in the Dictionary Trie!
+ abandonment is a word in the Hashtable Dictionary!
+ -----------------------------------------------------------------
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Tester
+ 
+ ------------------------TESTING isWord---------------------------
+    Note: This program will only print out possible words
+    from a sequence of numbers. If there is no actual words
+    in the dictionary.txt file, then nothing will be printed.
+ 
+ Please enter your number sequence from any number from the range [2-9] (e.g. 2456789): 7733428466
+    Making Dictionary Trie...
+    Making HashTable Dictionary ...
+    Completed. Thanks for waiting!
+ 
+    Now checking...
+ For your sequence of 7733428466:
+ prediction is a word in the Dictionary Trie!
+ prediction is a word in the Hashtable Dictionary!
+ -----------------------------------------------------------------
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Tester
+ 
+ ------------------------TESTING isWord---------------------------
+    Note: This program will only print out possible words
+    from a sequence of numbers. If there is no actual words
+    in the dictionary.txt file, then nothing will be printed.
+ 
+ Please enter your number sequence from any number from the range [2-9] (e.g. 2456789): 947266746
+    Making Dictionary Trie...
+    Making HashTable Dictionary ...
+    Completed. Thanks for waiting!
+ 
+    Now checking...
+ For your sequence of 947266746:
+ wisconsin is a word in the Dictionary Trie!
+ wisconsin is a word in the Hashtable Dictionary!
+ -----------------------------------------------------------------
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Tester
+ 
+ ------------------------TESTING isWord---------------------------
+    Note: This program will only print out possible words
+    from a sequence of numbers. If there is no actual words
+    in the dictionary.txt file, then nothing will be printed.
+ 
+ Please enter your number sequence from any number from the range [2-9] (e.g. 2456789): 3
+    Making Dictionary Trie...
+    Making HashTable Dictionary ...
+    Completed. Thanks for waiting!
+ 
+    Now checking...
+ For your sequence of 3:
+ -----------------------------------------------------------------
+ 
+  ----jGRASP: operation complete.

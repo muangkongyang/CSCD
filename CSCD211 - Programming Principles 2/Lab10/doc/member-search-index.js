@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"cscd211Recursion","c":"CSCD211Lab10","l":"CSCD211Lab10()"},{"p":"cscd211Recursion","c":"CSCD211Lab10","l":"main(String[])","url":"main-java.lang.String:A-"},{"p":"cscd211Recursion","c":"CSCD211Lab10","l":"square(int)"}]

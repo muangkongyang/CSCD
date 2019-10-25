@@ -1,0 +1,15 @@
+ 
+  ----jGRASP exec: java cscd210Classes.PreConditionsTester
+ Exception in thread "main" java.lang.IllegalArgumentException: bad Rational den
+ 	at cscd210Classes.Rational.<init>(Rational.java:21)
+ 	at cscd210Classes.PreConditionsTester.main(PreConditionsTester.java:13)
+ 
+ Exception in thread "main" java.lang.IllegalArgumentException: bad add param
+ 	at cscd210Classes.Rational.add(Rational.java:36)
+ 	at cscd210Classes.PreConditionsTester.main(PreConditionsTester.java:18)
+ 
+ Exception in thread "main" java.lang.IllegalArgumentException: bad compareTo param
+ 	at cscd210Classes.Rational.compareTo(Rational.java:53)
+ 	at cscd210Classes.PreConditionsTester.main(PreConditionsTester.java:19)
+
+ 

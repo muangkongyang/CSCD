@@ -1,0 +1,18 @@
+Seattle - Seahawks
+Payroll: 23800000
+Taxes: 1618400.0
+PLAYER NAME              SSN          SALARY      POSITION       STATS
+-------------------------------------------------------------------------------
+Russell Wilson 543-34-9965 22000000 Quarterback	Touchdowns 120
+Arthur Copperpants 992-32-1111 1500000 Running Back	Touchdowns 17
+Peter Piper 523-55-9911 300000 Receiver	Touchdowns 8
+
+Seattle - Mariners
+Payroll: 13000000
+Taxes: 884000.0
+PLAYER NAME              SSN          SALARY      POSITION       STATS
+-------------------------------------------------------------------------------
+Joe Schmoe 222-33-9823 3000000 CenterBatting Avg: 0.245
+Martin Olsen 234-23-1895 10000000 PitcherBatting Avg: 0.362
+
+

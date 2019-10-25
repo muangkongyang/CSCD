@@ -1,0 +1,52 @@
+ Please enter your name: Muangkong Yang
+ Please enter your height: 67
+ Please enter your weight: 135
+ Muangkong Yang with a weight of 135.000000 and a height of 67.000000, your bmi is 21.141680 you are normal.
+ 
+ Would you like to calculate another BMI (Yes/No) yes
+ Please enter your name: Stu Steiner
+ Please enter your height: 72
+ Please enter your weight: 237
+ Stu Steiner with a weight of 237.000000 and a height of 72.000000, your bmi is 32.139468 you are obese.
+ 
+ Would you like to calculate another BMI (Yes/No) nope
+ Would you like to calculate another BMI (Yes/No) yess
+ Would you like to calculate another BMI (Yes/No) no
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210Lab7.CSCD210Lab7
+ Please enter your name: Andy O'fallon
+ Please enter your height: 63
+ Please enter your weight: 140
+ Andy O'fallon with a weight of 140.000000 and a height of 63.000000, your bmi is 24.797178 you are normal.
+ 
+ Would you like to calculate another BMI (Yes/No) yes
+ Please enter your name: Keziah Moua
+ Please enter your height: 51
+ Please enter your weight: 62
+ Keziah Moua with a weight of 62.000000 and a height of 51.000000, your bmi is 16.757401 you are underweight.
+ 
+ Would you like to calculate another BMI (Yes/No) no
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210Lab7.CSCD210Lab7
+ Please enter your name: Dazani
+ Please enter your height: 78
+ Please enter your weight: 168
+ Dazani with a weight of 168.000000 and a height of 78.000000, your bmi is 19.412229 you are normal.
+ 
+ Would you like to calculate another BMI (Yes/No) yses
+ Would you like to calculate another BMI (Yes/No) yes
+ Please enter your name: Aqua Fina
+ Please enter your height: 12
+ Please enter your weight: 16
+ Aqua Fina with a weight of 16.000000 and a height of 12.000000, your bmi is 78.111111 you are obese.
+ 
+ Would you like to calculate another BMI (Yes/No) nop
+ Would you like to calculate another BMI (Yes/No) know
+ Would you like to calculate another BMI (Yes/No) no
+ 
+  ----jGRASP: operation complete.
+ 

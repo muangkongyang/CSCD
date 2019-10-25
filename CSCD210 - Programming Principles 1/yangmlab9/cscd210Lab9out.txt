@@ -1,0 +1,111 @@
+ Please enter player name: Muangkong
+ Please enter player name: Edgar
+ Enter the word (at least 5 characters) for player Muangkong: hous
+ Enter the word (at least 5 characters) for player Muangkong: house
+ Edgar's guess: h
+ Word to Guess: h----
+ Guessed Letters [--------------------------]
+ Number of guesses left: 7
+ Edgar's guess: o
+ Word to Guess: -o---
+ Guessed Letters [--------------------------]
+ Number of guesses left: 7
+ Edgar's guess: a
+ Word to Guess: -----
+ Guessed Letters [--------------------------]
+ Number of guesses left: 6
+ Edgar's guess: c
+ Word to Guess: -----
+ Guessed Letters [--------------------------]
+ Number of guesses left: 5
+ Edgar's guess: i
+ Word to Guess: -----
+ Guessed Letters [--------------------------]
+ Number of guesses left: 4
+ Edgar's guess: i
+ Word to Guess: -----
+ Guessed Letters [--------------------------]
+ Number of guesses left: 3
+ Edgar's guess: i
+ Word to Guess: -----
+ Guessed Letters [--------------------------]
+ Number of guesses left: 2
+ Edgar's guess: i
+ Word to Guess: -----
+ Guessed Letters [--------------------------]
+ Number of guesses left: 1
+ Edgar's guess: i
+ Word to Guess: -----
+ Guessed Letters [--------------------------]
+ Number of guesses left: 0
+ NO MORE GUESSES! YOU LOST!Play again? (Yes/No) ye
+ Play again? (Yes/No) yes
+ Please enter player name: Nouka
+ Please enter player name: Jason
+ Enter the word (at least 5 characters) for player Nouka: solitaire
+ Jason's guess: s
+ Word to Guess: s--------
+ Guessed Letters [--------------------------]
+ Number of guesses left: 7
+ Jason's guess: o
+ Word to Guess: -o-------
+ Guessed Letters [--------------------------]
+ Number of guesses left: 7
+ Jason's guess: l
+ Word to Guess: --l------
+ Guessed Letters [--------------------------]
+ Number of guesses left: 7
+ Jason's guess: i
+ Word to Guess: ---i--i--
+ Guessed Letters [--------------------------]
+ Number of guesses left: 7
+ Jason's guess: ta
+ Word to Guess: ----t----
+ Guessed Letters [--------------------------]
+ Number of guesses left: 7
+ Jason's guess: a
+ Word to Guess: -----a---
+ Guessed Letters [--------------------------]
+ Number of guesses left: 7
+ Jason's guess: r
+ Word to Guess: -------r-
+ Guessed Letters [--------------------------]
+ Number of guesses left: 7
+ Jason's guess: e
+ Word to Guess: --------e
+ Guessed Letters [--------------------------]
+ Number of guesses left: 7
+ Jason's guess: f
+ Word to Guess: ---------
+ Guessed Letters [--------------------------]
+ Number of guesses left: 6
+ Jason's guess: f
+ Word to Guess: ---------
+ Guessed Letters [--------------------------]
+ Number of guesses left: 5
+ Jason's guess: f
+ Word to Guess: ---------
+ Guessed Letters [--------------------------]
+ Number of guesses left: 4
+ Jason's guess: f
+ Word to Guess: ---------
+ Guessed Letters [--------------------------]
+ Number of guesses left: 3
+ Jason's guess: f
+ Word to Guess: ---------
+ Guessed Letters [--------------------------]
+ Number of guesses left: 2
+ Jason's guess: n
+ Word to Guess: ---------
+ Guessed Letters [--------------------------]
+ Number of guesses left: 1
+ Jason's guess: m
+ Word to Guess: ---------
+ Guessed Letters [--------------------------]
+ Number of guesses left: 0
+ NO MORE GUESSES! YOU LOST!Play again? (Yes/No) n
+ Play again? (Yes/No) noo
+ Play again? (Yes/No) No
+ 
+  ----jGRASP: operation complete.
+ 

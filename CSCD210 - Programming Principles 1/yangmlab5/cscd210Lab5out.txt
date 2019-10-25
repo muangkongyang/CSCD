@@ -1,0 +1,70 @@
+ 
+  ----jGRASP exec: java CSCD210Lab5
+ Please enter a non-negative integer: 
+ 100
+ 
+ Your current integer: 100
+ 
+ 1. Enter a new number
+ 2. Print the number of odd digits, even digits and zeros in the integer
+ 3. Print if the number is light or heavy
+ 4. Print the prime numbers between 2 and the integer (inclusive)
+ 5. Quit the program 
+ 
+ Please select a choice (1 through 5): 1
+ Please enter a new non-negative integer: 59
+ 
+ Your current integer: 59
+ 
+ 1. Enter a new number
+ 2. Print the number of odd digits, even digits and zeros in the integer
+ 3. Print if the number is light or heavy
+ 4. Print the prime numbers between 2 and the integer (inclusive)
+ 5. Quit the program 
+ 
+ Please select a choice (1 through 5): 2
+ The number of odd digits: 2
+ The number of even digits: 0
+ The number of zeroes: 0
+ 
+ Your current integer: 59
+ 
+ 1. Enter a new number
+ 2. Print the number of odd digits, even digits and zeros in the integer
+ 3. Print if the number is light or heavy
+ 4. Print the prime numbers between 2 and the integer (inclusive)
+ 5. Quit the program 
+ 
+ Please select a choice (1 through 5): 3
+ Please enter a second positive integer: 43
+ Sum of the digits of your number: 14
+ Sum of the digits of second number: 7
+ Your number 59 is heavier than 43.
+ 
+ Your current integer: 59
+ 
+ 1. Enter a new number
+ 2. Print the number of odd digits, even digits and zeros in the integer
+ 3. Print if the number is light or heavy
+ 4. Print the prime numbers between 2 and the integer (inclusive)
+ 5. Quit the program 
+ 
+ Please select a choice (1 through 5): 4
+ 2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 
+ Your current integer: 59
+ 
+ 1. Enter a new number
+ 2. Print the number of odd digits, even digits and zeros in the integer
+ 3. Print if the number is light or heavy
+ 4. Print the prime numbers between 2 and the integer (inclusive)
+ 5. Quit the program 
+ 
+ Please select a choice (1 through 5): 5
+ Are you sure you want to quit? 
+ 1. Yes 
+ 2. No  
+ 1
+ Have a great day!
+ 
+  ----jGRASP: operation complete.
+ 

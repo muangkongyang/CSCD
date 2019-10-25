@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"cscd210Lab16","l":"CSCD210Lab16"},{"p":"cscd210Methods","l":"CSCD210Lab16Methods"},{"p":"cscd210Enums","l":"Month"},{"p":"cscd210Comparators","l":"MonthDayOrdinalComparator"}]

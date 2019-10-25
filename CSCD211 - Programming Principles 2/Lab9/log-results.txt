@@ -1,0 +1,59 @@
+Package Loaded: Package #1:
+		 TrackNum: 123450	  Length: 12, Width: 12	 Package is a 10oz letter.
+
+Package Loaded: Package #2:
+		 TrackNum: 55555551	  Length: 36, Width: 36	 Package is a 99lb box.
+
+Package Loaded: Package #3:
+		 TrackNum: 123890	  Length: 10, Width: 10	 Package is a 20oz letter.
+
+Package Loaded: Package #4:
+		 TrackNum: 656562	  Length: 36, Width: 36	 Package is a 50lb metal crate, contents: animal.
+
+Package Loaded: Package #5:
+		 TrackNum: 324251223	  Length: 5, Width: 5	 Package is a 50lb wooden crate and is fragile.
+
+Package Loaded: Package #6:
+		 TrackNum: 211160	  Length: 1, Width: 1	 Package is a 1oz letter.
+
+Package not loaded. Tracking number not on this truck for package TrackNum: 324566 - weight: 214, length: 33, width: 55, height 77
+
+Package not loaded: Package with TrackNum 123443 - weight: 250  length: 24  width: 24 height: 36 contents: not fragile
+	Package not loaded because it was too heavy.
+
+Package not loaded: Package with TrackNum 2198412 - weight: 424  length: 24  width: 76 height: 13 contents: cargo
+	Package not loaded because it was too big.
+
+Package Loaded: Package #7:
+		 TrackNum: 21498120	  Length: 3, Width: 8	 Package is a 3oz letter.
+
+Package Loaded: Package #8:
+		 TrackNum: 123421	  Length: 7, Width: 6	 Package is a 5lb box.
+
+Package not loaded: Package with TrackNum 209842 - weight: 66  length: 12  width: 12 height: 12 contents: cargo
+	Package not loaded because the truck is full. There is no more room.
+
+Package not loaded: Package with TrackNum 123410 - weight: 11  length: 11  width: 3
+	Package not loaded because  the truck is full. There is no more room.
+
+Departure Date: Mon May 14 09:40:29 PDT 2018
+
+TrackNum: 324251223	  Length: 5, Width: 5	 Package is a 50lb wooden crate and is fragile and has been unloaded.
+
+TrackNum: 656562	  Length: 36, Width: 36	 Package is a 50lb metal crate, contents: animal and has been unloaded.
+
+TrackNum: 123890	  Length: 10, Width: 10	 Package is a 20oz letter and has been unloaded.
+
+TrackNum: 123450	  Length: 12, Width: 12	 Package is a 10oz letter and has been unloaded.
+
+TrackNum: 21498120	  Length: 3, Width: 8	 Package is a 3oz letter and has been unloaded.
+
+TrackNum: 211160	  Length: 1, Width: 1	 Package is a 1oz letter and has been unloaded.
+
+TrackNum: 55555551	  Length: 36, Width: 36	 Package is a 99lb box and has been unloaded.
+
+TrackNum: 123421	  Length: 7, Width: 6	 Package is a 5lb box and has been unloaded.
+
+The total number of packages transported is 8
+The total weight of the packages transported is 206.13lbs
+
