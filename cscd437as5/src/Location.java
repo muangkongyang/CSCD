@@ -1,3 +1,9 @@
+/*******************************
+ * @Muangkong Yang		      *
+ * CSCD437 - Assignment 5    *
+ * Regular Expressions	          *
+ *******************************/
+
 import java.io.File;
 import java.io.IOException;
 import java.util.Hashtable;

@@ -1,3 +1,9 @@
+/*******************************
+ * @Muangkong Yang		      *
+ * CSCD437 - Assignment 5    *
+ * Regular Expressions	          *
+ *******************************/
+
 import java.util.Scanner;
 
 public class Utils 

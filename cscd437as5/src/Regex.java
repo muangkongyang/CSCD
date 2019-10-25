@@ -1,8 +1,8 @@
-/***************************
- * Muangkong Yang		   *
- * CSCD437 - Assignment 5  *
- * Regular Expressions	   *
- ***************************/
+/*******************************
+ * @Muangkong Yang		      *
+ * CSCD437 - Assignment 5    *
+ * Regular Expressions	          *
+ *******************************/
 
 public class Regex 
 {
