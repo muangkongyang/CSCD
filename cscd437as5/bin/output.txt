@@ -1,0 +1,108 @@
+Regular Expressions Menu
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY or MM/DD/YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case character, digit, punctuation mark, and does not have more than 3 consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in "ion"
+q. quit
+C> E> SSN is VALID with expression: 123-45-6789
+C> E> SSN is VALID with expression: 123456789
+C> E> SSN is VALID with expression: 123-45 6789
+C> E> SSN is VALID with expression: 123 45-6789
+C> E> SSN is INVALID with expression: 1234-2-132
+C> E> SSN is INVALID with expression: 12-23-2345
+C> E> SSN is INVALID with expression: 123 3 51245
+C> E> Phone# is VALID with expression: (509)-489-5767
+C> E> Phone# is VALID with expression: 5091234567
+C> E> Phone# is INVALID with expression: 50912345678
+C> E> Phone# is VALID with expression: (509) 438-1568
+C> E> Phone# is VALID with expression: (509) 1234567
+C> E> Phone# is VALID with expression: 509 1234567
+C> E> Phone# is VALID with expression: 509-1234567
+C> E> Phone# is VALID with expression: 509-123-4567
+C> E> Phone# is VALID with expression: (509)123-4596
+C> E> Phone# is INVALID with expression: 509  123 4596
+C> E> Email is VALID with expression: myang@email.ewu.edu
+C> E> Email is VALID with expression: example.num@email.com
+C> E> Email is INVALID with expression: example @email.com
+C> E> Email is VALID with expression: first.last@email.com
+C> E> Email is VALID with expression: last_first@google.com
+C> E> Email is VALID with expression: example-email@email.com
+C> E> Email is INVALID with expression: last.first@email.nett
+C> E> Email is INVALID with expression: name@email
+C> E> Email is INVALID with expression: email@
+C> E> Name is VALID with expression: Yang, Muangkong
+C> E> Name is VALID with expression: Last, First, MI.
+C> E> Name is VALID with expression: Last, First, MI. MU.
+C> E> Name is VALID with expression: Last, First
+C> E> Name is INVALID with expression: Last, First, MI. MO. 
+C> E> Name is INVALID with expression: last, first MI.
+C> E> Name is INVALID with expression: Last, First MI.
+C> E> Name is INVALID with expression: L, F
+C> E> Name is INVALID with expression: Last, First O.
+C> E> Name is VALID with expression: Last, First, O. I. EP. HE. LL. OO.
+C> E> Date is VALID with expression: 09-21-1997
+C> E> Date is VALID with expression: 8-16-2140
+C> E> Date is VALID with expression: 05/3/1503
+C> E> Date is INVALID with expression: 2/2-1836
+C> E> Date is INVALID with expression: 13-3-2020
+C> E> Date is VALID with expression: 2-29-2000
+C> E> Date is INVALID with expression: 1/30/3000
+C> E> HouseAddress is VALID with expression: 537 NW Hamilton St
+C> E> HouseAddress is VALID with expression: 537 Hamilton Street
+C> E> HouseAddress is INVALID with expression: 28135 e central rd
+C> E> HouseAddress is VALID with expression: 23138 Central Blvd
+C> E> HouseAddress is INVALID with expression: 4519
+C> E> HouseAddress is INVALID with expression: S Perry Avenue
+C> E> HouseAddress is INVALID with expression: Streetname Road
+C> E> HouseAddress is VALID with expression: 1923 W KamehamehaIII Rd
+C> E> CityStateZip is VALID with expression: Spokane, WA 99208-3684
+C> E> CityStateZip is VALID with expression: Cheney, WA 99008-4651
+C> E> CityStateZip is VALID with expression: Missoula, MT 12304
+C> E> CityStateZip is INVALID with expression: Wheaton, IL 13243 8993
+C> E> CityStateZip is INVALID with expression: tacoma, WA 12345
+C> E> CityStateZip is INVALID with expression: Sacremento, CAL 42318-9310
+C> E> CityStateZip is INVALID with expression: Pullman, wa 13241
+C> E> CityStateZip is INVALID with expression: Colfax, WA 58103-01382
+C> E> MilitaryTime is VALID with expression: 23:59
+C> E> MilitaryTime is INVALID with expression: 3:45
+C> E> MilitaryTime is VALID with expression: 12:00
+C> E> MilitaryTime is INVALID with expression: 14:60
+C> E> MilitaryTime is VALID with expression: 08:23
+C> E> MilitaryTime is INVALID with expression: 30:21
+C> E> USCurrency is VALID with expression: $0.00
+C> E> USCurrency is VALID with expression: $00.00
+C> E> USCurrency is INVALID with expression: $01.00
+C> E> USCurrency is INVALID with expression: $010.00
+C> E> USCurrency is VALID with expression: $1,234.99
+C> E> USCurrency is VALID with expression: $123,456,789.23
+C> E> USCurrency is INVALID with expression: $023,456.50
+C> E> USCurrency is INVALID with expression: $.87
+C> E> USCurrency is INVALID with expression: 12.99
+C> E> USCurrency is VALID with expression: $54.75
+C> E> URL is VALID with expression: https://my.ewu.edu
+C> E> URL is VALID with expression: http://amazon.com
+C> E> URL is VALID with expression: www.facebook.com
+C> E> URL is INVALID with expression: 123.32.158.com
+C> E> URL is VALID with expression: HTTPS://CANVAS.EWU.EDU
+C> E> URL is VALID with expression: youtube.com
+C> E> Password is INVALID with expression: Password
+C> E> Password is INVALID with expression: AII4theBosZ!
+C> E> Password is INVALID with expression: AttackOrDefend?
+C> E> Password is VALID with expression: Log2of100EquALS?
+C> E> Password is VALID with expression: CAMP@MtH8VEN
+C> E> ION is INVALID with expression: cation
+C> E> ION is VALID with expression: portion
+C> E> ION is VALID with expression: ion
+C> E> ION is INVALID with expression: ionic
+C> E> ION is INVALID with expression: illumination
+C> E> ION is INVALID with expression: zion
+C> E> ION is VALID with expression: celebration
+C> Exiting...

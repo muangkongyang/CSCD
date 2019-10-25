@@ -1,0 +1,187 @@
+a
+123-45-6789
+a
+123456789
+a
+123-45 6789
+a
+123 45-6789
+a
+1234-2-132
+a
+12-23-2345
+a
+123 3 51245
+b
+(509)-489-5767
+b
+5091234567
+b
+50912345678
+b
+(509) 438-1568
+b
+(509) 1234567
+b
+509 1234567
+b
+509-1234567
+b
+509-123-4567
+b
+(509)123-4596
+b
+509  123 4596
+c
+myang@email.ewu.edu
+c
+example.num@email.com
+c
+example @email.com
+c
+first.last@email.com
+c
+last_first@google.com
+c
+example-email@email.com
+c
+last.first@email.nett
+c
+name@email
+c
+email@
+d
+Yang, Muangkong
+d
+Last, First, MI.
+d
+Last, First, MI. MU.
+d
+Last, First
+d
+Last, First, MI. MO. 
+d
+last, first MI.
+d
+Last, First MI.
+d
+L, F
+d
+Last, First O.
+d
+Last, First, O. I. EP. HE. LL. OO.
+e
+09-21-1997
+e
+8-16-2140
+e
+05/3/1503
+e
+2/2-1836
+e
+13-3-2020
+e
+2-29-2000
+e
+1/30/3000
+f
+537 NW Hamilton St
+f
+537 Hamilton Street
+f
+28135 e central rd
+f
+23138 Central Blvd
+f
+4519
+f
+S Perry Avenue
+f
+Streetname Road
+f
+1923 W KamehamehaIII Rd
+g
+Spokane, WA 99208-3684
+g
+Cheney, WA 99008-4651
+g
+Missoula, MT 12304
+g
+Wheaton, IL 13243 8993
+g
+tacoma, WA 12345
+g
+Sacremento, CAL 42318-9310
+g
+Pullman, wa 13241
+g
+Colfax, WA 58103-01382
+h
+23:59
+h
+3:45
+h
+12:00
+h
+14:60
+h
+08:23
+h
+30:21
+i
+$0.00
+i
+$00.00
+i
+$01.00
+i
+$010.00
+i
+$1,234.99
+i
+$123,456,789.23
+i
+$023,456.50
+i
+$.87
+i
+12.99
+i
+$54.75
+j
+https://my.ewu.edu
+j
+http://amazon.com
+j
+www.facebook.com
+j
+123.32.158.com
+j
+HTTPS://CANVAS.EWU.EDU
+j
+youtube.com
+k
+Password
+k
+AII4theBosZ!
+k
+AttackOrDefend?
+k
+Log2of100EquALS?
+k
+CAMP@MtH8VEN
+l
+cation
+l
+portion
+l
+ion
+l
+ionic
+l
+illumination
+l
+zion
+l
+celebration
+q
