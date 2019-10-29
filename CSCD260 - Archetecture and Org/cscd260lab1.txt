@@ -1,0 +1,73 @@
+module tb;
+reg S1, S0, I1, I0;
+ decdr decoder1(S1, S0, I1, I0, o);
+ initial begin
+ #1 $display ("(%b %b %b %b), [%b] -- %d", S1, S0, I1, I0, o, $time);
+ S1=0; S0=0; I1=0; I0=0;
+ #1 $display ("(%b %b %b %b), [%b] -- %d", S1, S0, I1, I0, o, $time);
+ S1=0; S0=0; I1=0; I0=1;
+ #1 $display ("(%b %b %b %b), [%b] -- %d", S1, S0, I1, I0, o, $time);
+ S1=0; S0=0; I1=1; I0=0;
+ #1 $display ("(%b %b %b %b), [%b] -- %d", S1, S0, I1, I0, o, $time);
+ S1=0; S0=0; I1=1; I0=1;
+ #1 $display ("(%b %b %b %b), [%b] -- %d", S1, S0, I1, I0, o, $time);
+ S1=0; S0=1; I1=0; I0=0;
+ #1 $display ("(%b %b %b %b), [%b] -- %d", S1, S0, I1, I0, o, $time);
+ S1=0; S0=1; I1=0; I0=1;
+ #1 $display ("(%b %b %b %b), [%b] -- %d", S1, S0, I1, I0, o, $time);
+ S1=0; S0=1; I1=1; I0=0;
+ #1 $display ("(%b %b %b %b), [%b] -- %d", S1, S0, I1, I0, o, $time);
+ S1=0; S0=1; I1=1; I0=1;
+ #1 $display ("(%b %b %b %b), [%b] -- %d", S1, S0, I1, I0, o, $time);
+ S1=1; S0=0; I1=0; I0=0;
+ #1 $display ("(%b %b %b %b), [%b] -- %d", S1, S0, I1, I0, o, $time);
+ S1=1; S0=0; I1=0; I0=1;
+ #1 $display ("(%b %b %b %b), [%b] -- %d", S1, S0, I1, I0, o, $time);
+ S1=1; S0=0; I1=1; I0=0;
+ #1 $display ("(%b %b %b %b), [%b] -- %d", S1, S0, I1, I0, o, $time);
+ S1=1; S0=0; I1=1; I0=1;
+ #1 $display ("(%b %b %b %b), [%b] -- %d", S1, S0, I1, I0, o, $time);
+ S1=1; S0=1; I1=0; I0=0;
+ #1 $display ("(%b %b %b %b), [%b] -- %d", S1, S0, I1, I0, o, $time);
+ S1=1; S0=1; I1=0; I0=1;
+ #1 $display ("(%b %b %b %b), [%b] -- %d", S1, S0, I1, I0, o, $time);
+ S1=1; S0=1; I1=1; I0=0;
+ #1 $display ("(%b %b %b %b), [%b] -- %d", S1, S0, I1, I0, o, $time);
+ S1=1; S0=1; I1=1; I0=1;
+ #1 $display ("(%b %b %b %b), [%b] -- %d", S1, S0, I1, I0, o, $time);
+
+ $finish;
+ end
+endmodule
+module decdr(s1,s0,i1,i0,o);
+wire a,b,c,d;
+input s1, s0, i1, i0;
+output o;
+
+    assign a = (~i1 & ~i0) & (s1 & s0);
+    assign b = (~i1 & i0) & (s1 | s0);
+    assign c = (i1 & ~i0) & (s1 ^ s0);
+    assign d = (i1 & i0) & (~s1);
+    assign o = a | b | c | d;
+    
+endmodule
+
+/* output
+(x x x x), [x] --                    1
+(0 0 0 0), [0] --                    2
+(0 0 0 1), [0] --                    3
+(0 0 1 0), [0] --                    4
+(0 0 1 1), [1] --                    5
+(0 1 0 0), [0] --                    6
+(0 1 0 1), [1] --                    7
+(0 1 1 0), [1] --                    8
+(0 1 1 1), [1] --                    9
+(1 0 0 0), [0] --                   10
+(1 0 0 1), [1] --                   11
+(1 0 1 0), [1] --                   12
+(1 0 1 1), [0] --                   13
+(1 1 0 0), [1] --                   14
+(1 1 0 1), [1] --                   15
+(1 1 1 0), [0] --                   16
+(1 1 1 1), [0] --                   17
+*/
