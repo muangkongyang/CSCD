@@ -53,10 +53,10 @@ final class HttpRequest implements Runnable
 		DataOutputStream os = new DataOutputStream(socket.getOutputStream());
 		BufferedReader br = new BufferedReader(new InputStreamReader(is)); 
 		
-		String status = "HTTP/1.1 200 OK\r\n";
-		String body = "Hello World!";
+		String get = "HTTP\r\n";
+		String body = "<html><title>Mukong's WebServer</title><body>Hello World!</body><html>";
 
-		os.writeBytes(status);
+		os.writeBytes(get);
 		os.writeBytes("\r\n");
 		os.writeBytes(body);
 		
