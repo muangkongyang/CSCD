@@ -13,6 +13,7 @@
 
 .data
 keyboard_input: .asciiz "Enter number: "
+print_sum: .asciiz "sum = "
 sum: .space 4
 
 .text
@@ -43,12 +44,12 @@ syscall
 addi $t0, $v0, 0	#store input N in t0
 
 # Print number
-addi $v0, $0, 1
-addi $a0, $t0, 0
-syscall
-addi $v0, $0, 11
-addi $a0, $0, 0xD
-syscall
+#addi $v0, $0, 1
+#addi $a0, $t0, 0
+#syscall
+#addi $v0, $0, 11
+#addi $a0, $0, 0xD
+#syscall
 
 addi $sp, $sp, -4	#stack -4
 sw $t0, 0($sp)		#store N in stack
@@ -59,6 +60,9 @@ addi $s0, $0, 0		#sum = 0
 jal rec_add
 addi $sp, $sp, 4
 
+li $v0, 4
+la $a0, print_sum
+syscall
 addi $v0, $0, 1
 addi $a0, $s0, 0
 syscall
