@@ -52,18 +52,19 @@ addi $t0, $v0, 0	#store input N in t0
 #syscall
 
 addi $sp, $sp, -4	#stack -4
-sw $t0, 0($sp)		#store N in stack
+sw $t0, 0($sp)		#store N in stack			
 
-la $s0, sum			
-addi $s0, $0, 0		#sum = 0
+li $v0, 0			#reset 
+jal rec_add			#$v0 now has sum
+addi $sp, $sp, 4	#stack +4
 
-jal rec_add
-addi $sp, $sp, 4
+la $s0, sum			#create sum variable
+move $s0, $v0		#move $v0 to $s0
 
 li $v0, 4
 la $a0, print_sum
 syscall
-addi $v0, $0, 1
+li $v0, 1
 addi $a0, $s0, 0
 syscall
 addi $v0, $0, 11
@@ -93,6 +94,8 @@ syscall
 ###################################
 rec_add:
 	lw $t1, 0($sp)		#load N
+	addi $sp, $sp, -4	#for local variable N
+	
 	beq $t1, 0, return	#if(N==0) return;
 						#else do rest
 	addi $sp, $sp, -4	#stack -4
@@ -105,7 +108,7 @@ rec_add:
 	lw $ra, 0($sp)		#load return address
 	addi $sp, $sp, 4	#stack +4
 	lw $t1, 0($sp)
-	add $s0, $s0, $t1	#sum = sum + N
+	add $v0, $v0, $t1	#v0 = v0 + N
 	return:
 	jr $ra				#return to previous function
 

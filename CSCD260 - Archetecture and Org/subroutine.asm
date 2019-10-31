@@ -29,14 +29,16 @@ print:
 	addi $sp, $sp, -4	##stack -4
 	sw $ra, 0($sp)		#store return address
 	
-	lw $s0, numA		#s0 = 5
 	lw $s1, numB		#s1 = 6
+	lw $s0, numA		#s0 = 5
 						
 	addi $sp, $sp, -8	##stack -8
-	sw $s0, 4($sp)		##### 4($sp) = 5
-	sw $s1, 0($sp)		##### $0($sp) = 6
+						### C convention, store from right to left param
+	sw $s1, 4($sp)		##### 4($sp) = 6
+	sw $s0, 0($sp)		##### 0($sp) = 5
 	
 	jal sbtract			#call sbtract
+						
 	addi $sp, $sp, 8	##stack +8
 	lw $ra, 0($sp)		#load return address
 	addi $sp, $sp, 4	##stack +4
@@ -54,16 +56,22 @@ print:
 	
 	
 sbtract:
-	lw $t1, 4($sp)		#a = 5
-	lw $t2, 0($sp)		#b = 6
+						#load data passed in
+	lw $t1, 0($sp)		#t1 = 5
+	lw $t2, 4($sp)		#t2 = 6
+						#make local parameters
+	addi $sp, $sp, -4	##stack -4
+	sw $t1, 0($sp)		#store t1 on stack (a)
+	addi $sp, $sp, -4	##stack -4
+	sw $t2, 0($sp)		#store t2 on stack (b)
 	
-	addi $sp, $sp, -4	#stack -4
-	sw $t1, 0($sp)		#store on stack
+						##### 6 = 12($sp)
+						##### 5 = 8($sp)
 						##### a = 4($sp) = 5
-	addi $sp, $sp, -4	#stack -4
-	sw $t2, 0($sp)		#store on stack
 						##### b = 0($sp) = 6
-						
+						#load local parameters instead
+	lw $t1, 4($sp)		#t1 = a = 5
+	lw $t2, 0($sp)		#t2 = b = 6
 						#print a and b
 	li $v0, 4
 	la $a0, A
@@ -88,5 +96,5 @@ sbtract:
 	sub $v0, $t1, $t2	#store a - b in v0, MIPS Convention
 						#val returning back
 						
-	addi $sp, $sp, 8	#stack +8
+	addi $sp, $sp, 8	##stack +8
 	jr $ra				#return to print
