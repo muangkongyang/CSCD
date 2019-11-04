@@ -49,7 +49,7 @@ final class FileTransfer implements Runnable
 	
 	private void sendFile() throws IOException
 	{
-		File myFile = new File("C:\\Users\\Goten\\Desktop\\School\\CSCD 330 - Imamura\\filetransfer\\src\\Classical-guitar-music.mp3");
+		File myFile = new File("*PATH HERE*\\filetransfer\\src\\Classical-guitar-music.mp3");
 		byte[] fileBuffer = new byte[(int) myFile.length()];
 		FileInputStream fis = null; 
 		BufferedInputStream bis = null;
