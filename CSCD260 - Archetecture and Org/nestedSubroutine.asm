@@ -26,7 +26,7 @@ n_elem: .word 8
 
 .text
 main:
-	la $a0, arr					#a0 = &arr[0]
+	la $a2, arr					#a0 = &arr[0]
 	la $a1, n_elem				#&a1
 	lw $a1, 0($a1)				#a1 = 8
 	addi $s0, $s0, 0			#i = 0
@@ -34,13 +34,13 @@ main:
 	for:
 		bge $s0, $a1, endFor
 		addi $sp, $sp, -4		##stack -4
-		lw $t0, 0($a0)			#store array[0] on stack
+		lw $t0, 0($a2)			#store array[0] on stack
 		sw $t0, 0($sp)
 		
 		jal func
 		
 		addi $sp, $sp, 4		##stack +4
-		addi $a0, $a0, 4		#next array offset
+		addi $a2, $a2, 4		#next array offset
 		addi $s0, $s0, 1		#i++
 		b for
 	endFor:

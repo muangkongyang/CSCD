@@ -94,10 +94,9 @@ syscall
 ###################################
 rec_add:
 	lw $t1, 0($sp)		#load N
-	addi $sp, $sp, -4	#for local variable N
-	
 	beq $t1, 0, return	#if(N==0) return;
 						#else do rest
+
 	addi $sp, $sp, -4	#stack -4
 	sw $ra, 0($sp)		#store return address
 	addi $sp, $sp, -4	#stack -4
