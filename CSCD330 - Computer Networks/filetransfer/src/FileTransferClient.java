@@ -65,7 +65,7 @@ final class FileTransferCli implements Runnable
 				BufferedOutputStream bos = null;
 				try
 				{
-					fos = new FileOutputStream("testFileTransfer.mp3");
+					fos = new FileOutputStream("src\\testFileTransfer.mp3");
 					bos = new BufferedOutputStream(fos);
 					bytesRead = is.read(fileReader, 0, fileReader.length);
 					System.out.println("Starting to recieve file...");
