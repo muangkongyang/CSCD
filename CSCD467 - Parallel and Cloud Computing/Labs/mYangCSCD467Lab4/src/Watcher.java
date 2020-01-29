@@ -15,7 +15,7 @@ public class Watcher
 	{
 		this.nextTurn = 0;
 		this.numThreads = numThreads;
-		this.message = 0;
+		resetMessage();
 		this.switchMessage = 1;
 	}
 	
@@ -33,15 +33,20 @@ public class Watcher
 			}
 		}
 		
-		this.nextTurn = (this.nextTurn + 1) % this.numThreads;
+		incrementThreadTurn();
 		printMessage(ThreadID);
 		this.notifyAll();
 	}
 	
-	public int getNextTurn()
+	public synchronized int getNextTurn()
 	{
 		return this.nextTurn;
 	}	
+	
+	private synchronized void incrementThreadTurn()
+	{
+		this.nextTurn = (this.nextTurn + 1) % this.numThreads;
+	}
 	
 	private void printMessage(int ThreadID)
 	{
@@ -63,7 +68,12 @@ public class Watcher
 		if(this.message == this.numThreads)
 		{
 			this.switchMessage++;
-			this.message = 0;
+			resetMessage();
 		}
+	}
+	
+	private void resetMessage()
+	{
+		this.message = 0;
 	}
 }
