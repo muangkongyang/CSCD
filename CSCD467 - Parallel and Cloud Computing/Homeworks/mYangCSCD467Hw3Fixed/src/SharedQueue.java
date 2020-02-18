@@ -72,7 +72,7 @@ public class SharedQueue
 		String val;
 		
 		
-		while(this.myQueue.size() == 0 && !searcherIsDone) 
+		while(this.myQueue.size() == 0 && !readerIsDone) 
 		{
 			try 
 			{
